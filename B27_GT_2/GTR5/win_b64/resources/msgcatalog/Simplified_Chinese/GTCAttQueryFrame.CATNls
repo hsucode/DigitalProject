@@ -1,0 +1,20 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Geometry and Attributes";
+// END WIZARD REPLACEMENT ZONE
+
+// 
+// Geometry Tab 
+//
+FrameGeometry.Title = "几何"; 
+FrameGeometry.CheckButtonQueryComponents.Title = "部件";
+FrameGeometry.CheckButtonQueryParts.Title = "零件";
+//FrameGeometry.CheckButtonQueryParts.Title = "零件 事例";
+FrameGeometry.CheckButtonQuerySetsAndBodies.Title = "集 和 形体";
+FrameGeometry.CheckButtonQueryUserFeatures.Title = "用户 特征";
+FrameGeometry.CheckButtonQuerySolids.Title = "实体";
+FrameGeometry.CheckButtonQuerySurfaces.Title = "曲面";
+FrameGeometry.CheckButtonQueryLinesCurves.Title = "线 和 曲线";
+FrameGeometry.CheckButtonQueryPoints.Title = "点";
+
+FrameGeometry.CheckButtonQueryGroups.Title = "组";
+

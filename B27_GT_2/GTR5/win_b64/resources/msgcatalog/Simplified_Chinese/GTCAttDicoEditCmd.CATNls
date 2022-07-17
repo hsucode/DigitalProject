@@ -1,0 +1,23 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+Title = "修改当前字典";
+FrameXML.Title = "将被应用的修改";
+FrameXML.BtnBrowseXML.Title = "...";
+FrameCATfct.Title = "新字典";
+FrameCATfct.BtnBrowseCATfct.Title = "...";
+
+XMLOpenDlg.Title = "选择用于修改当前字典的XML文件";
+CATfctSaveDlg.Title = "将当前字典修改成";
+
+SuccessTitle = "成功";
+SuccessText = "当前字典已经被成功地修改.\n如果所需的修改没有被存储, 请检查\n当前字典和XML文件是否兼容.";
+ConfirmTitle = "确认";
+ConfirmText = "文件已经存在.\n您是否希望替换此CATfct文件?";
+NoPermTitle = "许可被拒绝";
+NoPermText = "没有修改文件的许可.\n请检查文件是否是只读的。";
+InvalidDicoTitle = "无效的字典";
+InvalidDicoText = "请输入有效的字典文件名称和它的全目录径。\n字典文件名称的扩展名是.CATfct。";
+InvalidXMLTitle = "找不到XML文件";
+InvalidXMLText = "请输入有效的XML文件名称和它的全目录径。\nXML文件名称的扩展名是.xml。";
+
+// END WIZARD REPLACEMENT ZONE

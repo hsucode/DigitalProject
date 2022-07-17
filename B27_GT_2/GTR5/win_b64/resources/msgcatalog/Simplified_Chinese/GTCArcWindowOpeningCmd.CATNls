@@ -1,0 +1,7 @@
+
+GTCArcWindowOpeningCmd.StateNoSel.Message = "Specify opening attributes";
+GTCArcWindowOpeningCmd.StateGetArcSupport.Message = "Select a wall";
+GTCArcWindowOpeningCmd.StateGetPlacement.Message = "Select opening placement";
+GTCArcWindowOpeningCmd.StateGetToAngleRef.Message = "Select an element as an alignment reference";
+GTCArcWindowOpeningCmd.StateGetOpeningStyle.Message = "Select an existing style interactively or choose from Catalog Browser";
+GTCArcWindowOpeningCmd.StateSetPoint.Message = "Select set point position";

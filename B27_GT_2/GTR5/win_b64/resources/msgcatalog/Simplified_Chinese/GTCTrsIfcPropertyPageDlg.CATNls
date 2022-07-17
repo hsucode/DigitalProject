@@ -1,0 +1,64 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+ExportFrame.HeaderFrame.Global.Title = "Export Options";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.Accuracy.Title    = "Accuracy";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.Sag.Title    = "Sag:";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.Angle.Title    = "Angle:";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.BldElement.Title  = "Building Element     ";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.Surfacic.Title    = "Surfacic";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.Detailed.Title    = "Detailed";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.ExportStdPropSets.Title = "Export Standard Property Sets And Quantities";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.ExportPackages.Title    = "Export Custom Attribute Packages";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.LblMapFileName.Title    = "Section Names Mapping";
+ExportFrame.IconAndOptionsFrame.OptionsFrame.PushButtonBrowse.Title    = "...";
+
+
+IfcImport.HeaderFrame.Global.Title =" Import Options";
+IfcImport.IconAndOptionsFrame.OptionsFrame.CGRLimit.Title    = "Maximum number of faces per solid: ";
+IfcImport.IconAndOptionsFrame.OptionsFrame.CGRLimit.ShortHelp    = "Otherwise generates CGR ";
+IfcImport.IconAndOptionsFrame.OptionsFrame.ImportPSet.Title    = " Import Property Sets ";
+
+IfcExportLabel.Title = "____________ Export Options ____________";
+IfcExport.HeaderFrame.Global.Title ="Export Options       ";
+Discretization.HeaderFrame.Global.Title ="Accuracy";
+Discretization.IconAndOptionsFrame.OptionsFrame.SagLabel.Title    = " Sag:";
+Discretization.IconAndOptionsFrame.OptionsFrame.AngleLabel.Title    = " Angle:";
+Representation.HeaderFrame.Global.Title ="Representations";
+Representation.IconAndOptionsFrame.OptionsFrame.Triangulated.Title    = "Triangulated";
+Representation.IconAndOptionsFrame.OptionsFrame.BRep.Title    = "Boundary Representation";
+BldElement.HeaderFrame.Global.Title ="Building Elements";
+BldElement.IconAndOptionsFrame.OptionsFrame.Surfacic.Title    = "Surfacic";
+BldElement.IconAndOptionsFrame.OptionsFrame.Detailed.Title    = "Detailed";
+IfcImportLabel.Title = "____________ Import Options ____________";
+
+IfcImport.IconAndOptionsFrame.OptionsFrame.MaxLabel.Title    = " Max number of faces: ";
+IfcImport.IconAndOptionsFrame.OptionsFrame.JoinLimit.Title    = " Generate Surfaces and Solids ";
+IfcImport.IconAndOptionsFrame.OptionsFrame.DisjoinLimit.Title    = " Generate Disjoined Surfaces ";
+
+IfcImport.IconAndOptionsFrame.OptionsFrame.SpacerLabel.Title		 = "        ";
+IfcImport.IconAndOptionsFrame.OptionsFrame.BEPerPartLabel.Title		 = "Maximum number of Building Elements per Part:     ";
+IfcImport.IconAndOptionsFrame.OptionsFrame.OneBEPerPartLabel.Title   = " Single";
+IfcImport.IconAndOptionsFrame.OptionsFrame.nBEPerPartLabel.Title	 = " Multiple";
+IfcImport.IconAndOptionsFrame.OptionsFrame.CatalogLabel.Title	 = "Section Catalog";
+IfcImport.IconAndOptionsFrame.OptionsFrame.LblMapFileName2.Title    = "Section Names Mapping";
+IfcImport.IconAndOptionsFrame.OptionsFrame.PushButtonBrowse2.Title    = "...";
+
+IfcImport.IconAndOptionsFrame.OptionsFrame.ChkBtnCreateSinglePartPerElem.Title = "Create a part for each Building Element.";
+
+IfcImport.IconAndOptionsFrame.OptionsFrame.SpacerRow1.Title = "  ";
+IfcImport.IconAndOptionsFrame.OptionsFrame.SpacerRow2.Title = "  ";
+IfcImport.IconAndOptionsFrame.OptionsFrame.SpacerRow4.Title = "  ";
+IfcImport.IconAndOptionsFrame.OptionsFrame.SpacerRow6.Title = "  ";
+
+
+AdvancedExportOptions.HeaderFrame.Global.Title = "Advanced Export Options";
+AdvancedExportOptions.IconAndOptionsFrame.OptionsFrame.ExportSpaceBoundaries.Title = "Export Level 1 Space Boundaries";
+AdvancedExportOptions.IconAndOptionsFrame.OptionsFrame.ExportGeoSetsAndBodies.Title = "Export Geometric Sets and Bodies ";
+AdvancedExportOptions.IconAndOptionsFrame.OptionsFrame.ExportXRefs.Title = "Export root document and external references";
+AdvancedExportOptions.IconAndOptionsFrame.OptionsFrame.ExportSATFiles.Title = "Export SAT Files  ";
+AdvancedExportOptions.IconAndOptionsFrame.OptionsFrame.SpacerRow12.Title = "  ";
+AdvancedExportOptions.IconAndOptionsFrame.OptionsFrame.LblBrepOptimization.Title = "Brep Optimization :  ";
+AdvancedExportOptions.IconAndOptionsFrame.OptionsFrame.BrepOptNormalsOrientation.Title = "Normals based only on Loop Orientation  ";
+AdvancedExportOptions.IconAndOptionsFrame.OptionsFrame.BrepOptMergeVertices.Title = "Merge Vertices  ";
+AdvancedExportOptions.IconAndOptionsFrame.OptionsFrame.BrepOptDecimateTriangles.Title = "Clean degenerated Triangles  ";
+
+// END WIZARD REPLACEMENT ZONE

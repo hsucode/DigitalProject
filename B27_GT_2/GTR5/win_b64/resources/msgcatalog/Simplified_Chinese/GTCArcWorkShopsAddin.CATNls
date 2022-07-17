@@ -1,0 +1,5 @@
+GTCArcTlb.Title = "建筑组件";
+GTCLayerSetTlb.Title = "图层设置实用程序";
+GTCGridTlb.Title = "建筑轴网";
+GTCStrFEMTlb.Title = "Structure Polygons";
+GTCMultiEditTlb.Title = "Multiple Edits";

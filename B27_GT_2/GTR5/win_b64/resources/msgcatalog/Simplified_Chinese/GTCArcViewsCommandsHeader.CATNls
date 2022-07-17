@@ -1,0 +1,48 @@
+// == Create Sheet == 
+GTCArcViewsCommandsHeader.GTCArcSheetCmdHdr.Title		= "Sheet";
+GTCArcViewsCommandsHeader.GTCArcSheetCmdHdr.Help        = "Create an A&S Sheet";
+GTCArcViewsCommandsHeader.GTCArcSheetCmdHdr.ShortHelp   = "Sheet";
+GTCArcViewsCommandsHeader.GTCArcSheetCmdHdr.LongHelp   = "Create an A&S Sheet";
+
+// == Create Front View == 
+GTCArcViewsCommandsHeader.GTCArcFrontViewCmdHdr.Title		= "Front View";
+GTCArcViewsCommandsHeader.GTCArcFrontViewCmdHdr.Help        = "Create an A&S Front View";
+GTCArcViewsCommandsHeader.GTCArcFrontViewCmdHdr.ShortHelp   = "Front View";
+GTCArcViewsCommandsHeader.GTCArcFrontViewCmdHdr.LongHelp   = "Create an A&S Front View";
+
+// == Create Section View == 
+GTCArcViewsCommandsHeader.GTCArcSectionViewCmdHdr.Title		= "Section View";
+GTCArcViewsCommandsHeader.GTCArcSectionViewCmdHdr.Help        = "Create an A&S Section View";
+GTCArcViewsCommandsHeader.GTCArcSectionViewCmdHdr.ShortHelp   = "Section View";
+GTCArcViewsCommandsHeader.GTCArcSectionViewCmdHdr.LongHelp   = "Create an A&S Section View";
+
+// == Create Cut View == 
+GTCArcViewsCommandsHeader.GTCArcCutViewCmdHdr.Title		= "Section Cut";
+GTCArcViewsCommandsHeader.GTCArcCutViewCmdHdr.Help        = "Create an A&S Section Cut";
+GTCArcViewsCommandsHeader.GTCArcCutViewCmdHdr.ShortHelp   = "Section Cut";
+GTCArcViewsCommandsHeader.GTCArcCutViewCmdHdr.LongHelp   = "Create an A&S Section Cut";
+
+// == Create Grid View == 
+GTCArcViewsCommandsHeader.GTCArcGridViewCmdHdr.Title		= "Grid View";
+GTCArcViewsCommandsHeader.GTCArcGridViewCmdHdr.Help        = "Create an A&S Grid View";
+GTCArcViewsCommandsHeader.GTCArcGridViewCmdHdr.ShortHelp   = "Grid View";
+GTCArcViewsCommandsHeader.GTCArcGridViewCmdHdr.LongHelp   = "Create an A&S Grid View";
+
+// == Create Replica View == 
+GTCArcViewsCommandsHeader.GTCArcReplicaViewCmdHdr.Title		= "View From 2D";
+GTCArcViewsCommandsHeader.GTCArcReplicaViewCmdHdr.Help        = "Create a View From 2D";
+GTCArcViewsCommandsHeader.GTCArcReplicaViewCmdHdr.ShortHelp   = "View From 2D";
+GTCArcViewsCommandsHeader.GTCArcReplicaViewCmdHdr.LongHelp   = "Create a View From 2D";
+
+// == Load Drawing == 
+GTCArcViewsCommandsHeader.GTCLoadDrawingCmdHdr.Title		= "Open Drawing";
+GTCArcViewsCommandsHeader.GTCLoadDrawingCmdHdr.Help        = "Open Associated Drawing";
+GTCArcViewsCommandsHeader.GTCLoadDrawingCmdHdr.ShortHelp   = "Open Drawing";
+GTCArcViewsCommandsHeader.GTCLoadDrawingCmdHdr.LongHelp   = "Open Associated Drawing";
+
+// == Hide Clipping == 
+GTCArcViewsCommandsHeader.GTCHideClippingCmdHdr.Title		= "Remove Section";
+GTCArcViewsCommandsHeader.GTCHideClippingCmdHdr.Help        = "Remove View Sectioning";
+GTCArcViewsCommandsHeader.GTCHideClippingCmdHdr.ShortHelp   = "Remove Section";
+GTCArcViewsCommandsHeader.GTCHideClippingCmdHdr.LongHelp   = "Remove View Sectioning";
+

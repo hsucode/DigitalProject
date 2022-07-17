@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "轴网";
+LabelType.Title  = "类型                                 ";
+LabelName.Title  = "轴网名称                            ";
+RefHeightParmFrame.ElvSeaLevel.Title = "海拔高度 ";
+// END WIZARD REPLACEMENT ZONE

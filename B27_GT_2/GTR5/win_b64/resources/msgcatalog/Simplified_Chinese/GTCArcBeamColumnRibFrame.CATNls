@@ -1,0 +1,18 @@
+// CONSTANT LABELS
+
+frameLimObj.labelLayer.Title = " 层 ";
+frameLimObj.labelOffset.Title = " 偏移 ";
+
+frameResultOutputs.Title = " 输出 ";
+frameResultOutputs.chkBttnStructuralWire.Title = " 结构线 ";
+frameResultOutputs.chkBttnSolid.Title = " 实体 ";
+frameResultOutputs.labelSetPoint.Title = " 结构设定点   ";
+
+frameResultOutputs.labelSegments.Title = "   细分 ";
+
+// VARIABLE LABELS
+
+labelFrom = " 从 ";
+labelTo = " 至 ";
+labelTop = " 顶部 ";
+labelBottom = " 底部 ";

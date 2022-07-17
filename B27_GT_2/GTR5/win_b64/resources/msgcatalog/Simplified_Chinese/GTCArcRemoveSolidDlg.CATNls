@@ -1,0 +1,5 @@
+SelectorListRemove.ShortHelp = "Select building element or solid to remove";
+SelectorListRemove.LongHelp = "Select building element or solid to remove";
+
+SelectorListFrom.ShortHelp = "Select building element or solid within current part to remove from";
+SelectorListFrom.LongHelp = "Select building element or solid within current part to remove from";

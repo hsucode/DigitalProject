@@ -1,0 +1,10 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "重新命名树";
+
+FrameRename.Title = " 重新命名 ";
+FrameRename.LabelReplace.Title = " 代替 ";
+FrameRename.Labelwith.Title = " 用 ";
+FrameAffect.Title = " 影响 ";
+FrameAffect.CheckButtonProducts.Title = " 产品 ";
+FrameAffect.CheckButtonParts.Title = " 零部件 ";
+// END WIZARD REPLACEMENT ZONE

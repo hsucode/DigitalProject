@@ -1,0 +1,3 @@
+GTCArcGridIntersectionCmd.InitialState.Message="Click anywhere in the viewer to exit";
+GTCArcGridIntersectionCmd.StateGetFirst.Message="Select the first Plan Grid";
+GTCArcGridIntersectionCmd.StateGetSecond.Message="Select the second Plan Grid";

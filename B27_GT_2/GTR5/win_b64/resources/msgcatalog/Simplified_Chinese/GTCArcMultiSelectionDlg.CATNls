@@ -1,0 +1,35 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+RdItemSlabs.Title = "Select Slabs";
+RdItemSlabs.ShortHelp = "Select Slabs";
+
+RdItemWalls.Title = "Select Walls";
+RdItemWalls.ShortHelp = "Select Walls";
+
+RdItemBeams.Title = "Select Beams";
+RdItemBeams.ShortHelp = "Select Beams";
+
+RdItemColumns.Title = "Select Columns";
+RdItemColumns.ShortHelp = "Select Columns";
+
+RdItemContxOpenings.Title = "Select Contour Openings";
+RdItemContxOpenings.ShortHelp = "Select Contour Openings";
+
+RdItemContxOpenings.Title = "Select Contextual Openings";
+RdItemContxOpenings.ShortHelp = "Select Contextual Openings";
+
+RdItemDoors.Title = "Select Doors";
+RdItemDoors.ShortHelp = "Select Doors";
+
+RdItemWindowsAtElev.Title = "Select Windows At Elevation";
+RdItemWindowsAtElev.ShortHelp = "Select Windows At Elevation";
+
+RdItemWindows.Title = "Select Windows";
+RdItemWindows.ShortHelp = "Select Windows";
+
+RdItemSpaces.Title = "Select Spaces";
+RdItemSpaces.ShortHelp = "Select Spaces";
+
+RdItemCurrPkg.Title = "Select objects with current package";
+RdItemCurrPkg.ShortHelp = "Select objects with current package";

@@ -1,0 +1,4 @@
+GTCAttChangePositionCmd.SelActState.Message="Select activities";
+GTCAttChangePositionCmd.InitialState.Message=" ";
+GTCAttChangePositionCmd.SelectStartPosState.Message="Select start point or axis";
+GTCAttChangePositionCmd.SelectEndPosState.Message="Select end point or axis";

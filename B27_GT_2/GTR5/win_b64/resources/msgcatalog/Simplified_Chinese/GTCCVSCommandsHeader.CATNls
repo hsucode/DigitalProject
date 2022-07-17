@@ -1,0 +1,30 @@
+// == Cached Status == 
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.Title		= "查询CVS状态...";
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.Help        = "选择一个项目文件以查询它的CVS状态";
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.ShortHelp   = "查询CVS状态";
+GTCCVSCommandsHeader.GTCCVSAttStatusHdr.LongHelp    = "选择一个项目文件以查询它的CVS状态";
+
+
+// == Status == 
+GTCCVSCommandsHeader.GTCCVSStatusHdr.Title		= "查询CVS状态";
+GTCCVSCommandsHeader.GTCCVSStatusHdr.Help        = "选择一个项目以查询它的CVS状态";
+GTCCVSCommandsHeader.GTCCVSStatusHdr.ShortHelp   = "查询CVS状态";
+GTCCVSCommandsHeader.GTCCVSStatusHdr.LongHelp    = "选择一个项目以查询它的CVS状态";
+
+// == Edit == 
+GTCCVSCommandsHeader.GTCCVSEditHdr.Title		= "修改";
+GTCCVSCommandsHeader.GTCCVSEditHdr.Help        = "修改一个物体";
+GTCCVSCommandsHeader.GTCCVSEditHdr.ShortHelp   = "修改一个物体";
+GTCCVSCommandsHeader.GTCCVSEditHdr.LongHelp    = "修改一个物体";
+
+// == Refresh == 
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.Title		= "更新";
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.Help        = "更新CVS状态";
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.ShortHelp   = "更新CVS状态";
+GTCCVSCommandsHeader.GTCCVSRefreshHdr.LongHelp    = "更新CVS状态";
+
+// == Unedit == 
+GTCCVSCommandsHeader.GTCCVSUneditHdr.Title		= "取消编辑";
+GTCCVSCommandsHeader.GTCCVSUneditHdr.Help        = "取消编辑状态";
+GTCCVSCommandsHeader.GTCCVSUneditHdr.ShortHelp   = "取消编辑状态";
+GTCCVSCommandsHeader.GTCCVSUneditHdr.LongHelp    = "取消编辑状态";

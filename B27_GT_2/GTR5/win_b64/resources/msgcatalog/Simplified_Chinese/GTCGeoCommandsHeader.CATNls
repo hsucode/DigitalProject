@@ -1,0 +1,10 @@
+
+// == Developable Surface Cmd ==
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.Title		= "可展曲面...";
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.Help		= "生成可展曲面";
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.LongHelp	= "基于两个曲线生成可展曲面";
+GTCGeoCommandsHeader.GTCGeoDevelopableSurfaceHdr.ShortHelp	= "可展曲面";
+
+
+// == general geometry UI : no selection ==
+GTCGeoNoSelection = "无选择";

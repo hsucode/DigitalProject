@@ -1,0 +1,2 @@
+GTCAttRemovePackageCmd.initialState.Message="选择一个对象和移除它的包装";
+//GTCAttRemovePackageCmd.initialState.Message="Select an object to remove current package";

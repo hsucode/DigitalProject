@@ -1,0 +1,12 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Temporary Position";
+LabelDeltaX.Title = "Delta X";
+LabelDeltaY.Title = "Delta Y";
+LabelDeltaZ.Title = "Delta Z";
+LabelAzimuth.Title = "Azimuth";
+LabelElevation.Title = "Elevation";
+LabelTilt.Title = "Tilt";
+// END WIZARD REPLACEMENT ZONE
+FrmBtn.btnSelect3D.Title = "Select From 3D";
+FrmBtn.btnPreview.Title = "  Preview  ";
+FrmBtn.btnReset.Title = "  Reset  ";

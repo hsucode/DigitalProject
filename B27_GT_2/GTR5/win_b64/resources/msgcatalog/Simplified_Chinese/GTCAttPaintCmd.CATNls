@@ -1,0 +1,3 @@
+GTCAttPaintCmd.ObjFromState.Message="选择一个复制属性的对象来源";
+GTCAttPaintCmd.ObjToState.Message="选择一个复制属性的目的对象";
+GTCAttPaintCmd.ConfirmState.Message="确认或取消";

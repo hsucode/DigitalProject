@@ -1,0 +1,25 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+//ContentFrame.radioButtonFrame.SingleValueID.Title = "单一值";
+//ContentFrame.radioButtonFrame.RangeID.Title = "范围";
+
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "数值";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "颜色";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "隐藏   ";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "选择";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.UnsetID.Text = "未设置的";
+
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "起始值";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "终止值";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.UnsetID.Title = "未设置的";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "颜色";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "隐藏   ";
+//ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "选择";
+
+//ClearApplyFrame.ClearID.Title = "清除";
+//ClearApplyFrame.ApplyID.Title = "应用";
+
+//unset = "<取消设置>";
+
+// END WIZARD REPLACEMENT ZONE

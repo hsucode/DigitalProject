@@ -1,0 +1,22 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "SDNF 卸载";
+FrameFile.Title = "文件";
+FrameFile.PushButtonBrowse.Title = "...";
+FrameFile.LabelFileName.Title = "名称";
+FrameFile.LabelUnits.Title = "单位";
+FrameProject.Title = "项目";
+FrameProject.LabelCompanyName.Title = "公司名称";
+FrameProject.LabelProjectName.Title = "项目名称";
+FrameProject.LabelProjectModel.Title = "项目模型";
+FrameProject.LabelProjectDesignation.Title = "项目指定";
+// END WIZARD REPLACEMENT ZONE
+Unit0="米";
+Unit1="米";
+Unit2="厘米";
+Unit3="厘米";
+Unit4="毫米";
+Unit5="毫米";
+Unit6="英尺";
+Unit7="英尺";
+Unit8="英寸";
+Unit9="英寸";

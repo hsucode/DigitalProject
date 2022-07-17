@@ -1,0 +1,134 @@
+
+
+ARCERR_UnspecifiedError.Diagnostic = "Unspecified error.";
+ARCERR_MethodNotAvailable.Diagnostic = "This method is not available for the type of object.";
+
+ARCERR_ConstrElOfAnother.Diagnostic = "Can use the construction element of a building element as an input for a reference of another building element.";
+
+///////////////////////////////////////////////////////////////////////////////
+// SECTIONS
+///////////////////////////////////////////////////////////////////////////////
+ARCERR_SectionSketchNeeded.Diagnostic = "Section sketch needed.";
+ARCERR_SectionCopyInvalidSpec.Diagnostic = "Data provided for copy of section specification data is invalid.";
+ARCERR_SectionTypeInvalid.Diagnostic = "Section type invalid.";
+ARCERR_CustomSection.Diagnostic = "Invalid reference object for the custom section.";
+
+///////////////////////////////////////////////////////////////////////////////
+// CONTOUR LISTS
+///////////////////////////////////////////////////////////////////////////////
+ARCERR_ContourRmvPosListTooBig.Diagnostic = "Invalid number of positions to remove. The number of indices to remove is too large compared to the number of contour connections.";
+
+ARCERR_ContourRmvPosListInvalidIndex.Diagnostic = "Invalid index value - zero or too large compared to the number of contour connections.";
+
+
+
+///////////////////////////////////////////////////////////////////////////////
+// MEMBERS
+///////////////////////////////////////////////////////////////////////////////
+ARCERR_MemRef.Request    = "Invalid reference object attempted to be set in the connection.";
+ARCERR_MemRef.Diagnostic = "Invalid reference object attempted to be set in the connection.";
+ARCERR_MemRef.Advice     = "See the documentation for valid reference objects for a connection.";
+
+ARCERR_MultiSptMemPrimSpt.Diagnostic = "Invalid reference object for the primary support connection.";
+ARCERR_MultiSptMemSecondSpt.Diagnostic = "Invalid reference object for the secondary support connection.";
+
+
+
+ARCERR_NoLayersToUpdate.Diagnostic = "Connection's reference object has no possible layers or set points.";
+ARCERR_NoLayersToUpdate.Advice     = "Verify possible layers before updating.";
+
+ARCERR_InvalidLayer.Diagnostic = "Invalid layer.";
+ARCERR_InvalidLayer.Advice     = "Verify possible layers before updating.";
+
+ARCERR_NoCnx.Diagnostic = "There is no existing connection.";
+ARCERR_NoCnx.Advice     = "Use the neccessary Set method to create the type of connection needed before updating it.";
+
+
+ARCERR_MemSptCnx.Diagnostic = "Could not create or retrieve the support connection.";
+
+
+ARCERR_MemAngleRef.Diagnostic = "Invalid reference object for the angle reference connection.";
+ARCERR_MemAngleRef.Advice     = "See the documentation for valid reference objects.";
+
+
+///////////////////////////////////////////////////////////////////////////////
+// SLABS
+///////////////////////////////////////////////////////////////////////////////
+ARCERR_SlabSupport.Request    = "Invalid reference object for the slab support.";
+ARCERR_SlabSupport.Diagnostic = "Invalid reference object for the slab support.";
+ARCERR_SlabSupport.Advice     = "See the documentation for valid reference objects.";
+
+ARCERR_SlabContour.Diagnostic = "Invalid reference object for the slab contour.";
+
+
+///////////////////////////////////////////////////////////////////////////////
+// WALLS
+///////////////////////////////////////////////////////////////////////////////
+ARCERR_WallSupport.Request    = "Invalid reference object for the wall support connection.";
+ARCERR_WallSupport.Diagnostic = "Invalid reference object for the wall support connection.";
+ARCERR_WallSupport.Advice     = "See the documentation for valid reference objects.";
+
+ARCERR_WallBottom.Diagnostic = "Invalid reference object for the wall bottom connection.";
+ARCERR_WallBottom.Advice     = "See the documentation for valid reference objects.";
+
+ARCERR_WallTop.Diagnostic = "Invalid reference object for the wall top connection.";
+ARCERR_WallTop.Advice     = "See the documentation for valid reference objects.";
+
+ARCERR_WallFrom.Diagnostic = "Invalid reference object for the wall from connection.";
+ARCERR_WallFrom.Advice     = "See the documentation for valid reference objects.";
+
+ARCERR_WallTo.Diagnostic = "Invalid reference object for the wall to connection.";
+ARCERR_WallTo.Advice     = "See the documentation for valid reference objects.";
+
+
+
+///////////////////////////////////////////////////////////////////////////////
+// SPACES
+///////////////////////////////////////////////////////////////////////////////
+ARCERR_SpaceBottom.Diagnostic = "Invalid reference object for the space bottom connection.";
+ARCERR_SpaceBottom.Advice     = "See the documentation for valid reference objects.";
+
+ARCERR_SpaceTop.Diagnostic = "Invalid reference object for the space top connection.";
+ARCERR_SpaceTop.Advice     = "See the documentation for valid reference objects.";
+
+ARCERR_SpaceContour.Diagnostic = "Invalid reference object for the space contour.";
+
+
+///////////////////////////////////////////////////////////////////////////////
+// OPENINGS
+///////////////////////////////////////////////////////////////////////////////
+ARCERR_SweepOpnAngleRef.Diagnostic = "Invalid reference object for the angles reference connection.";
+ARCERR_SweepOpnAngleRef.Advice     = "See the documentation for valid reference objects.";
+
+ARCERR_SweepOpnPlacement.Diagnostic = "Invalid reference object for the placement connection.";
+ARCERR_SweepOpnFromLimit.Diagnostic = "Invalid reference object for the from connection.";
+ARCERR_SweepOpnToLimit.Diagnostic = "Invalid reference object for the to connection.";
+
+ARCERR_InsertOpnPlaceRef.Diagnostic = "Invalid reference object for the placement reference connection.";
+ARCERR_InsertOpnPlaceElev.Diagnostic = "Invalid reference object for the placement elevation connection.";
+
+ARCERR_ContourOpnContour.Diagnostic = "Invalid reference object for the contour opening contour.";
+ARCERR_ContourOpnFromLimit.Diagnostic = "Invalid reference object for the from connection.";
+ARCERR_ContourOpnToLimit.Diagnostic = "Invalid reference object for the to connection.";
+
+
+/////////////////////////////////////////////////////////////////////////////////
+// OPENING FILLS
+/////////////////////////////////////////////////////////////////////////////////
+ARCERR_CtlgNoLoc.Diagnostic = "Could not locate the catalog.";
+ARCERR_CtlgOpenErr.Diagnostic = "Could not open the catalog.";
+
+ARCERR_OpnFillStyleErr.Diagnostic = "Could not set the fill style for the opening.";
+
+
+
+/////////////////////////////////////////////////////////////////////////////////
+// PROXY
+/////////////////////////////////////////////////////////////////////////////////
+ARCERR_Proxy.Diagnostic = "Invalid reference object for the current connection.";
+ARCERR_Proxy.Advice = "Select an object within the same part document as connection reference";
+ARCERR_ProxyContext.Diagnostic = "Invalid reference object for the current connection.";
+ARCERR_ProxyContext.Advice = "Part documents must have the same axis system";
+
+
+ARCERR_ExtRef.Diagnostic = "/p1";

@@ -1,0 +1,49 @@
+//== dlg title ==
+GTCTitleForEditGroup = "编辑 ";
+GTCTitleForAddGroup  = "附加 ";
+GTCGroupName = "组";
+GTCExcelDataSheetName = "Excel 数据单";
+
+
+//== group name ==
+FrameMain.FrameGroupName.LabelGroupName.Title = "名称 : ";
+FrameMain.FrameGroupName.EditorGroupName.Help = "输入一个组名";
+FrameMain.FrameGroupName.EditorGroupName.ShortHelp = "组名";
+FrameMain.FrameGroupName.EditorGroupName.LongHelp = "输入一个组名";
+
+
+//== data sheet file name ==
+FrameMain.FrameGroupName.LabelDataSheetName.Title = "数据单名称: ";
+FrameMain.FrameGroupName.EditorDataSheetName.LongHelp = "将生成的数据单名称。";
+
+
+//== group atts ==
+FrameMain.FrameGroupAttsHolder.FrameGroupAttributes.Title = "组属性";
+
+//== query option == 
+FrameMain.FrameQuery.LabelQuery.Title = "查询 : ";
+FrameMain.FrameQuery.PushButtonQuery.Title = "...";
+
+//
+//== feature list == 
+//
+FrameMain.FrameFeatList.MultiListObjectsInGroup.Help = "已经属于组或者将被擦入组的物体。";
+FrameMain.FrameFeatList.MultiListObjectsInGroup.ShortHelp = "已经属于组或者将被擦入组的物体。";
+FrameMain.FrameFeatList.MultiListObjectsInGroup.LongHelp = "已经属于组或者将被擦入组的物体。";
+
+MultiListColName="名称";
+MultiListColPath="路径";
+
+FrameMain.FrameFeatList.FrameFeatListButtons.PushButtonRemoveObject.Title = "删除";
+FrameMain.FrameFeatList.FrameFeatListButtons.PushButtonReframeOnObject.Title = "以当前选择的物体为中心，重新定显示框";
+
+
+//== data sheets ==
+FrameMain.FrameFeatList.FrameFeatListButtons.PushButtonShowInDataSheet.Title = "显示于Excel";
+FrameMain.FrameFeatList.FrameFeatListButtons.PushButtonFindFromDataSheet.Title = "显示于3D";
+
+FrameMain.FrameFeatList.FrameExcelButtons.PushButtonUpdateDataSheet.Title = "更新 Excel";
+FrameMain.FrameFeatList.FrameExcelButtons.PushButtonUploadDataSheet.Title = "更新 3D";
+
+
+

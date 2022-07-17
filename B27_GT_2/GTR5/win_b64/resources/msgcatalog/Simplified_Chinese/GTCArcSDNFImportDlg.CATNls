@@ -1,0 +1,17 @@
+
+
+Title = "SDNF Import";
+PushButtonBrowse.Title = "...";
+
+FrameOptions.Title = " Options "; 
+
+FrameOptions.LblSectionDatabases.Title = " Section Catalog : ";
+FrameOptions.LblMapFileName.Title = " Map Filename : ";
+FrameOptions.PushButtonBrowse.Title = "...";
+FrameOptions.CheckButtonNewGeoSet.Title = " Create new set for reference geometry ";
+
+FrameOptions.CheckButtonUseAngle.Title = " Use Angle ";
+FrameOptions.RadioStartToEnd.Title = " Start Point to End Point ";
+FrameOptions.RadioEndToStart.Title = " End Point to Start Point ";
+
+FrameOptions.CkBttnAnchorPts.Title = " Swap Left and Right Side Anchor Points ";

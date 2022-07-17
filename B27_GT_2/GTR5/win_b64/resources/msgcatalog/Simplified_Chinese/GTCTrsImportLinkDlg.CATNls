@@ -1,0 +1,10 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Import DFX/DWG File With Link";
+Frame001.Title = "Select file to import:";
+Frame001.BrowseFileNameBtn.Title = "Browse...";
+Frame004.Title = "Select folder to save product:";
+Frame004.BrowseFolderBtn.Title = "Browse...";
+UnloadPartsCheck.Title = "Unload parts during import";
+// END WIZARD REPLACEMENT ZONE
+BrowseFileTitle = "Select file";
+BrowseFolderTitle = "Select folder";

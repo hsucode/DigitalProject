@@ -1,0 +1,32 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Grid Settings";
+// END WIZARD REPLACEMENT ZONE
+Location.HeaderFrame.Global.Title ="Plan Curve Label";
+Location.IconAndOptionsFrame.OptionsFrame.PlanLabelShow.Title = "Show";
+Location.IconAndOptionsFrame.OptionsFrame.SelectPlanLabelDisplayType.PlanLabelStart.Title = "Start";
+Location.IconAndOptionsFrame.OptionsFrame.SelectPlanLabelDisplayType.PlanLabelEnd.Title = "End";
+Location.IconAndOptionsFrame.OptionsFrame.PlanLabelHide.Title = "Hide";
+
+LevelLabelVisibility.HeaderFrame.Global.Title ="Level Label";
+LevelLabelVisibility.IconAndOptionsFrame.OptionsFrame.LabelShow.Title = "Show";
+LevelLabelVisibility.IconAndOptionsFrame.OptionsFrame.SelectDisplayType.ShowName.Title = "Name";
+LevelLabelVisibility.IconAndOptionsFrame.OptionsFrame.SelectDisplayType.ShowElevation.Title = "Elevation";
+LevelLabelVisibility.IconAndOptionsFrame.OptionsFrame.SelectDisplayType.SelectElevationType.DisplayElevation.Title = "Elevation From Ground";
+LevelLabelVisibility.IconAndOptionsFrame.OptionsFrame.SelectDisplayType.SelectElevationType.DisplayElevationAboveSeaLevel.Title = "Elevation Above Sea Level";
+LevelLabelVisibility.IconAndOptionsFrame.OptionsFrame.LabelHide.Title = "Hide";
+
+
+SpaceDisplay.HeaderFrame.Global.Title ="Space Label";
+SpaceDisplay.IconAndOptionsFrame.OptionsFrame.NameNumber.Title    = "LongName-Number";
+SpaceDisplay.IconAndOptionsFrame.OptionsFrame.Name.Title    = "LongName";
+SpaceDisplay.IconAndOptionsFrame.OptionsFrame.Number.Title = "Number";
+SpaceDisplay.IconAndOptionsFrame.OptionsFrame.Hide.Title = "FeatureName";
+TreeOption.HeaderFrame.Global.Title ="Detailed specifications";
+TreeOption.IconAndOptionsFrame.OptionsFrame.Expand.Title = "Show";
+TreeOption.IconAndOptionsFrame.OptionsFrame.Collapse.Title = "Hide";
+
+ArcLabelDisplay.HeaderFrame.Global.Title ="Beams & Columns Label";
+ArcLabelDisplay.IconAndOptionsFrame.OptionsFrame.ArcLabelShow.Title = "Show";
+ArcLabelDisplay.IconAndOptionsFrame.OptionsFrame.SelectArcLabelDisplayType.ArcLabelDisplayName.Title = "Name";
+ArcLabelDisplay.IconAndOptionsFrame.OptionsFrame.SelectArcLabelDisplayType.ArcLabelSectionName.Title = "Section";
+ArcLabelDisplay.IconAndOptionsFrame.OptionsFrame.ArcLabelHide.Title = "Hide";

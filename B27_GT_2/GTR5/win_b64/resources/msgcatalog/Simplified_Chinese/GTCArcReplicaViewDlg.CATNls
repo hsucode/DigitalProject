@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+NameLabel.Title = "Name";
+Label004.Title = "        ";
+SupportLabel.Title = "Support";
+ViewLabel.Title = "View";
+AxisLabel.Title = "Axis";
+ReverseDirBtn.Title = "Reverse Direction";
+Label007.Title = "                                           ";
+Label008.Title = "   ";
+ShowCut.Title = " ";
+// END WIZARD REPLACEMENT ZONE
+NewTitle = " New View From 2D ";
+EditTitle = " Edit View From 2D ";
+ShowCutPlaneText = "Section";

@@ -1,0 +1,37 @@
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.Title		= "自动装饰...";
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.Help  		= "依规则来设置图形特性";
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.ShortHelp 		= "自动装饰";
+GTCDftCommandsHeader.GTCDft3DTo2DTransferHdr.LongHelp 		= "依规则来设置图形特性";
+
+
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.Title		= "置视图于起点...";
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.Help      = "定位视图于绘图单的起点";
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.ShortHelp	= "置视图于起点";
+GTCDftCommandsHeader.GTCDftViewMakeUpResetHdr.LongHelp	= "定位视图于绘图单的起点";
+
+
+
+// == EditPackage == 
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.Title		= "编辑 3D 属性...";
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.Help        = "编辑被选择的绘图元素代表的3D物体的属性";
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.ShortHelp   = "编辑 3D 属性";
+GTCDftCommandsHeader.GTCDftEditAttributeHdr.LongHelp    = "编辑被选择的绘图元素代表的3D物体的属性";
+
+// == Color Filter ==
+GTCDftCommandsHeader.GTCDftColorFilterHdr.Title              = "根据属性涂色...";
+GTCDftCommandsHeader.GTCDftColorFilterHdr.Help               = "根据属性值将几何体涂色";
+GTCDftCommandsHeader.GTCDftColorFilterHdr.ShortHelp          = "根据属性涂色";
+GTCDftCommandsHeader.GTCDftColorFilterHdr.LongHelp           = "根据属性值将几何体涂色";
+
+// == Attribute Link ==
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.Title              = "插入一个属性联接...";
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.Help               = "插入一个属性联接到绘图字形";
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.ShortHelp          = "插入一个属性联接";
+GTCDftCommandsHeader.GTCDftInsertAttLinkHdr.LongHelp           = "插入一个属性联接到绘图字形";
+
+
+// == Update All Views ==
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.Title              = "更新当前绘图单";
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.Help               = "更新当前绘图单";
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.ShortHelp          = "更新当前绘图单";
+GTCDftCommandsHeader.GTCDftUpdateViewsHdr.LongHelp           = "更新当前绘图单";

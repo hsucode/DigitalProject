@@ -1,0 +1,3 @@
+frameFather.btnReverse.Title = " 反转 ";
+frameFather.labelName.Title ="轴名 ";
+frameFather.labelLine.Title = "参考曲线 ";

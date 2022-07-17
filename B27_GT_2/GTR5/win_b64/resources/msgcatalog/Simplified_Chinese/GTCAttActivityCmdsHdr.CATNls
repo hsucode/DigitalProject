@@ -1,0 +1,14 @@
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.Title		= "Temporary Position...";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.Help        = "Change the position of elements for these activities";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.ShortHelp   = "Temporary Position";
+GTCAttActivityCmdsHdr.GTCAttChangePositionHdr.LongHelp    = "Change the position of elements for these activities";
+
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.Title		= "Edit Position...";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.Help        = "Edit the position of elements for these activities";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.ShortHelp   = "Edit Position";
+GTCAttActivityCmdsHdr.GTCAttEditChangePositionHdr.LongHelp    = "Edit the position of elements for these activities";
+
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.Title		= "Create activities from elements...";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.Help        = "Create activities from elements";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.ShortHelp   = "Create Activities";
+GTCAttActivityCmdsHdr.GTCAttCreateActivitiesHdr.LongHelp    = "Create activities from elements";

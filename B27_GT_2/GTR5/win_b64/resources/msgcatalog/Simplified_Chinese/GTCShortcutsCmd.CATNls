@@ -1,0 +1,4 @@
+InvalidENVValueTitle="Error";
+InvalidENVValueMsg="Value not defined or is not valid. Please verify in your environment file.";
+catenvWarningTitle="WARNING";
+catenvWarningMsg="WARNING: Incorrect changes to environment file may impair the program. Please backup your environment file before modifcation. You need to restart Digital Project for your changes to take effect.";

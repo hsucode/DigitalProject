@@ -1,0 +1,6 @@
+
+GTCArcContextualOpeningCmd.StateNoSelection.Message = "Specify opening attributes";
+GTCArcContextualOpeningCmd.StateGetSupport.Message = "Select a wall, slab or space";
+GTCArcContextualOpeningCmd.StateGetLimits.Message = "Select limiting elements to create opening contour";
+GTCArcContextualOpeningCmd.StateGetFromLimit.Message = "Select a from limiting element";
+GTCArcContextualOpeningCmd.StateGetToLimit.Message = "Select a to limiting element";

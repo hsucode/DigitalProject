@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+// END WIZARD REPLACEMENT ZONE
+InfoLabel.Title = "This tool creates ruled surfaces which are as close as possible to being developable.";
+InfoLabel2.Title = "The developability of surfaces can be assessed using the Gaussian Curvature analysis tool.";
+InfoLabel3.Title = "  ";
+ChkBtnHideShow.Title = " Do not show this message again. ";

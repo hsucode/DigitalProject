@@ -1,0 +1,12 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Architecture & Structures";
+// END WIZARD REPLACEMENT ZONE
+ViewVis.HeaderFrame.Global.Title ="Active View";
+ViewVis.IconAndOptionsFrame.OptionsFrame.View.Title    = "Show Drawing View";
+ViewVis.IconAndOptionsFrame.OptionsFrame.Sheet.Title    = "Show Drawing Sheet";
+ViewVis.IconAndOptionsFrame.OptionsFrame.None.Title    = "None";
+ViewDisplay.HeaderFrame.Global.Title ="View Display";
+ViewDisplay.IconAndOptionsFrame.OptionsFrame.ShowViewPlane.Title    = "Show View Plane";
+ViewDisplay.IconAndOptionsFrame.OptionsFrame.ShowViewName.Title    = "Show View Name";
+WallOptions.HeaderFrame.Global.Title ="Wall Drawing Generation";
+WallOptions.IconAndOptionsFrame.OptionsFrame.WallRemoveExtraLines.Title    = "Remove Extra Lines";

@@ -1,0 +1,46 @@
+// CONSTANT LABELS
+
+frame1.Title = " Layers ";
+frame1.label1.Title = " Layers Set ";
+frame1.button1.Title = "...";
+
+
+
+
+
+
+
+
+
+
+
+
+// VARIABLE LABELS
+
+labelExterior = " Exterior ";
+labelCenterOfCore = " Center of Core ";
+labelCoreThickness = " Core Thickness ";
+labelInterior = " Interior ";
+
+labelTopFinish = " Top Finish ";
+labelCOS = " COS ";
+labelSlabThickness = " Slab Thickness ";
+labelCeiling = " Ceiling ";
+
+//tabContParent.tabPageParametric.Title = "Custom";
+GTCArcTabPageParametric = "Parametric";
+GTCArcTabPageCustom = "Custom";
+
+tabContParent.tabPageParametric.GTCArcCatalogFrame.labelCatalog.Title = "Catalog ";
+tabContParent.tabPageParametric.GTCArcCatalogFrame.labelSection.Title = "Layer Set ";
+tabContParent.tabPageParametric.GTCArcCatalogFrame.buttonCatalogBrowse.Title = "...";
+
+tabContParent.tabPageStandard.Title = "Standard";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.labelCatalog.Title = "Catalog ";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.labelSection.Title = "Layer Set ";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.buttonCatalogBrowse.Title = "...";
+
+tabContParent.tabPageContextual.Title = "Contextual";
+tabContParent.tabPageContextual.labelContextualLimit.Title = "Limit";
+
+tabContParent.tabPageMixed.Title = "Mixed";

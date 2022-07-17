@@ -1,0 +1,5 @@
+TabPage.Title = "Attributes";
+
+GTCAttObjFilterSettingPropertyPageEdt.SetAttributeFilter.LongHelp = "Set object types to assign attributes to...";
+GTCAttObjFilterSettingPropertyPageEdt.SetNoOfRulesInColorFilterTabPage.LongHelp = "Set number of rules for color filter";
+GTCAttObjFilterSettingPropertyPageEdt.SetSimOptions.LongHelp = "Set Primavera tree visualization options";

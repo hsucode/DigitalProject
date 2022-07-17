@@ -1,0 +1,7 @@
+ErrorInWorkObj = "Please set a sheet as the in-work object.";
+GTCArcFrontViewCmd.SelectSupportState.Message="Select Plane";
+GTCArcFrontViewCmd.SelectAxisState.Message="Select Axis";
+GTCArcFrontViewCmd.SelectBoundaryState.Message="Select Boundary";
+GTCArcFrontViewCmd.SelectGroupState.Message="Select Group or List";
+ErrorLoadDwg = "Drawing document can not be found.";
+UpdateTitle = "Update";

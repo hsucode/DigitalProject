@@ -1,0 +1,22 @@
+GTCTrsGeomExpIfcCmd.initialState.Message="Click anywhere in the viewer to exit";
+
+//Dialog title
+GTCExportNls_IfcDlgTitle="Save As";
+
+//File Extensions
+GTCExportNls_IfcFileDescription="ifc";
+GTCExportNls_IfcFileExt="*.ifc";
+GTCExportNls_IfcFileDotExt=".ifc";
+
+
+
+//Rewrite file messages
+GTCExportNls_NotifyTitle="Save As";
+GTCExportNls_NotifyMessageLine1A="The item ";
+GTCExportNls_NotifyMessageLine1B=" already exists.";
+GTCExportNls_NotifyMessageLine2="Do you want it to be overwritten?";
+GTCExportNls_LineBreak="\n";
+GTCExportNls_ProgressBar_FileRead_Title="Reading Output Data";
+
+GTCExportNls_LogFileName="3DIfcExport.txt";
+

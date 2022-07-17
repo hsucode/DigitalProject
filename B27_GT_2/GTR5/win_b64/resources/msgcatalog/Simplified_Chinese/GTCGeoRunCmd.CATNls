@@ -1,0 +1,3 @@
+
+GTCGeoRunCmd.StateInitial.Message="Select single or multiple Runs/Finish to execute";
+GTCGeoRunCmd.StateGetRef.Message="Select a run reference";

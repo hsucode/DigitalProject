@@ -1,0 +1,28 @@
+// CONSTANT LABELS
+
+frameTop.labelName.Title = " 名称 ";
+
+
+frameTop.labelSupport.Title = " 支持   ";
+frameTop.labelLocation.Title = " 位置   ";
+frameTop.buttonLocation.Title = "...";
+frameTop.labelLayer.Title = " 层 ";
+frameTop.labelOffset.Title = " 偏移 ";
+frameTop.labelAssembly.Title = " 装配 ";
+
+
+frameTop.labelAlignSpt.Title = " 对齐 ";
+
+// VARIABLE LABELS
+
+// dialog title
+GTCTitleForEdit = "编辑 ";
+GTCTitleForNew  = "新建 ";
+
+titleBeam = "梁";
+titleColumn = "柱";
+titleRib = "肋";
+titleBeam2Spts = "多支撑梁";
+
+
+GTCArcMemberMultiple = "<多>";

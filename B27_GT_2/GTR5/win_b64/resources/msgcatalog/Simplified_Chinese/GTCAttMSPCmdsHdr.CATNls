@@ -1,0 +1,29 @@
+// == MS Project Get Project Command == 
+GTCAttMSPCmdsHdr.GTCAttMSPGetProjectCmdHdr.Title		= "Get MS Project";
+GTCAttMSPCmdsHdr.GTCAttMSPGetProjectCmdHdr.Help        = "Imports a Microsoft project";
+GTCAttMSPCmdsHdr.GTCAttMSPGetProjectCmdHdr.ShortHelp   = "Get Microsoft Project";
+GTCAttMSPCmdsHdr.GTCAttMSPGetProjectCmdHdr.LongHelp   = "Imports a Microsoft project";
+
+// == MS Project Get Activities Command == 
+GTCAttMSPCmdsHdr.GTCAttMSPGetActivitiesCmdHdr.Title		= "Get Activities";
+GTCAttMSPCmdsHdr.GTCAttMSPGetActivitiesCmdHdr.Help        = "Imports Microsoft project activities";
+GTCAttMSPCmdsHdr.GTCAttMSPGetActivitiesCmdHdr.ShortHelp   = "Imports Microsoft project activities";
+GTCAttMSPCmdsHdr.GTCAttMSPGetActivitiesCmdHdr.LongHelp   = "Imports Microsoft project activities";
+
+// == MS Project Export Activities Command == 
+GTCAttMSPCmdsHdr.GTCAttMSPExportActivitiesCmdHdr.Title		= "Export Activities";
+GTCAttMSPCmdsHdr.GTCAttMSPExportActivitiesCmdHdr.Help        = "Exports Microsoft project activities";
+GTCAttMSPCmdsHdr.GTCAttMSPExportActivitiesCmdHdr.ShortHelp   = "Exports Microsoft project activities";
+GTCAttMSPCmdsHdr.GTCAttMSPExportActivitiesCmdHdr.LongHelp   = "Exports Microsoft project activities";
+
+// == MS Project Sync Activities Command == 
+GTCAttMSPCmdsHdr.GTCAttMSPSyncCmdHdr.Title		= "Sync Activities";
+GTCAttMSPCmdsHdr.GTCAttMSPSyncCmdHdr.Help        = "Sync Microsoft project activities";
+GTCAttMSPCmdsHdr.GTCAttMSPSyncCmdHdr.ShortHelp   = "Sync Microsoft project activities";
+GTCAttMSPCmdsHdr.GTCAttMSPSyncCmdHdr.LongHelp   = "Sync Microsoft project activities";
+
+// == MS Project Sync Activities Command == 
+GTCAttMSPCmdsHdr.GTCAttMSPSyncActivitiesCmdHdr.Title		= "Sync Activities";
+GTCAttMSPCmdsHdr.GTCAttMSPSyncActivitiesCmdHdr.Help        = "Sync Microsoft project activities";
+GTCAttMSPCmdsHdr.GTCAttMSPSyncActivitiesCmdHdr.ShortHelp   = "Sync Microsoft project activities";
+GTCAttMSPCmdsHdr.GTCAttMSPSyncActivitiesCmdHdr.LongHelp   = "Sync Microsoft project activities";

@@ -1,0 +1,32 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+ChkItemSlabs.Title = "Select Slabs";
+ChkItemSlabs.ShortHelp = "Select Slabs";
+
+ChkItemWalls.Title = "Select Walls";
+ChkItemWalls.ShortHelp = "Select Walls";
+
+ChkItemBeams.Title = "Select Beams";
+ChkItemBeams.ShortHelp = "Select Beams";
+
+ChkItemColumns.Title = "Select Columns";
+ChkItemColumns.ShortHelp = "Select Columns";
+
+ChkItemContOpenings.Title = "Select Contour Openings";
+ChkItemContOpenings.ShortHelp = "Select Contour Openings";
+
+ChkItemContxOpenings.Title = "Select Contextual Openings";
+ChkItemContxOpenings.ShortHelp = "Select Contextual Openings";
+
+ChkItemDoors.Title = "Select Doors";
+ChkItemDoors.ShortHelp = "Select Doors";
+
+ChkItemWindows.Title = "Select Windows";
+ChkItemWindows.ShortHelp = "Select Windows";
+
+ChkItemSpaces.Title = "Select Spaces";
+ChkItemSpaces.ShortHelp = "Select Spaces";
+
+ChkItemCurrPkg.Title = "Select Objects with Current Package";
+ChkItemCurrPkg.ShortHelp = "Select Objects with Current Package";

@@ -1,0 +1,438 @@
+// Architectural Components // 
+
+// ========== Create a Wall Cmd ==========
+GTCArcCommandsHeader.GTCArcWallCmdHdr.Title              = "墙体...";
+GTCArcCommandsHeader.GTCArcWallCmdHdr.Help               = "创建墙";
+GTCArcCommandsHeader.GTCArcWallCmdHdr.ShortHelp          = "墙";
+GTCArcCommandsHeader.GTCArcWallCmdHdr.LongHelp           = "创建墙";
+
+// ========== Create a Slab (Floor) Cmd ==========
+GTCArcCommandsHeader.GTCArcFloorCmdHdr.Title              = "楼板...";
+GTCArcCommandsHeader.GTCArcFloorCmdHdr.Help               = "创建一个楼板";
+GTCArcCommandsHeader.GTCArcFloorCmdHdr.ShortHelp          = "平板";
+GTCArcCommandsHeader.GTCArcFloorCmdHdr.LongHelp           = "创建一个平板";
+
+// ========== Create a Beam Cmd ==========
+GTCArcCommandsHeader.GTCArcBeamCmdHdr.Title              = "梁...";
+GTCArcCommandsHeader.GTCArcBeamCmdHdr.Help               = "创建梁";
+GTCArcCommandsHeader.GTCArcBeamCmdHdr.ShortHelp          = "Beam";
+GTCArcCommandsHeader.GTCArcBeamCmdHdr.LongHelp           = "Creates a Beam";
+
+// ========== Create a Column Cmd ==========
+GTCArcCommandsHeader.GTCArcColumnCmdHdr.Title              = "柱...";
+GTCArcCommandsHeader.GTCArcColumnCmdHdr.Help               = "创建一个柱";
+GTCArcCommandsHeader.GTCArcColumnCmdHdr.ShortHelp          = "Column";
+GTCArcCommandsHeader.GTCArcColumnCmdHdr.LongHelp           = "Creates a Column";
+
+// ========== Create a Rib Cmd ==========
+GTCArcCommandsHeader.GTCArcRibCmdHdr.Title              = "肋...";
+GTCArcCommandsHeader.GTCArcRibCmdHdr.Help               = "Creates a Rib";
+GTCArcCommandsHeader.GTCArcRibCmdHdr.ShortHelp          = "Rib";
+GTCArcCommandsHeader.GTCArcRibCmdHdr.LongHelp           = "Creates a Rib";
+
+// ========== Create a Beam From Two Supports Cmd ==========
+GTCArcCommandsHeader.GTCArcMultiSptBeamCmdHdr.Title              = "多种梁 ...";
+GTCArcCommandsHeader.GTCArcMultiSptBeamCmdHdr.Help               = "Creates a Beam from Two Supports";
+GTCArcCommandsHeader.GTCArcMultiSptBeamCmdHdr.ShortHelp          = "Multi-Support Beam";
+GTCArcCommandsHeader.GTCArcMultiSptBeamCmdHdr.LongHelp           = "Creates a Beam from Two Supports";
+
+// ========== Create a Contextual Opening Cmd ==========
+GTCArcCommandsHeader.GTCArcContextualOpeningCmdHdr.Title       = "开洞...";
+GTCArcCommandsHeader.GTCArcContextualOpeningCmdHdr.Help        = "Creates an Opening from a Contour";
+GTCArcCommandsHeader.GTCArcContextualOpeningCmdHdr.ShortHelp   = "Contour Opening";
+GTCArcCommandsHeader.GTCArcContextualOpeningCmdHdr.LongHelp    = "Creates an Opening from a Contour";
+
+// ========== Create a Opening Cmd ==========
+GTCArcCommandsHeader.GTCArcOpeningCmdHdr.Title          = "开洞...";
+GTCArcCommandsHeader.GTCArcOpeningCmdHdr.Help           = "Creates an Opening";
+GTCArcCommandsHeader.GTCArcOpeningCmdHdr.ShortHelp      = "Opening";
+GTCArcCommandsHeader.GTCArcOpeningCmdHdr.LongHelp       = "Creates an Opening";
+
+// ========== Create a Door Opening Cmd ==========
+GTCArcCommandsHeader.GTCArcDoorOpeningCmdHdr.Title      = "门...";
+GTCArcCommandsHeader.GTCArcDoorOpeningCmdHdr.Help       = "Inserts a door";
+GTCArcCommandsHeader.GTCArcDoorOpeningCmdHdr.ShortHelp  = "Door";
+GTCArcCommandsHeader.GTCArcDoorOpeningCmdHdr.LongHelp   = "Inserts a door";
+
+// ========== Create a Window Elevation Cmd ==========
+GTCArcCommandsHeader.GTCArcWindowElevCmdHdr.Title      = "立面窗...";
+GTCArcCommandsHeader.GTCArcWindowElevCmdHdr.Help       = "Window at an Elevation";
+GTCArcCommandsHeader.GTCArcWindowElevCmdHdr.ShortHelp  = "Window at Elevation";
+GTCArcCommandsHeader.GTCArcWindowElevCmdHdr.LongHelp   = "Window at an elevation";
+
+// ========== Create a Window Cmd ==========
+GTCArcCommandsHeader.GTCArcWindowOpeningCmdHdr.Title      = "窗户...";
+GTCArcCommandsHeader.GTCArcWindowOpeningCmdHdr.Help       = "Inserts a window";
+GTCArcCommandsHeader.GTCArcWindowOpeningCmdHdr.ShortHelp  = "Window";
+GTCArcCommandsHeader.GTCArcWindowOpeningCmdHdr.LongHelp   = "Inserts a window";
+
+// ========== Door Fill ==========
+GTCArcCommandsHeader.GTCArcDoorFillCmdHdr.Title      = "Door Fill - Obsolete...";
+GTCArcCommandsHeader.GTCArcDoorFillCmdHdr.Help       = "Door Fill - Obsolete...";
+GTCArcCommandsHeader.GTCArcDoorFillCmdHdr.ShortHelp  = "Door Fill - Obsolete...";
+GTCArcCommandsHeader.GTCArcDoorFillCmdHdr.LongHelp   = "Door Fill - Obsolete...";
+
+// ========== Create a grid Cmd ==========
+GTCArcCommandsHeader.GTCArcGridCmdHdr.Title      = "轴网...";
+GTCArcCommandsHeader.GTCArcGridCmdHdr.Help       = "Creates a Grid";
+GTCArcCommandsHeader.GTCArcGridCmdHdr.ShortHelp  = "Grid";
+GTCArcCommandsHeader.GTCArcGridCmdHdr.LongHelp   = "Creates a Grid";
+
+// ========== Create a grid level Cmd ==========
+GTCArcCommandsHeader.GTCArcAddLevelCmdHdr.Title      = "楼层轴网...";
+GTCArcCommandsHeader.GTCArcAddLevelCmdHdr.Help       = "Creates a Grid Level";
+GTCArcCommandsHeader.GTCArcAddLevelCmdHdr.ShortHelp  = "Grid Level";
+GTCArcCommandsHeader.GTCArcAddLevelCmdHdr.LongHelp   = "Creates a Grid Level";
+
+// ========== Create a grid line Cmd ==========
+GTCArcCommandsHeader.GTCArcAddGridLineCmdHdr.Title      = "轴线...";
+GTCArcCommandsHeader.GTCArcAddGridLineCmdHdr.Help       = "Creates a Grid Axis";
+GTCArcCommandsHeader.GTCArcAddGridLineCmdHdr.ShortHelp  = "Grid Axis";
+GTCArcCommandsHeader.GTCArcAddGridLineCmdHdr.LongHelp   = "Creates a Grid Axis";
+
+// ========== Create a grid intersection Cmd ==========
+GTCArcCommandsHeader.GTCArcGridIntersectionCmdHdr.Title      = "轴网交点...";
+GTCArcCommandsHeader.GTCArcGridIntersectionCmdHdr.Help       = "Creates a Grid Intersection";
+GTCArcCommandsHeader.GTCArcGridIntersectionCmdHdr.ShortHelp  = "Grid Intersection";
+GTCArcCommandsHeader.GTCArcGridIntersectionCmdHdr.LongHelp   = "Creates a Grid Intersection";
+
+// ========== Create a grid point Cmd ==========
+GTCArcCommandsHeader.GTCArcGridPointCmdHdr.Title      = "轴网点...";
+GTCArcCommandsHeader.GTCArcGridPointCmdHdr.Help       = "Creates a Grid Point";
+GTCArcCommandsHeader.GTCArcGridPointCmdHdr.ShortHelp  = "Grid Point";
+GTCArcCommandsHeader.GTCArcGridPointCmdHdr.LongHelp   = "Creates a Grid Point";
+
+// ========== Create a Wall Layer Set Cmd ==========
+GTCArcCommandsHeader.GTCArcAddLayerSetCmdHdr.Title      = "墙层集...";
+GTCArcCommandsHeader.GTCArcAddLayerSetCmdHdr.Help       = "Creates a Wall Layer Set";
+GTCArcCommandsHeader.GTCArcAddLayerSetCmdHdr.ShortHelp  = "Layer Set";
+GTCArcCommandsHeader.GTCArcAddLayerSetCmdHdr.LongHelp   = "Creates a Wall Layer Set";
+
+// ========== Create a Floor Layer Set Cmd ==========
+GTCArcCommandsHeader.GTCArcAddFloorLayerSetCmdHdr.Title      = "楼板层设置...";
+GTCArcCommandsHeader.GTCArcAddFloorLayerSetCmdHdr.Help       = "Creates a Floor Layer Set";
+GTCArcCommandsHeader.GTCArcAddFloorLayerSetCmdHdr.ShortHelp  = "Layer Set";
+GTCArcCommandsHeader.GTCArcAddFloorLayerSetCmdHdr.LongHelp   = "Creates a Floor Layer Set";
+
+// ========== Create a Material Layer Cmd ==========
+GTCArcCommandsHeader.GTCArcMaterialLayerCmdHdr.Title      = "材料层...";
+GTCArcCommandsHeader.GTCArcMaterialLayerCmdHdr.Help       = "Creates a Material Layer";
+GTCArcCommandsHeader.GTCArcMaterialLayerCmdHdr.ShortHelp  = "Layer";
+GTCArcCommandsHeader.GTCArcMaterialLayerCmdHdr.LongHelp   = "Creates a Material Layer";
+
+// ========== Generate / Update FEM Model ==========
+GTCArcCommandsHeader.GTCArcAddStrFEMCmdHdr.Title      = "生成结构多边形...";
+GTCArcCommandsHeader.GTCArcAddStrFEMCmdHdr.Help       = "Generates Structure Polygons";
+GTCArcCommandsHeader.GTCArcAddStrFEMCmdHdr.ShortHelp  = "Generate Structure Polygons";
+GTCArcCommandsHeader.GTCArcAddStrFEMCmdHdr.LongHelp   = "Generates Structure Polygons";
+
+// ========== Update FEM Model ==========
+GTCArcCommandsHeader.GTCArcUpdateFEMCmdHdr.Title      = "更新FEM节点编号...";
+GTCArcCommandsHeader.GTCArcUpdateFEMCmdHdr.Help       = "Update FEM nodes number";
+GTCArcCommandsHeader.GTCArcUpdateFEMCmdHdr.ShortHelp  = "Update FEM nodes number";
+GTCArcCommandsHeader.GTCArcUpdateFEMCmdHdr.LongHelp   = "Update FEM nodes number";
+
+// ========== Analytical Spaces ==========
+GTCArcCommandsHeader.GTCArcCreateAnalyticalSpacesCmdHdr.Title      = "创建分析空间...";
+GTCArcCommandsHeader.GTCArcCreateAnalyticalSpacesCmdHdr.Help       = "Create Analytical Spaces";
+GTCArcCommandsHeader.GTCArcCreateAnalyticalSpacesCmdHdr.ShortHelp  = "Create Analytical Spaces";
+GTCArcCommandsHeader.GTCArcCreateAnalyticalSpacesCmdHdr.LongHelp   = "Create Analytical Spaces";
+
+// ========== Multi Edits Bldg Elems Cmd ==========
+GTCArcCommandsHeader.GTCArcBldgElMultiEditHdr.Title              = "编辑建筑元素...";
+GTCArcCommandsHeader.GTCArcBldgElMultiEditHdr.Help               = "Edits multiple Building Elements";
+GTCArcCommandsHeader.GTCArcBldgElMultiEditHdr.ShortHelp          = "Edit Building Elements";
+GTCArcCommandsHeader.GTCArcBldgElMultiEditHdr.LongHelp           = "Edits multiple Building Elements";
+
+// ========== Multi Edits Walls Cmd ==========
+GTCArcCommandsHeader.GTCArcMultiEditWallsHdr.Title              = "编辑墙...";
+GTCArcCommandsHeader.GTCArcMultiEditWallsHdr.Help               = "Edits multiple walls";
+GTCArcCommandsHeader.GTCArcMultiEditWallsHdr.ShortHelp          = "Edit Walls";
+GTCArcCommandsHeader.GTCArcMultiEditWallsHdr.LongHelp           = "Edits multiple walls";
+
+// ========== Multi Edits Beams Cmd ==========
+GTCArcCommandsHeader.GTCArcMultiEditBeamsHdr.Title              = "编辑梁...";
+GTCArcCommandsHeader.GTCArcMultiEditBeamsHdr.Help               = "Edits multiple beams";
+GTCArcCommandsHeader.GTCArcMultiEditBeamsHdr.ShortHelp          = "Edit Beams";
+GTCArcCommandsHeader.GTCArcMultiEditBeamsHdr.LongHelp           = "Edits multiple beams";
+
+// ========== Multi Edits Columns Cmd ==========
+GTCArcCommandsHeader.GTCArcMultiEditColumnsHdr.Title              = "编辑柱...";
+GTCArcCommandsHeader.GTCArcMultiEditColumnsHdr.Help               = "Edits multiple columns";
+GTCArcCommandsHeader.GTCArcMultiEditColumnsHdr.ShortHelp          = "Edit Columns";
+GTCArcCommandsHeader.GTCArcMultiEditColumnsHdr.LongHelp           = "Edits multiple columns";
+
+// ========== Multi Edits Sweep Opns Cmd ==========
+GTCArcCommandsHeader.GTCArcMultiEditSweepOpnsHdr.Title              = "编辑扫略开口...";
+GTCArcCommandsHeader.GTCArcMultiEditSweepOpnsHdr.Help               = "Edits multiple Sweep Openings";
+GTCArcCommandsHeader.GTCArcMultiEditSweepOpnsHdr.ShortHelp          = "Edit Sweep Openings";
+GTCArcCommandsHeader.GTCArcMultiEditSweepOpnsHdr.LongHelp           = "Edits multiple Sweep Openings";
+
+// ========== Multi Edits Window Opns Cmd ==========
+GTCArcCommandsHeader.GTCArcMultiEditWindowOpnsHdr.Title              = "Edit Window Openings...";
+GTCArcCommandsHeader.GTCArcMultiEditWindowOpnsHdr.Help               = "Edits multiple Window Openings";
+GTCArcCommandsHeader.GTCArcMultiEditWindowOpnsHdr.ShortHelp          = "Edit Window Openings";
+GTCArcCommandsHeader.GTCArcMultiEditWindowOpnsHdr.LongHelp           = "Edits multiple Window Openings";
+
+// ========== Multi Edits Door Opns Cmd ==========
+GTCArcCommandsHeader.GTCArcMultiEditDoorOpnsHdr.Title              = "Edit Door Openings...";
+GTCArcCommandsHeader.GTCArcMultiEditDoorOpnsHdr.Help               = "Edits multiple Door Openings";
+GTCArcCommandsHeader.GTCArcMultiEditDoorOpnsHdr.ShortHelp          = "Edit Door Openings";
+GTCArcCommandsHeader.GTCArcMultiEditDoorOpnsHdr.LongHelp           = "Edits multiple Door Openings";
+
+// ========== Multi Edits Window At Elev Opns Cmd ==========
+GTCArcCommandsHeader.GTCArcMultiEditWindowAtElevOpnsHdr.Title              = "Edit Window Openings...";
+GTCArcCommandsHeader.GTCArcMultiEditWindowAtElevOpnsHdr.Help               = "Edits multiple Window Openings";
+GTCArcCommandsHeader.GTCArcMultiEditWindowAtElevOpnsHdr.ShortHelp          = "Edit Window Openings";
+GTCArcCommandsHeader.GTCArcMultiEditWindowAtElevOpnsHdr.LongHelp           = "Edits multiple Window Openings";
+
+// ========== Update Quantities ==========
+GTCArcCommandsHeader.GTCArcUpdateIfcQuantityCmdHdr.Title              = "Update Quantities...";
+GTCArcCommandsHeader.GTCArcUpdateIfcQuantityCmdHdr.Help               = "Update Quantities";
+GTCArcCommandsHeader.GTCArcUpdateIfcQuantityCmdHdr.ShortHelp          = "Update Quantities";
+GTCArcCommandsHeader.GTCArcUpdateIfcQuantityCmdHdr.LongHelp           = "Update Quantities";
+
+
+//=========== Create a Space ==============
+GTCArcCommandsHeader.GTCArcSpaceCmdHdr.Title          = "空间...";
+GTCArcCommandsHeader.GTCArcSpaceCmdHdr.Help           = "Creates a Space";
+GTCArcCommandsHeader.GTCArcSpaceCmdHdr.ShortHelp      = "Space";
+GTCArcCommandsHeader.GTCArcSpaceCmdHdr.LongHelp       = "Creates a Space";
+
+//=========== Adjust space limits ==============
+GTCArcCommandsHeader.GTCArcSpaceConnectionUpdateCmdHdr.Title          = "调整空间限制...";
+GTCArcCommandsHeader.GTCArcSpaceConnectionUpdateCmdHdr.Help           = "Adjusts multiple space limits";
+GTCArcCommandsHeader.GTCArcSpaceConnectionUpdateCmdHdr.ShortHelp      = "Adjust Space Limits";
+GTCArcCommandsHeader.GTCArcSpaceConnectionUpdateCmdHdr.LongHelp       = "Adjusts multiple space limits";
+
+//=========== SDNF Import/Export ==============
+GTCArcCommandsHeader.GTCArcSDNFExpCmdHdr.Title		="SDNF导出...";
+GTCArcCommandsHeader.GTCArcSDNFExpCmdHdr.Help		="Exports an SDNF file";
+GTCArcCommandsHeader.GTCArcSDNFExpCmdHdr.ShortHelp	="SDNF Export";
+GTCArcCommandsHeader.GTCArcSDNFExpCmdHdr.LongHelp	="Exports an SDNF file";
+
+GTCArcCommandsHeader.GTCArcSDNFImpCmdHdr.Title		="SDNF导入...";
+GTCArcCommandsHeader.GTCArcSDNFImpCmdHdr.Help		="Imports an SDNF file";
+GTCArcCommandsHeader.GTCArcSDNFImpCmdHdr.ShortHelp	="SDNF Import";
+GTCArcCommandsHeader.GTCArcSDNFImpCmdHdr.LongHelp	="Imports an SDNF file";
+
+
+//============ FEM Number Change ===================
+GTCArcCommandsHeader.GTCArcChangeNumFEMNodesHdr.Title		="更改FEM节点的数量...";
+GTCArcCommandsHeader.GTCArcChangeNumFEMNodesHdr.Help		="Changes number of FEM nodes";
+GTCArcCommandsHeader.GTCArcChangeNumFEMNodesHdr.ShortHelp	="Number of nodes";
+GTCArcCommandsHeader.GTCArcChangeNumFEMNodesHdr.LongHelp	="Changes number of FEM nodes";
+
+
+
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//
+// Custom (Unspec) Building Elements (IFC)
+//
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+
+//============ Custom (Unspec) Bldg Element ==============
+GTCArcCommandsHeader.GTCArcCustomBldgElHdr.Title	="Custom Building Element...";
+GTCArcCommandsHeader.GTCArcCustomBldgElHdr.Help		="Custom Building Element";
+GTCArcCommandsHeader.GTCArcCustomBldgElHdr.ShortHelp	="Custom Building Element";
+GTCArcCommandsHeader.GTCArcCustomBldgElHdr.LongHelp	="Creates building elements without specifications";
+
+
+//=============== Custom Slab =========================
+GTCArcCommandsHeader.GTCArcCustomSlabHdr.Title	="Custom Slab...";
+GTCArcCommandsHeader.GTCArcCustomSlabHdr.Help		="Custom Slab";
+GTCArcCommandsHeader.GTCArcCustomSlabHdr.ShortHelp	="Custom Slab";
+GTCArcCommandsHeader.GTCArcCustomSlabHdr.LongHelp	="Creates Slabs without specifications";
+
+
+//=============== Custom Roof =========================
+GTCArcCommandsHeader.GTCArcCustomRoofHdr.Title	="Custom Roof...";
+GTCArcCommandsHeader.GTCArcCustomRoofHdr.Help		="Custom Roof";
+GTCArcCommandsHeader.GTCArcCustomRoofHdr.ShortHelp	="Custom Roof";
+GTCArcCommandsHeader.GTCArcCustomRoofHdr.LongHelp	="Creates Roofs without specifications";
+
+
+//=============== Custom Wall =========================
+GTCArcCommandsHeader.GTCArcCustomWallHdr.Title	="Custom Wall...";
+GTCArcCommandsHeader.GTCArcCustomWallHdr.Help		="Custom Wall";
+GTCArcCommandsHeader.GTCArcCustomWallHdr.ShortHelp	="Custom Wall";
+GTCArcCommandsHeader.GTCArcCustomWallHdr.LongHelp	="Creates Walls without specifications";
+
+
+//=============== Custom Curtain Wall =========================
+GTCArcCommandsHeader.GTCArcCustomCurtainWallHdr.Title	="Custom Curtain Wall...";
+GTCArcCommandsHeader.GTCArcCustomCurtainWallHdr.Help		="Custom Curtain Wall";
+GTCArcCommandsHeader.GTCArcCustomCurtainWallHdr.ShortHelp	="Custom Curtain Wall";
+GTCArcCommandsHeader.GTCArcCustomCurtainWallHdr.LongHelp	="Creates Curtain Walls without specifications";
+
+
+//=============== Custom Stair =========================
+GTCArcCommandsHeader.GTCArcCustomStairHdr.Title	="Custom Stair...";
+GTCArcCommandsHeader.GTCArcCustomStairHdr.Help		="Custom Stair";
+GTCArcCommandsHeader.GTCArcCustomStairHdr.ShortHelp	="Custom Stair";
+GTCArcCommandsHeader.GTCArcCustomStairHdr.LongHelp	="Creates Stairs without specifications";
+
+
+//=============== Custom Stair Flight =========================
+GTCArcCommandsHeader.GTCArcCustomStairFlightHdr.Title	="Custom Stair Flight...";
+GTCArcCommandsHeader.GTCArcCustomStairFlightHdr.Help		="Custom Stair Flight";
+GTCArcCommandsHeader.GTCArcCustomStairFlightHdr.ShortHelp	="Custom Stair Flight";
+GTCArcCommandsHeader.GTCArcCustomStairFlightHdr.LongHelp	="Creates Stair Flights without specifications";
+
+
+//=============== Custom Ramp =========================
+GTCArcCommandsHeader.GTCArcCustomRampHdr.Title	="Custom Ramp...";
+GTCArcCommandsHeader.GTCArcCustomRampHdr.Help		="Custom Ramp";
+GTCArcCommandsHeader.GTCArcCustomRampHdr.ShortHelp	="Custom Ramp";
+GTCArcCommandsHeader.GTCArcCustomRampHdr.LongHelp	="Creates Ramps without specifications";
+
+
+//=============== Custom Ramp Flight =========================
+GTCArcCommandsHeader.GTCArcCustomRampFlightHdr.Title	="Custom Ramp Flight...";
+GTCArcCommandsHeader.GTCArcCustomRampFlightHdr.Help		="Custom Ramp Flight";
+GTCArcCommandsHeader.GTCArcCustomRampFlightHdr.ShortHelp	="Custom Ramp Flight";
+GTCArcCommandsHeader.GTCArcCustomRampFlightHdr.LongHelp	="Creates Ramp Flights without specifications";
+
+
+//=============== Custom Railing =========================
+GTCArcCommandsHeader.GTCArcCustomRailingHdr.Title	="Custom Railing...";
+GTCArcCommandsHeader.GTCArcCustomRailingHdr.Help		="Custom Railing";
+GTCArcCommandsHeader.GTCArcCustomRailingHdr.ShortHelp	="Custom Railing";
+GTCArcCommandsHeader.GTCArcCustomRailingHdr.LongHelp	="Creates Railings without specifications";
+
+
+//=============== Custom Column =========================
+GTCArcCommandsHeader.GTCArcCustomColumnHdr.Title	="Custom Column...";
+GTCArcCommandsHeader.GTCArcCustomColumnHdr.Help		="Custom Column";
+GTCArcCommandsHeader.GTCArcCustomColumnHdr.ShortHelp	="Custom Column";
+GTCArcCommandsHeader.GTCArcCustomColumnHdr..LongHelp	="Creates Columns without specifications";
+
+
+//=============== Custom Beam =========================
+GTCArcCommandsHeader.GTCArcCustomBeamHdr.Title	="Custom Beam...";
+GTCArcCommandsHeader.GTCArcCustomBeamHdr.Help		="Custom Beam";
+GTCArcCommandsHeader.GTCArcCustomBeamHdr.ShortHelp	="Custom Beam";
+GTCArcCommandsHeader.GTCArcCustomBeamHdr.LongHelp	="Creates Beams without specifications";
+
+
+//=============== Custom Member =========================
+GTCArcCommandsHeader.GTCArcCustomMemberHdr.Title	="Custom Member...";
+GTCArcCommandsHeader.GTCArcCustomMemberHdr.Help		="Custom Member";
+GTCArcCommandsHeader.GTCArcCustomMemberHdr.ShortHelp	="Custom Member";
+GTCArcCommandsHeader.GTCArcCustomMemberHdr.LongHelp	="Creates Members without specifications";
+
+
+//=============== Custom Plate =========================
+GTCArcCommandsHeader.GTCArcCustomPlateHdr.Title	="Custom Plate...";
+GTCArcCommandsHeader.GTCArcCustomPlateHdr.Help		="Custom Plate";
+GTCArcCommandsHeader.GTCArcCustomPlateHdr.ShortHelp	="Custom Plate";
+GTCArcCommandsHeader.GTCArcCustomPlateHdr.LongHelp	="Creates Plates without specifications";
+
+
+//=============== Custom Footing =========================
+GTCArcCommandsHeader.GTCArcCustomFootingHdr.Title	="Custom Footing...";
+GTCArcCommandsHeader.GTCArcCustomFootingHdr.Help		="Custom Footing";
+GTCArcCommandsHeader.GTCArcCustomFootingHdr.ShortHelp	="Custom Footing";
+GTCArcCommandsHeader.GTCArcCustomFootingHdr.LongHelp	="Creates Footings without specifications";
+
+
+//=============== Custom Pile =========================
+GTCArcCommandsHeader.GTCArcCustomPileHdr.Title	="Custom Pile...";
+GTCArcCommandsHeader.GTCArcCustomPileHdr.Help		="Custom Pile";
+GTCArcCommandsHeader.GTCArcCustomPileHdr.ShortHelp	="Custom Pile";
+GTCArcCommandsHeader.GTCArcCustomPileHdr.LongHelp	="Creates Piles without specifications";
+
+
+//=============== Custom Covering =========================
+GTCArcCommandsHeader.GTCArcCustomCoveringHdr.Title	="Custom Covering...";
+GTCArcCommandsHeader.GTCArcCustomCoveringHdr.Help		="Custom Covering";
+GTCArcCommandsHeader.GTCArcCustomCoveringHdr.ShortHelp	="Custom Covering";
+GTCArcCommandsHeader.GTCArcCustomCoveringHdr.LongHelp	="Creates Coverings without specifications";
+
+//=============== Custom Transport Element =========================
+GTCArcCommandsHeader.GTCArcCustomTransportElHdr.Title		="Custom Transport Element...";
+GTCArcCommandsHeader.GTCArcCustomTransportElHdr.Help		="Custom Transport Element";
+GTCArcCommandsHeader.GTCArcCustomTransportElHdr.ShortHelp	="Custom Transport Element";
+GTCArcCommandsHeader.GTCArcCustomTransportElHdr.LongHelp	="Creates Transport Element without specifications";
+
+//=============== Custom Furnishing Element =========================
+GTCArcCommandsHeader.GTCArcCustomFurnishElHdr.Title	="Custom  Furnishing Element...";
+GTCArcCommandsHeader.GTCArcCustomFurnishElHdr.Help		="Custom  Furnishing Element";
+GTCArcCommandsHeader.GTCArcCustomFurnishElHdr.ShortHelp	="Custom  Furnishing Element";
+GTCArcCommandsHeader.GTCArcCustomFurnishElHdr.LongHelp	="Creates  Furnishing Element without specifications";
+
+//=============== Custom Distribution Element =========================
+GTCArcCommandsHeader.GTCArcCustomDistElHdr.Title	="Custom Distribution Element...";
+GTCArcCommandsHeader.GTCArcCustomDistElHdr.Help		="Custom Distribution Element";
+GTCArcCommandsHeader.GTCArcCustomDistElHdr.ShortHelp	="Custom Distribution Element";
+GTCArcCommandsHeader.GTCArcCustomDistElHdr.LongHelp	="Creates Distribution Element without specifications";
+
+//=============== Custom Detailing Element =========================
+GTCArcCommandsHeader.GTCArcCustomDetailElHdr.Title	="Custom Detailing Element...";
+GTCArcCommandsHeader.GTCArcCustomDetailElHdr.Help		="Custom Detailing Element";
+GTCArcCommandsHeader.GTCArcCustomDetailElHdr.ShortHelp	="Custom Detailing Element";
+GTCArcCommandsHeader.GTCArcCustomDetailElHdr.LongHelp	="Creates Detailing Element without specifications";
+
+
+//=============== Remove Solid =========================
+GTCArcCommandsHeader.GTCArcRemoveSolidHdr.Title	="Remove Solid...";
+GTCArcCommandsHeader.GTCArcRemoveSolidHdr.Help		="Remove Solid";
+GTCArcCommandsHeader.GTCArcRemoveSolidHdr.ShortHelp	="Remove Solid";
+GTCArcCommandsHeader.GTCArcRemoveSolidHdr.LongHelp	="Removes Solid";
+
+//=============== Create proxy =========================
+GTCArcCommandsHeader.GTCArcCreateProxyCmdHdr.Title	="Create Proxy";
+GTCArcCommandsHeader.GTCArcCreateProxyCmdHdr.Help		="Create Proxy";
+GTCArcCommandsHeader.GTCArcCreateProxyCmdHdr.ShortHelp	="Create Proxy";
+GTCArcCommandsHeader.GTCArcCreateProxyCmdHdr.LongHelp	="Create Proxy";
+
+//=============== Sync proxies =========================
+GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr.Title	="Synchronize All Proxies";
+GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr.Help		="Synchronize All Proxies";
+GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr.ShortHelp	="Synchronize All Proxies";
+GTCArcCommandsHeader.GTCArcSyncProxiesCmdHdr.LongHelp	="Synchronize All Proxies";
+
+//=============== Sync proxy =========================
+GTCArcCommandsHeader.GTCArcSyncProxyCmdHdr.Title	="Synchronize";
+GTCArcCommandsHeader.GTCArcSyncProxyCmdHdr.Help		="Synchronize";
+GTCArcCommandsHeader.GTCArcSyncProxyCmdHdr.ShortHelp ="Synchronize";
+GTCArcCommandsHeader.GTCArcSyncProxyCmdHdr.LongHelp	="Synchronize";
+
+//=============== Replace proxy =========================
+GTCArcCommandsHeader.GTCArcProxyReplaceCmdHdr.Title		="Replace...";
+GTCArcCommandsHeader.GTCArcProxyReplaceCmdHdr.Help		="Replace";
+GTCArcCommandsHeader.GTCArcProxyReplaceCmdHdr.ShortHelp	="Replace";
+GTCArcCommandsHeader.GTCArcProxyReplaceCmdHdr.LongHelp	="Replace";
+
+//=============== Show reference for proxy =========================
+GTCArcCommandsHeader.GTCArcShowProxyParentCmdHdr.Title	="Center graph on pointed element";
+GTCArcCommandsHeader.GTCArcShowProxyParentCmdHdr.Help		="Center graph on pointed element";
+GTCArcCommandsHeader.GTCArcShowProxyParentCmdHdr.ShortHelp	="Center graph on pointed element";
+GTCArcCommandsHeader.GTCArcShowProxyParentCmdHdr.LongHelp	="Center graph on pointed element";
+
+// update model...
+GTCArcCommandsHeader.GTCArcModelUpdateCmdHdr.Title	="Upgrade V1R3 data model...";
+GTCArcCommandsHeader.GTCArcModelUpdateCmdHdr.Help		="Upgrade V1R3 data model to V1R4 Level (applicable to models prior to V1R4)";
+GTCArcCommandsHeader.GTCArcModelUpdateCmdHdr.ShortHelp	="Upgrade V1R3 data model to V1R4 Level (applicable to models prior to V1R4)";
+GTCArcCommandsHeader.GTCArcModelUpdateCmdHdr.LongHelp	="Upgrade V1R3 data model to V1R4 Level (applicable to models prior to V1R4)";
+
+
+////=============== Create Covering=========================
+GTCArcCommandsHeader.GTCArcCreateCoveringCmdHdr.Title		="Create Coverings";
+GTCArcCommandsHeader.GTCArcCreateCoveringCmdHdr.Help		="Create Coverings";
+GTCArcCommandsHeader.GTCArcCreateCoveringCmdHdr.ShortHelp	="Create Coverings";
+GTCArcCommandsHeader.GTCArcCreateCoveringCmdHdr.LongHelp	="Create Coverings";
+
+// ========== Arc Selection Filter ==========
+GTCArcCommandsHeader.GTCArcSelectionFilterCmdHdr.Title              = "A&S Selection Filter";
+GTCArcCommandsHeader.GTCArcSelectionFilterCmdHdr.Help               = "A&S Selection Filter";
+GTCArcCommandsHeader.GTCArcSelectionFilterCmdHdr.ShortHelp          = "A&S Selection Filter";
+GTCArcCommandsHeader.GTCArcSelectionFilterCmdHdr.LongHelp           = "A&S Selection Filter";
+
+// ========== building element link dump ==========
+GTCArcCommandsHeader.GTCArcBuildingElementLinkCmdHdr.Title             = "Output Buiilding Element Links...";
+GTCArcCommandsHeader.GTCArcBuildingElementLinkCmdHdr.Help               = "Out put building element links to a csv file";
+GTCArcCommandsHeader.GTCArcBuildingElementLinkCmdHdr.ShortHelp          = "Out put building element links to a csv filer";
+GTCArcCommandsHeader.GTCArcBuildingElementLinkCmdHdr.LongHelp           = "Out put building element links to a csv file";

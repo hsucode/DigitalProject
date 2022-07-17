@@ -1,0 +1,5 @@
+
+
+GTCTrsRobotFileChooserDlg = "Robot File";
+
+GTCTrsNewRobotExportCmd.InitState.Message = "Select a Robot file";

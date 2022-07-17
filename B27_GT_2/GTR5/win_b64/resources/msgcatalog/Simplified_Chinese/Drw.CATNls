@@ -1,0 +1,193 @@
+//=====================================================================================
+//                                     CNEXT - CXR1
+//                          COPYRIGHT DASSAULT SYSTEMES 1998 
+//-------------------------------------------------------------------------------------
+// FILENAME    :    Drw
+// LOCATION    :    DraftingUI
+// AUTHOR      :    fgx
+// BUT         :    Workbench Drafting 
+// DATE        :    17.11.1998
+//-------------------------------------------------------------------------------------
+// DESCRIPTION :    
+//-------------------------------------------------------------------------------------
+// COMMENTS    :    
+//-------------------------------------------------------------------------------------
+// MODIFICATIONS     user  date        purpose
+//    HISTORY        ----  ----        -------
+//      00           fgx   ??.05.98    Creation
+//      01           fgx   23.11.98    Nouvelle version CXR2
+//      02           fgx   13.01.99    Sous-menu de gendim
+//      03           fgx   28.01.99    Ajout du container de gendim dans tools
+//      04           fgx   26.02.99    Ajout tb de style
+//      05           fgx   29.03.99    Nouvelles commandes sketcher
+//      06           fgx   04.08.99    Nouveaux workbenches
+//      07           fgx   17.11.99    Ajout des tb measure et browser
+//      08           fgx   09.12.99    Ajout de tb analyze + container lines
+//	  09	         lgk   26.06.02	   Revision
+//	  10	         lgk   15.10.02	   -
+//=====================================================================================
+
+
+//Drw.Title="Drawing Generation";
+//Drw.ShortHelp="Drawing Generation";
+//Drw.Help="Drawing Generation Workbench";
+//Drw.LongHelp="This workbench is used to create architectural drawings.";
+
+// Configuration
+// -------------
+//-->STH
+Drw.Title="绘图";
+Drw.ShortHelp="绘图";
+Drw.Help="绘图工作台";
+Drw.LongHelp="此工作台用于创建建筑图纸。";
+//<--
+
+// Toolbars
+// --------
+// Right
+contTbSelect.Title="选择";
+contTbDrawing.Title="绘图";
+contTbViews.Title="视图";
+contTbDimensioning.Title="定尺寸";
+contTbGeneration.Title="生成";
+contTbAnnotations.Title="批注";
+contTbDressup.Title="修饰";
+contTbGeometryCreation.Title="创建几何图形";
+contTbGeometryEdition.Title="几何图形修改";
+// Top
+contTbStyle.Title="样式";
+contTbTextProperties.Title="文本属性";
+contTbDimensionProperties.Title="维属性";
+contTbGraphicProperties.Title="图形属性";
+// Bottom
+contTbUpdate.Title="更新";
+contTbTools.Title="工具";
+contTbMeasure.Title="测量";
+contTbBrowser.Title="库（catalog）浏览器";
+// UnDock
+contTbOrientation.Title="位置和方向";
+contTbPosition.Title="定位";
+contTbAnalyze.Title="分析";
+contTbMultiView.Title="多视图（2.5 D）";
+
+// Sub-Toolbars
+// ------------
+contSheets.Title="页";
+contProjections.Title="投影";
+contSections.Title="截面";
+contDetails.Title="细节";
+contClippings.Title="剪裁";
+contBroken.Title="断开视图";
+contViewWizard.Title="向导";
+contDimensions.Title="维";
+CATDrwFeatDimIcb.Title="技术特征维";
+CATDrwContInterruptTlb.Title="维版本";
+contTolerancing.Title="公差";
+contGenDim.Title="维生成";
+contTexts.Title="文本";
+contSymbols.Title="符号";
+CATDrwContTableIcb.Title="表";
+contAxis.Title="轴和螺纹";
+contPoint.Title="点";
+contLine.Title="线";
+contCircle.Title="圆形和椭圆形";
+contProfiles.Title="轮廓";
+contCurves.Title="曲线";
+contRelimit.Title="重新限制";
+contTransfor.Title="转换";
+contCst.Title="约束";
+
+// Sub-Menus
+// ---------
+// First level
+contMenuViews.Title="视图(V)";
+contMenuViews.Mnemonic="V";
+contMenuDrawing.Title="绘图(R)";
+contMenuDrawing.Mnemonic="R";
+contMenuDimensioning.Title="定尺寸(D)";
+contMenuDimensioning.Mnemonic="D";
+contMenuGeneration.Title="生成(N)";
+contMenuGeneration.Mnemonic="N";
+contMenuAnnotations.Title="批注(A)";
+contMenuAnnotations.Mnemonic="A";
+contMenuDressup.Title="修饰(U)";
+contMenuDressup.Mnemonic="U";
+contMenuGeometryCreation.Title="几何图形创建(G)";
+contMenuGeometryCreation.Mnemonic="G";
+contMenuGeometryEdition.Title="几何图形修改(M)";
+contMenuGeometryEdition.Mnemonic="M";
+contMenuDrwGenDimTools.Title="维生成(G)";
+contMenuDrwGenDimTools.Mnemonic="G";
+contMenuDrwPositioning.Title="定位(P)";
+contMenuDrwPositioning.Mnemonic="P";
+contMenuDrwAnalyze.Title="分析(A)";
+contMenuDrwAnalyze.Mnemonic="A";
+contMenuDrwMultiView.Title="多视图(I)（2.5 D）";
+contMenuDrwMultiView.Mnemonic="I";
+contMenuCst.Title="约束(C)";
+contMenuCst.Mnemonic="C";
+
+// Second level
+contMenuProjections.Title="投影(P)";
+contMenuProjections.Mnemonic="P";
+contMenuSections.Title="截面(S)";
+contMenuSections.Mnemonic="S";
+contMenuDetails.Title="细节(D)";
+contMenuDetails.Mnemonic="D";
+contMenuClippings.Title="剪裁(C)";
+contMenuClippings.Mnemonic="C";
+contMenuBroken.Title="断开视图(C)";
+contMenuBroken.Mnemonic="C";
+contMenuViewWizard.Title="向导(W)";
+contMenuViewWizard.Mnemonic="W";
+// ---
+contMenuSheets.Title="页(S)";
+contMenuSheets.Mnemonic="S";
+// ---
+contMenuDimensions.Title="维(D)";
+contMenuDimensions.Mnemonic="D";
+CATDrwFeatDimSnu.Title="技术特征维(F)";
+CATDrwFeatDimSnu.Mnemonic="F";
+contMenuTolerancing.Title="公差(T)";
+contMenuTolerancing.Mnemonic="T";
+// ---
+contMenuTexts.Title="文本(T)";
+contMenuTexts.Mnemonic="T";
+contMenuSymbols.Title="符号(S)";
+contMenuSymbols.Mnemonic="S";
+CATDrwContTableMenuSnu.Title="表(A)";
+CATDrwContTableMenuSnu.Mnemonic="A";
+// ---
+contMenuAxis.Title="轴和螺纹(A)";
+contMenuAxis.Mnemonic="A";
+// ---
+contMenuPoint.Title="点(P)";
+contMenuPoint.Mnemonic="P";
+contMenuLine.Title="线(L)";
+contMenuLine.Mnemonic="L";
+contMenuCircle.Title="圆形和椭圆形(C)";
+contMenuCircle.Mnemonic="C";
+contMenuProfiles.Title="轮廓(F)";
+contMenuProfiles.Mnemonic="F";
+contMenuCurves.Title="曲线(U)";
+contMenuCurves.Mnemonic="U";
+// ---
+contMenuRelimit.Title="重新限制(R)";
+contMenuRelimit.Mnemonic="R";
+contMenuTransfor.Title="转换(T)";
+contMenuTransfor.Mnemonic="T";
+
+// Third level
+contMenuInterrupt.Title="维版本(E)";
+contMenuInterrupt.Mnemonic="E";
+
+// Contextual Sub-Menus
+// --------------------
+DrwPositionalLink.Title="位置链接";
+DrwOrientationLink.Title="方向链接";
+DrwViewPositioning.Title="视图定位";
+DrwDimInterruptSubMenu.Title="中断";
+CATDrwViewPositioningTlb.Title="视图定位";
+CATDrwGVSSnu.Title="生成视图样式";
+CATDrwDimensionRepresentation.Title="维表达";
+CATDrwAngleSector.Title="角扇区";

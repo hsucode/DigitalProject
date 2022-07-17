@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+NameLabel.Title = "Name";
+Label004.Title = "        ";
+SupportLabel.Title = "Support";
+ReverseDirBtn.Title = "Reverse Direction";
+BoundaryLabel.Title = "Boundary";
+GVSLabel.Title = "GVS";
+Label005.Title = "                                                  ";
+AxisLabel.Title = "Axis";
+GroupLabel.Title = "Group";
+ApplyRules.Title = "Automatic Dress-up";
+// END WIZARD REPLACEMENT ZONE
+NewTitle = " New Front View ";
+EditTitle = " Edit Front View ";

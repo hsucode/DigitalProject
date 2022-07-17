@@ -1,0 +1,14 @@
+frameParent.Title = " Position ";
+frameParent.labelSetPoint.Title = " Set Point ";
+frameParent.labelAngle.Title = " Angle ";
+frameParent.labelHOffset.Title = "  H-Offset ";
+frameParent.labelVOffset.Title = "  V-Offset ";
+frameParent.pushBttnInvert.Title = "Invert";
+
+frameParent.pushBttnHorizNormal.Title = " Normal / Vertical ";
+
+frameParent.labelAngleReference.Title = " Angle Reference ";
+
+OrientationNeutral = "o";
+OrientationPositive = "+";
+OrientationNegative = "-";

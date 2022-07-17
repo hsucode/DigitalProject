@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA WIZARD WILL REPLACE ALL THE CODE HERE
+// END CAA WIZARD REPLACEMENT ZONE
+Title = "Update Ifc Quantities";
+
+StatusTitle = "Update Quantities";
+UpdateOKStatus = "Quantities updated successfully.";
+UpdateKOStatus = "Quantities update failed.";

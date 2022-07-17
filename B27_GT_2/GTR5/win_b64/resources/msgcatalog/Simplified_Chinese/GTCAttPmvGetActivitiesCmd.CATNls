@@ -1,0 +1,11 @@
+GTCAttPmvGetActivitiesCmd.InitialState.Message="选择一个Primavera页项目";
+
+ActivatePrjTitle="激活Primavera项目";
+ActivatePrjMsg="Primavera项目 并且重新执行命令";
+
+SuccessfullyLoadedTitle="Primavera活动已经装载";
+SuccessfullyLoadedMsg="Primavera活动已经被成功装载";
+
+
+UnexpectedErrTitle="意外的错误";
+UnexpectedErrMsg="发生意外的错误 请报道错误";

@@ -1,0 +1,25 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+
+//
+//
+//
+Title = "属性";
+ListColDicoName = "字典";	
+ListColPkgName  = "包装";
+ListColPkgAttName = "属性";
+
+GTCPackageSubTypeOption="<次类别>";
+
+ListAttsDictionaries.Help			= "选择一个或多个字典";
+ListAttsDictionaries.ShortHelp		= "字典";
+ListAttsDictionaries.LongHelp		= "选择一个或多个字典";
+
+ListAttsPackages.Help				= "在选定的字典找到的包装。选择一个或多个包装。";
+ListAttsPackages.ShortHelp			= "包装";
+ListAttsPackages.LongHelp			= "在选定的字典找到的包装。选择一个或多个包装。";
+
+ListAttsPackagesAttributes.Help		= "在选定的字典和包装找到的属性。选择一个或多个属性。";
+ListAttsPackagesAttributes.ShortHelp= "属性";
+ListAttsPackagesAttributes.LongHelp = "在选定的字典和包装找到的属性。选择一个或多个属性。";

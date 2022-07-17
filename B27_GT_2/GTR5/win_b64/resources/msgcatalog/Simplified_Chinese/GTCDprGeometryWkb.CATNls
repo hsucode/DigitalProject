@@ -1,0 +1,92 @@
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+GTCDprGeometryWkb.Title = "几何";
+GTCDprGeometryWkb.Help       = "几何";
+GTCDprGeometryWkb.ShortHelp  = "几何";
+GTCDprGeometryWkb.LongHelp   = "几何";
+
+GTCGenSelectEltTlb.Title = "选择";
+GTCGenSketchEltTlb.Title = "草图";
+GTCGenWireframeEltTlb.Title = "线框";
+GTCGenSolidsEltTlb.Title = "实体";
+GTCDressUpSolidsTlb.Title = "装饰特征";
+GTCGenSurfaceBasedSolidsEltTlb.Title = "基于曲面的实体";
+GTCGenSurfacesEltTlb.Title = "表面";
+GTCGenOperationsEltTlb.Title = "操作";
+GTCGenShapeDesignAnalysisEltTlb.Title = "形状分析";
+GTCGenToolsEltTlb.Title = "常规工具";
+GTCInsertTlb.Title = "插入";
+GTCBoolOpsTlb.Title = "布尔操作";
+GTCAnalysisTlb.Title = "分析";
+GTCTransformationTlb.Title = "变形";
+GTCGenAnalyzeMenu.Title = "分析";
+GTCDataMenu.Title = "数据";
+
+GTCAttributePackageTlb.Title = "项目属性";
+GTCAnnotationTlb.Title = "注解";
+GTCConstraintTlb.Title = "约束";
+GTCDataUtilitiesTlb.Title = "数据工具";
+GTCFreeStyleDesignTlb.Title = "自由样式设计";
+GTCShapeModificationTlb.Title = "形状变更";
+GTCCurrentPlaneOrientationTlb.Title = "当前平面方向";
+GTCResueTlb.Title = "重新使用";
+GTCGuiWPAddinIconBox.Title = "渲染样式";
+//GTCStructureToolsTlb.Title = "Structure Tools";
+
+
+GTCSurfaceBasedSolidsSubMenu.Title = "基于曲面的实体";
+GTCDrawingViewsSubMenu.Title = "绘图视图";
+GTCAnnotationsSubMenu.Title = "绘图注解";
+GTCConstraintsSubMenu.Title = "约束";
+GTCWireframeSubMenu.Title = "线框";
+GTCSurfacesSubMenu.Title = "曲面";
+GTCOperationsSubMenu.Title = "操作";
+GTCSolidsSubMenu.Title = "基于草图的特征";
+GTCDressUpSolidsSubMenu.Title = "装饰特征";
+GTCBooleanOperationsSubMenu.Title = "布尔操作";
+GTCTransformationSubMenu.Title = "变形";
+GTCAdvancedReplicationSubMenu.Title = "进阶复制";
+GTCWireframeAnalysisSubMenu.Title = "线框分析";
+GTCSolidsAnalysisSubMenu.Title = "实体分析";
+GTCAttributesAnalysisSubMenu.Title = "属性分析";
+
+GTCPlaneIbx.Title = "平面";
+GTCPointIbx.Title = "点";
+GTCLineIbx.Title = "线";
+GTCCircleIbx.Title = "圆";
+
+GTCBoolOpsIbx.Title = "布尔操作";
+GTCFilletIbx.Title = "边倒角";
+GTCPocketIbx.Title = "开槽腔";
+GTCPadIbx.Title = "填充器";
+GTCGridIbx.Title = "网格";
+GTCKeepModeIbx.Title = "保存方式";
+GTCJoinIbx.Title = "联合";
+GTCBoundaryIbx.Title = "边界线";
+GTCSplitIbx.Title = "分割";
+GTCTranslateIbx.Title = "移动";
+GTCSketchIbx.Title = "草图";
+GTCExtrudeIbx.Title = "突出";
+GTCTransformationIbx.Title = "变形";
+GTCPatternIbx.Title = "模式";
+GTCWireframeAnalysisIbx.Title = "线框分析";
+
+GTCObjectRepetitionIbx.Title = "重复";
+GTCOpenCatalogIbx.Title = "开启目录";
+GTCWireframePatternsIbx.Title = "线框模式";
+GTCSolidPatternIbx.Title = "实体模式";
+
+GTCFilletIbx.Title = "边倒角";
+GTCExtrapolateIbx.Title = "外推";
+
+GTCSplineIbx.Title = "样条";
+GTCParallelCurveIbx.Title = "平行曲线";
+GTCProjectIbx.Title = "投影";
+
+GTCRemoveFaceIbx.Title = "移除面";
+GTCConcatenateIbx.Title = "连结";
+
+GTCGenSchedulesSubMenu.Title = "日程表";
+GTCAttsManagementToolsSubMenu.Title = "属性管理工具";
+

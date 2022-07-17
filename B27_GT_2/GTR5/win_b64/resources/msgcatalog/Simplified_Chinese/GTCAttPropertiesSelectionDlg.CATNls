@@ -1,0 +1,19 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+
+Title = "属性";
+FrameTemplate.ListColComponents = "部件";	
+ListColKeywords  = "属性";
+
+
+FrameNonTemplateOptions.FrameReportIdentifiers.Title = "身份标识";
+
+FrameTemplate.ListComponents.Help			= "选择一个或者多个部件类型.";
+FrameTemplate.ListComponents.ShortHelp		= "部件";
+FrameTemplate.ListComponents.LongHelp		= "选择一个或者多个部件类型.";
+
+FrameTemplate.ListKeywords.Help				= "选择一个或多个属，在所选组件中找到关键字.";
+FrameTemplate.ListKeywords.ShortHelp		= "属性";
+FrameTemplate.ListKeywords.LongHelp			= "选择一个或多个属，在所选组件中找到关键字.";
+

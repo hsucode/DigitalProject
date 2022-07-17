@@ -1,0 +1,31 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "数量抽出";
+FrameQueryObjects.Title = "疑问对象";
+FrameQueryObjects.FrameObjectTypes.Title = "对象类型";
+FrameQueryObjects.FrameObjectTypes.CheckButtonSolids.Title = "实体";
+FrameQueryObjects.FrameObjectTypes.CheckButtonSurfaces.Title = "曲面";
+FrameQueryObjects.FrameObjectTypes.CheckButtonLinesCurves.Title = "线与曲线";
+FrameQueryObjects.FrameObjectTypes.CheckButtonPoints.Title = "点";
+FrameQueryObjects.FrameObjectTypes.CheckButtonPartInstances.Title = "零部件实例";
+FrameQueryObjects.FrameObjectTypes.CheckButtonSetsAndBodies.Title = "集 和 几何体";
+FrameQueryObjects.FrameObjectTypes.CheckButtonUserFeatures.Title = "用户特征";
+FrameReportData.Title = "报告数据";
+FrameReportData.FrameIdentifiers.Title = "标识符";
+FrameReportData.FrameIdentifiers.CheckButtonPartName.Title = "零部件名称";
+FrameReportData.FrameIdentifiers.CheckButtonBodyName.Title = "几何体 或 集名称";
+FrameReportData.FrameIdentifiers.CheckButtonFeatureName.Title = "特征名称";
+FrameReportData.FrameIdentifiers.CheckButtonFeatureType.Title = "特征类型";
+FrameReportData.FrameIdentifiers.CheckButtonPartInstance.Title = "零部件实例";
+FrameReportData.FrameCalculations.Title = "计算";
+FrameReportData.FrameCalculations.CheckButtonVolume.Title = "容量";
+FrameReportData.FrameCalculations.CheckButtonArea.Title = "面积";
+FrameReportData.FrameCalculations.CheckButtonLength.Title = "长度";
+FrameReportData.FrameCalculations.CheckButtonCoordinates.Title = "座标";
+FrameReportData.FrameExportFile.Title = "卸载文件";
+FrameReportData.FrameExportFile.PushButtonExportFileBrowse.Title = "...";
+// END WIZARD REPLACEMENT ZONE
+
+
+
+Only = "只有";
+Attributes = "属性";

@@ -1,0 +1,12 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "颜色过滤";
+BOK = "重置";
+BCancel = "关闭";
+tbcLayer.tabLayer.Title = "层数";
+tbcLayer.tabLayer.conLayer.frmLayer.lblLayer.Title = "层数";
+tbcLayer.tabLayer.conLayer.frmLayer.lblColor.Title = "颜色";
+tbcLayer.tabLayer.conLayer.frmLayer.lblHide.Title = "隐藏";
+tbcLayer.tabLayer.conLayer.frmLayer.cbtHide.Title = " ";
+// END WIZARD REPLACEMENT ZONE
+ExportXMLBtn.Title = "卸载";
+

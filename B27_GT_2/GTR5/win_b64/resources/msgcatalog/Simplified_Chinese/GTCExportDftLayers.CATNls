@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Export Drafting Layers to CSV File";
+FrameCSVFile.Title = "Save CSV file to";
+FrameCSVFile.PushButtonBrowseCSVFile.Title = "Browse...";
+FrameXMLFile.Title = "Drafting Layer Standard File";
+FrameXMLFile.PushButtonBrowseXMLFile.Title = "Browse...";
+// END WIZARD REPLACEMENT ZONE

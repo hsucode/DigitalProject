@@ -1,0 +1,13 @@
+
+
+NewTitle = " New Space ";
+EditTitle = " Edit Space ";
+
+
+labelShortName.Title = " Number ";
+labelLongName.Title = " Long Name     ";
+
+labelBottom.Title = " Bottom ";
+labelTop.Title = " Top ";
+frameFloorThicknessParent.labelFloor1Thickness.Title =  " Flooring Thickness   ";
+frameFloorThicknessParent.labelAnalyticalVolume.Title = " Analytical Volume ";

@@ -1,0 +1,56 @@
+!----------------------------------------------------------
+!   DASSAULT SYSTEMES  -  V5 ENVIRONMENT FILE
+!----------------------------------------------------------
+! MODE : Global
+! TYPE : CATIA_P3
+! TMSTMP : 1579705166
+! ARGS : -cs CATIA_P3 -a global -icon no -menu no 
+!----------------------------------------------------------
+! CATGTDPPath=C:\Program Files\Dassault Systemes\B27_GT
+! CATPath=C:\Program Files\Dassault Systemes\B27_GT
+
+GTCProjectStandards=%CATGTDPPath%\Project Standards
+GTCProjectData=%CATGTDPPath%\Project Data
+GTCUserData=CSIDL_APPDATA\Dassault Systemes
+CATInstallPath=%CATGTDPPath%\GTR5\win_b64;%CATPath%\win_b64
+CATDLLPath=%CATGTDPPath%\GTR5\win_b64\code\bin;%CATPath%\win_b64\code\bin
+CATICPath=%CATGTDPPath%\GTR5\win_b64\code\productIC;%CATPath%\win_b64\code\productIC
+CATCommandPath=%CATGTDPPath%\GTR5\win_b64\code\command;%CATPath%\win_b64\code\command
+CATDictionaryPath=%CATGTDPPath%\GTR5\win_b64\code\dictionary;%CATPath%\win_b64\code\dictionary
+CATDocView=%CATGTDPPath%\GTR5\win_b64\doc;%CATPath%\win_b64\doc
+CATReffilesPath=%CATGTDPPath%\GTR5\win_b64\reffiles;%CATPath%\win_b64\reffiles
+CATFontPath=%CATGTDPPath%\GTR5\win_b64\resources\fonts;%CATPath%\win_b64\resources\fonts
+CATGalaxyPath=%CATGTDPPath%\GTR5\win_b64\resources\galaxy;%CATPath%\win_b64\resources\galaxy
+CATGraphicPath=%GTCProjectStandards%\customstartup\Dictionaries;%GTCProjectStandards%\customstartup\Dictionaries\icons;%GTCProjectStandards%\startup\Dictionaries;%GTCProjectStandards%\startup\Dictionaries\icons;%CATGTDPPath%\GTR5\win_b64\resources\graphic;%CATPath%\win_b64\resources\graphic;%CATGTDPPath%\GTR5\win_b64\resources\graphic\icons;%CATPath%\win_b64\resources\graphic\icons;%CATGTDPPath%\GTR5\win_b64\resources\graphic\figures;%CATPath%\win_b64\resources\graphic\figures;%CATGTDPPath%\GTR5\win_b64\resources\graphic\splashscreens;%CATPath%\win_b64\resources\graphic\splashscreens;%CATGTDPPath%\GTR5\win_b64\resources\graphic\symbols;%CATPath%\win_b64\resources\graphic\symbols;%CATGTDPPath%\GTR5\win_b64\resources\graphic\textures;%CATPath%\win_b64\resources\graphic\textures
+CATMsgCatalogPath=%GTCProjectStandards%\customstartup\Dictionaries\msgCatalog;%GTCProjectStandards%\startup\Dictionaries\msgCatalog;%CATGTDPPath%\GTR5\win_b64\resources\msgcatalog;%CATPath%\win_b64\resources\msgcatalog
+CATFeatureCatalogPath=%CATGTDPPath%\GTR5\win_b64\resources\featurecatalog;%CATPath%\win_b64\resources\featurecatalog
+CATDefaultCollectionStandard=%GTCProjectStandards%\resources\standard
+CATKnowledgePath=%GTCProjectStandards%\resources\knowledge
+CATStartupPath=%GTCProjectStandards%\customstartup;%GTCProjectStandards%\startup;%CATGTDPPath%\GTR5\win_b64\startup;%CATPath%\win_b64\startup
+CATW3ResourcesPath=%CATGTDPPath%\GTR5\win_b64\docs;%CATPath%\win_b64\docs
+CATReconcilePath=
+CATReferenceSettingPath=%GTCProjectStandards%\customresources\projectsettings
+CATUserSettingPath=CSIDL_APPDATA\Dassault Systemes\CATSettings\V1R5 (64)
+CATCollectionStandard=%GTCProjectStandards%\customresources\standard
+CATTemp=CSIDL_LOCAL_APPDATA\Dassault Systemes\CATTemp
+CATMetasearchPath=DSKEY_TMPDIR
+CATW3PublishPath=DSKEY_TMPDIR
+CATSharedWorkbookPath=DSKEY_TMPDIR
+CATErrorLog=CSIDL_LOCAL_APPDATA\Dassault Systemes\CATTemp\error.log
+CATReport=CSIDL_LOCAL_APPDATA\Dassault Systemes\CATReport
+CATDisciplinePath=%CATGTDPPath%\GTR5\win_b64\startup\PRMData
+USER_HOME=CSIDL_PERSONAL
+JAVA_HOME=%JAVA_HOME%
+CLASSPATH_JDBC=
+CLASSPATH=%CLASSPATH_JDBC%;%CLASSPATH%
+PATH=%CATGTDPPath%\GTR5\win_b64\code\bin;%CATPath%\win_b64\code\bin;%CATGTDPPath%\GTR5\win_b64\code\command;%CATPath%\win_b64\code\command;%JAVA_HOME%\bin;%PATH%
+LM_LICENSE_FILE=%CATGTDPPath%\FlexLMLicense;@FlexLM_License_Server_Name
+GSD_TOOLSOPTION_AUTOEXPANDATOPEN=1
+CAT_DRW_CAA_SECTIONVIEWCREATION=1
+GTCMultiSelectUserMode=FALSE
+GTCIfcAdvancedExportOptions=FALSE
+BreakRunAtEveryPart=1
+GTCMSProjectFilePath=%GTCUserData%\MicrosoftProject;%GTCProjectData%\MicrosoftProject
+GTC3DDWGFilePath=%GTCUserData%\3D-DWG Import With Link;%GTCProjectData%\3D-DWG Import With Link
+GTCExcelDataSheetFilePath=%GTCUserData%\Datasheets;%GTCProjectData%\Datasheets
+CATNoStartDocument=1

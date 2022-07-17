@@ -1,0 +1,22 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+NameLabel.Title = "Name";
+Label004.Title = "        ";
+SupportLabel.Title = "Support";
+ReverseDirBtn.Title = "Reverse Direction";
+BoundaryLabel.Title = "Boundary";
+GVSLabel.Title = "GVS";
+Label005.Title = "                                                  ";
+AxisLabel.Title = "Axis";
+OffsetLabel.Title = "Offset";
+GroupLabel.Title = "Group";
+ShowCut.Title = " ";
+Label006.Title = "  ";
+ApplyRules.Title = "Automatic Dress-up";
+RemoveHatches.Title = "Remove Generated Patterns";
+RemoveHatches.ShortHelp = "Remove Generated Shapes from the view";
+// END WIZARD REPLACEMENT ZONE
+NewSectionViewTitle = " New Section View ";
+EditSectionViewTitle = " Edit Section View ";
+NewSectionCutTitle = " New Section Cut ";
+EditSectionCutTitle = " Edit Section Cut ";
+ShowCutPlaneText = "Section";

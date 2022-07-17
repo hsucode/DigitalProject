@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "更新导入文件";
+ImportList.ColumnTitle1 = "名称";
+ImportList.ColumnTitle2 = "文件类型";
+ImportList.ColumnTitle3 = "版本";
+ImportList.ColumnTitle4 = "导入文件";
+ImportList.ColumnTitle5 = "最终修改时间";
+ImportList.ColumnTitle6 = "在磁盘最终时间";
+ImportList.ColumnTitle7 = "状态";
+ReimportBtn.Title = "  重新导入  ";
+UnloadPartsCheck.Title = "导入期间更新零件";
+// END WIZARD REPLACEMENT ZONE
+ReadOnlyFilesWarning = "The following files that belong to this product are read-only.\nPlease unset the read-only flags and try again.\n\n";
+DeletePartsWarning = "Obsolete parts and CATParts will be deleted and can not be recovered.";

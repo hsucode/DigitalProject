@@ -1,0 +1,8 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Import 3d-2d Drafting Rules from CSV File";
+FrameMapFile.Title = "Select CSV file";
+FrameMapFile.PushButtonBrowseMapFile.Title = "Browse...";
+FrameRuleFile.Title = "Save 3d to 2d rules file to";
+FrameRuleFile.PushButtonBrowseRuleFile.Title = "Browse...";
+FrameDiscreteFile.Title = "Discrete values file";
+// END WIZARD REPLACEMENT ZONE

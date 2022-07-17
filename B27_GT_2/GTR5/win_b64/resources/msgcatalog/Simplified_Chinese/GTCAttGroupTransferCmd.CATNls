@@ -1,0 +1,3 @@
+GTCAttGroupTransferCmd.ProdFromState.Message="选择一个组转移来转移属性";
+GTCAttGroupTransferCmd.ProdToState.Message="选择一个零部件属性会转移到";
+GTCAttGroupTransferCmd.ConfirmState.Message="确认或者取消";

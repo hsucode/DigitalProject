@@ -1,0 +1,10 @@
+
+
+GTCArcOpeningCmd.StateNoSel.Message = "Specify opening attributes";
+GTCArcOpeningCmd.StateGetArcSupport.Message = "Select a wall, slab or space";
+GTCArcOpeningCmd.StateGetPlacement.Message = "Select opening placement";
+GTCArcOpeningCmd.StateGetToAngleRef.Message = "Select an element as an alignment reference";
+GTCArcOpeningCmd.StateGetFromLimit.Message = "Select a from limiting element";
+GTCArcOpeningCmd.StateGetToLimit.Message = "Select a to limiting element";
+GTCArcOpeningCmd.StateGetCustomSection.Message = "Select an element for the custom section";
+GTCArcOpeningCmd.StateSetPoint.Message = "Select set point position";

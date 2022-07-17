@@ -1,0 +1,2 @@
+//GTCAttRootDeactivateCmd.InitialState.Message="Select a root.  All groups in document will be deactivated regardless of their root.";
+GTCAttRootDeactivateCmd.InitialState.Message="选择一个根。文件中所有组的激活状态将被解除无论它们的根是什么。";

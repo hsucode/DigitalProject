@@ -1,0 +1,22 @@
+NewTitle = " New Window Opening ";
+EditTitle = " Edit Window Opening ";
+
+frameParent.frameElement.labelName.Title = " Name ";
+
+frameParent.frameElement.labelElement.Title = " Element ";
+
+frameParent.framePlacement.Title = " Placement ";
+frameParent.framePlacement.labelPosition.Title = " Position ";
+
+frameParent.frameStyle.Title = " Style ";
+frameParent.frameStyle.labelOpenRatio.Title = " Open Ratio  ";
+frameParent.frameStyle.pushBttnFillAttsMore.Title = "More...";
+
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.ShortHelp = "Select style interactively or choose from Catalog Browser";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.Help = "Select style interactively or choose from Catalog Browser";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.LongHelp = "Select style interactively or choose from Catalog Browser. Style selection is enabled after Placement Reference is specified";
+
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.Title = "...";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.ShortHelp = "Launches Catalog Browser";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.Help = "Launches Catalog Browser";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.LongHelp = "Catalog Browser for style selection is enabled after Placement Reference is specified";

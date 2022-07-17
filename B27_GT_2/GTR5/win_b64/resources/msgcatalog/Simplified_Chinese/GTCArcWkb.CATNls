@@ -1,0 +1,127 @@
+
+
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+GTCArcWkb.Title = "建筑与结构 ";
+GTCArcWkb.Help       = "建筑与结构 ";
+GTCArcWkb.ShortHelp  = "建筑与结构 ";
+GTCArcWkb.LongHelp   = "建筑与结构 ";
+
+GTCArcGenSelectEltTlb.Title = "选择";
+GTCArcGenSketchTlb.Title = "草图";
+GTCArcGenWireframeEltTlb.Title = "线框";
+
+GTCArcTlb.Title = "建筑构件";
+GTCArcCustomBldgElsTlb.Title = "建筑元素";
+GTCArcCustomBldgElMnu.Title = "建筑元素";
+
+GTCMultiEditTlb.Title = "多重编辑";
+GTCArcConnectionToolsTlb.Title = "连接工具";
+
+GTCGridTlb.Title = "轴网";
+GTCStrFEMTlb.Title = "FEM 模型器";
+GTCRemoveSolidTlb.Title = "细节";
+GTCArcTrsRobotTlb.Title = "机器翻译";
+GTCIfcQuantityTlb.Title = "更新数量";
+
+GTCGenSurfacesEltTlb.Title = "曲面";
+GTCGenOperationsEltTlb.Title = "操作";
+GTCGenShapeDesignAnalysisEltTlb.Title = "形状分析";
+GTCUpdateToolsEltTlb.Title = "更新工具";
+GTCGenToolsEltTlb.Title = "常规工具";
+GTCInsertTlb.Title = "插入";
+GTCExcelDataSheetsTlb.Title = "Excel 数据表";
+
+GTCGenAnalyzeMenu.Title = "分析";
+GTCDataMenu.Title = "数据";
+//GTCAttributePackageTlb.Title = "项目属性";
+GTCAnnotationTlb.Title = "标注";
+GTCConstraintTlb.Title = "约束";
+
+GTCShapeModificationTlb.Title = "修改外形";
+GTCCurrentPlaneOrientationTlb.Title = "当前的平面方向";
+GTCResueTlb.Title = "重用";
+GTCGuiWPAddinIconBox.Title = "渲染风格";
+//GTCStructureToolsTlb.Title = "结构工具";
+GTCConstructionAdminTlb.Title = "建筑管理";
+GTCGeneralHelpTlb.Title = "帮助";
+
+GTCDrawingViewsSubMenu.Title = "绘图视图";
+GTCAnnotationsSubMenu.Title = "绘图注释";
+GTCConstraintsSubMenu.Title = "约束";
+GTCWireframeSubMenu.Title = "线框";
+GTCSurfacesSubMenu.Title = "表面";
+GTCOperationsSubMenu.Title = "操作";
+GTCSolidsSubMenu.Title = "基于草图的功能";
+GTCDressUpSolidsSubMenu.Title = "装饰功能";
+GTCBooleanOperationsSubMenu.Title = "布尔操作";
+GTCTransformationSubMenu.Title = "转换";
+GTCAdvancedReplicationSubMenu.Title = "高级复制";
+GTCWireframeAnalysisSubMenu.Title = "线框分析";
+GTCSolidsAnalysisSubMenu.Title = "实体分析";
+GTCAttributesAnalysisSubMenu.Title = "属性分析";
+GTCShortcutsSubMenu.Title = "环境快捷方式";
+GTCDftRulesLayersSubMenu.Title = "绘图规则和图层";
+
+GTCArcObjectSubMenu.Title = "建筑对象";
+GTCArcGridsSubMenu.Title = "轴网";
+GTCArcFEMSubMenu.Title = "FEM 建模器";
+
+GTCArcPlaneIbx.Title = "平面";
+GTCArcPointIbx.Title = "点";
+GTCArcLineIbx.Title = "线";
+GTCCircleIbx.Title = "圆";
+//Veguru Start
+GTCSweepIbx.Title ="扫掠";
+//Veguru End
+
+GTCFilletIbx.Title = "倒圆角";
+GTCGridIbx.Title = "轴网";
+GTCKeepModeIbx.Title = "保持模式";
+GTCJoinIbx.Title = "结合";
+GTCBoundaryIbx.Title = "边界";
+GTCSplitIbx.Title = "修剪";
+GTCTranslateIbx.Title = "平移";
+GTCSketchIbx.Title = "草图";
+GTCExtrudeIbx.Title = "挤压";
+GTCTransformationIbx.Title = "转型";
+GTCPatternIbx.Title = "阵列";
+GTCWireframeAnalysisIbx.Title = "线框分析";
+
+GTCObjectRepetitionIbx.Title = "重复";
+GTCOpenCatalogIbx.Title = "开放目录";
+GTCWireframePatternsIbx.Title = "线框图案";
+GTCSolidPatternIbx.Title = "实体阵列";
+GTCSolidPatternTlb.Title = "实体阵列";
+
+GTCFilletIbx.Title = "倒圆角";
+GTCExtrapolateIbx.Title = "外插延时";
+
+GTCSplineIbx.Title = "样条曲线";
+GTCParallelCurveIbx.Title = "平行曲线";
+GTCProjectIbx.Title = "投影";
+
+GTCRemoveFaceIbx.Title = "移除面";
+GTCConcatenateIbx.Title = "加入";
+
+GTCGenSchedulesSubMenu.Title = "时间表";
+GTCAttsManagementToolsSubMenu.Title = "属性管理工具";
+GTCArcGenStructureToolsSubMenu.Title = "结构工具...";
+GTCIFCTrsSubMenu.Title = "IFC 翻译器";
+
+GTCSurfToolsIbx.Title = "表面工具";
+
+GTCVersionTitle = "不兼容的应用程序版本:";
+GTCVersionWarningMsg1 ="The file: ";
+GTCVersionWarningMsg2 = "Your running version of Digital Project is: ";
+GTCVersionWarningMsg3 = "Please upgrade to the latest version of Digital Project.";
+
+GTCArcViewTlb.Title = "A&S 视图";
+GTCArcViewSubTlb.Title = "A&S 视图";
+GTCArcViewMnu.Title = "A&S 视图";
+
+GTCGeoTagSubTlb.Title = "标签";
+GTCGeoTagSubMnu.Title = "标签";
+
+GTCArcSelectTlb.Title = "A&S 选择";

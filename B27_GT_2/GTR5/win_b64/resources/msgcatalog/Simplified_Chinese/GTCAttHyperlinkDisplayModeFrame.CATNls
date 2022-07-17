@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "超级链接";
+// END WIZARD REPLACEMENT ZONE
+btnAttHyperLinkName.Title = "名称";
+btnAttHyperLinkLink.Title = "链接";
+btnAttHyperLinkSrc.Title = "来源";

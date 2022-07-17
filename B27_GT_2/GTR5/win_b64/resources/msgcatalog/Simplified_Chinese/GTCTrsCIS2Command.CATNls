@@ -1,0 +1,22 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "CIS/2 卸载";
+FrameDocument.Title = "文档";
+FrameDocument.LabelFileName.Title = "文件名称";
+FrameDocument.LabelUnit.Title = "长度单位";
+FrameDocument.PushButtonBrowse.Title = "...";
+FrameDocument.LabelProduct.Title = "项目模型";
+// END WIZARD REPLACEMENT ZONE
+Unit0="毫米";
+Unit1="米";
+Unit2="厘米";
+Unit3="公里";
+Unit4="英寸";
+Unit5="英尺";
+Unit6="微米";
+//Unit0="Millimeter";
+//Unit1="Meter";
+//Unit2="Centimeter";
+//Unit3="Kilometer";
+//Unit4="Inch";
+//Unit5="Foot";
+//Unit6="Micrometer";

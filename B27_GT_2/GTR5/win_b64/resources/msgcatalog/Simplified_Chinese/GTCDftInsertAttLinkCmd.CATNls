@@ -1,0 +1,3 @@
+GTCDftInsertAttLinkCmd.SelectTextState.Message="选择一个绘图字形";
+GTCDftInsertAttLinkCmd.SelectItemState.Message="选择一个生成的物体";
+GTCDftInsertAttLinkCmd.SelectAttState.Message="选择一个属性";

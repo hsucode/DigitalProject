@@ -1,0 +1,39 @@
+// COPYRIGHT DASSAULT SYSTEMES 1998
+//===========================================================================
+//
+// DesignerWorkshop
+//
+//===========================================================================
+
+DesignerWorkshop.Title       = "创意造型";
+DesignerWorkshop.Help        = "This workbench is used for creating imagined shapes";
+DesignerWorkshop.ShortHelp   = "Imagine & Shape";
+DesignerWorkshop.LongHelp    = "Imagine & Shape";
+
+MainFunctionsToolbar.Title   = "Creation";
+MainProtoToolbar.Title       = "Prototypes";
+StylingSurfacesToolbar.Title = "Styling Surfaces";
+ViewManagementToolbar.Title  = "View Management";
+OptionsToolbar.Title         = "General Options";
+ProtoToolbar.Title           = "Proto On/Off";
+HelpTextToolbar.Title        = "Help Text";
+ShowCoordToolbar.Title       = "Show Coord";
+PrimitiveToolbar.Title       = "Closed Primitives";
+OpenPrimitiveToolbar.Title   = "Open Primitives";
+ImportExportToolbar.Title    = "Import/Export" ;
+SweepToolbar.Title           = "Sweep Primitives";
+GeneralSelect.Title          = "Selection";
+FrontSelectionToolbar.Title  = "View and Selection mode";
+BaseMeshSelectionToolbar.Title = "Base Mesh mode";
+PreviewModeToolbar.Title     = "Preview Mode";
+WireFrameToolbar.Title       = "Wireframe";
+GSDFrameToolbar.Title        = "Shape Operations";
+ModificationsToolbar.Title   = "Modification";
+OperationsToolBar.Title      = "Operations";
+GSDToolbar.Title             = "Update";
+FSSToolbar.Title             = "Shape Analysis";
+DesViewManagementToolBar.Title = "View";
+DesAnalysisToolBar.Title     = "Analysis";
+SymmetryToolbar.Title        = "Symmetry";
+
+

@@ -1,0 +1,12 @@
+
+
+GTCArcBeamColumnRibCmd.StateInitial.Message = "Click anywhere in the viewer to exit";
+GTCArcBeamColumnRibCmd.StateNoSel.Message = "Specify member attributes";
+GTCArcBeamColumnRibCmd.StateGetSupport.Message = "Select a support element";
+GTCArcBeamColumnRibCmd.StateGetPrimaryMultiSupport.Message = "Select the primary support element";
+GTCArcBeamColumnRibCmd.StateGetFromLim.Message = "Select an element to limit the first side";
+GTCArcBeamColumnRibCmd.StateGetToLim.Message = "Select an element to limit the second side";
+GTCArcBeamColumnRibCmd.StateGetAngleRef.Message = "Select an element as an alignment reference";
+GTCArcBeamColumnRibCmd.StateGetCustomSection.Message = "Select an element for the custom section";
+GTCArcBeamColumnRibCmd.StateSetPoint.Message = "Select set point position";
+GTCArcBeamColumnRibCmd.StateStructSetPoint.Message = "Select structural set point position";

@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////
+// COPYRIGHT Gehry Technologies
+/////////////////////////////////////////////////////////////////////
+
+// == Color Filter ==
+GTCGuiCommandsHeader.GTCColorFilterHdr.Title              = "颜色过滤器...";
+GTCGuiCommandsHeader.GTCColorFilterHdr.Help               = "基于约束变更几何图形属性";
+GTCGuiCommandsHeader.GTCColorFilterHdr.ShortHelp          = "颜色过滤器";
+GTCGuiCommandsHeader.GTCColorFilterHdr.LongHelp           = "基于约束变更几何图形属性";
+
+// == Geometric Reporter == 
+GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.Title		= "几何图形报告表...";
+GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.Help        = "产生几何图形资讯";
+GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.ShortHelp   = "产生几何图形资讯";
+GTCGuiCommandsHeader.GTCExtraction_UnitsHdr.LongHelp    = "产生几何图形资讯";
+
+// == Rename Tree Nodes == 
+GTCGuiCommandsHeader.GTCRenameTreeHdr.Title		= "重新命名树状节点...";
+GTCGuiCommandsHeader.GTCRenameTreeHdr.Help        = "重新命名树状节点";
+GTCGuiCommandsHeader.GTCRenameTreeHdr.ShortHelp   = "重新命名树状节点";
+GTCGuiCommandsHeader.GTCRenameTreeHdr.LongHelp   = "重新命名树状节点";
+
+// == Tree Reporter == 
+GTCGuiCommandsHeader.GTCWriteTreeHdr.Title		= "树状报告表...";
+GTCGuiCommandsHeader.GTCWriteTreeHdr.Help        = "产生树状资讯";
+GTCGuiCommandsHeader.GTCWriteTreeHdr.ShortHelp   = "产生树状资讯";
+GTCGuiCommandsHeader.GTCWriteTreeHdr.LongHelp   = "产生树状资讯";
+
+// == z buff toggle == 
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.Title		= "Z-buffer";
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.Help        = "使用 z-buffer深度显示所有的元素";
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.ShortHelp   = "使用 z-buffer深度显示所有的元素";
+GTCGuiCommandsHeader.GTCGuiZBuffToggleHdr.LongHelp    = "使用 z-buffer深度显示所有的元素";
+
+// == New Issue == 
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.Title		= "新问题";
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.Help			= "从标准文件建造一个问题物体";
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.ShortHelp	= "新问题";
+GTCGuiCommandsHeader.GTCGuiNewIssueHdr.LongHelp		= "从标准文件建造一个问题物体";
+
+// == Update Issue Document == 
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.Title			= "更新问题文件";
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.Help			= "更新与问题相关的文件";
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.ShortHelp		= "更新问题文件";
+GTCGuiCommandsHeader.GTCGuiUpdateIssueDocHdr.LongHelp		= "更新与问题相关的文件";
+
+// == Update 3D Issue == 
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.Title			= "更新3D问题";
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.Help			= "从相关的文件更新3D问题";
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.ShortHelp		= "更新3D问题";
+GTCGuiCommandsHeader.GTCGuiUpdateIssue3DHdr.LongHelp		= "从相关的文件更新3D问题";
+
+// == Create Response == 
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.Title			= "建造一个应答";
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.Help			= "建造某个问题的应答";
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.ShortHelp		= "建造一个应答";
+GTCGuiCommandsHeader.GTCGuiCreateResponseHdr.LongHelp		= "建造某个问题的应答";
+
+// == Update Response Document == 
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.Title			= "更新应答文件";
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.Help			= "更新与问题应答相关的文件";
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.ShortHelp		= "更新应答文件";
+GTCGuiCommandsHeader.GTCGuiUpdateResponseDocHdr.LongHelp		= "更新与问题应答相关的文件";

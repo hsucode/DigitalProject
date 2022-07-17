@@ -1,0 +1,40 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+Title = "模拟";
+
+buttonFrame.PushBTN_Apply.Title = "     应用     ";
+
+buttonFrame.PushBTN_Reset.Title = "     重置     ";
+
+spinnerFrame.SpinnerLabel.Title = " 模拟日期: ";
+
+ProjSimTitle = "项目模拟: ";
+
+TabContainer.Permanent.Title = "永久";
+TabContainer.Temporary.Title = "暂时";
+
+// TabPage 
+TabContainer.Permanent.StatusLbl.Title		= "     状态     ";
+TabContainer.Permanent.HideLbl.Title		= "隐藏";
+TabContainer.Permanent.ColorLbl.Title		= "颜色     ";
+TabContainer.Permanent.TrnspLbl.Title		= "Transparency";
+
+TabContainer.Permanent.NotStartLbl.Title	= "     没开始:  ";
+TabContainer.Permanent.InProgressLbl.Title	= "     进行中:  ";
+TabContainer.Permanent.DoneLbl.Title		= "     完成:  ";
+
+TabContainer.Temporary.StatusLbl.Title		= "     状态     ";
+TabContainer.Temporary.HideLbl.Title		= "隐藏";
+TabContainer.Temporary.ColorLbl.Title		= "颜色     ";
+TabContainer.Temporary.TrnspLbl.Title		= "Transparency";
+
+TabContainer.Temporary.NotStartLbl.Title	= "     没开始:  ";
+TabContainer.Temporary.InProgressLbl.Title	= "     进行中:  ";
+TabContainer.Temporary.DoneLbl.Title		= "     完成:  ";
+
+NoActivePrjTitle="激活一个项目";
+NoActivePrjMsg="找不到处于活跃状态的项目以进行模拟";
+
+NoActivityFoundTitle="找不到活动";
+NoActivityFoundMsg="在所选的将被模拟的项目中找不到活动";

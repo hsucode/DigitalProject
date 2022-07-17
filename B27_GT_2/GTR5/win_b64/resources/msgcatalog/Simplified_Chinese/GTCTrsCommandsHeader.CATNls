@@ -1,0 +1,87 @@
+
+// == Geometric Reporter == 
+GTCTrsCommandsHeader.GTCGeomReporterHdr.Title		= "几何图形报告表...";
+GTCTrsCommandsHeader.GTCGeomReporterHdr.Help        = "产生几何图形资讯";
+GTCTrsCommandsHeader.GTCGeomReporterHdr.ShortHelp   = "产生几何图形资讯";
+GTCTrsCommandsHeader.GTCGeomReporterHdr.LongHelp   = "产生几何图形资讯";
+
+// == Rename Tree Nodes == 
+GTCTrsCommandsHeader.GTCRenameTreeHdr.Title		= "重新命名树状节点...";
+GTCTrsCommandsHeader.GTCRenameTreeHdr.Help        = "重新命名树状节点";
+GTCTrsCommandsHeader.GTCRenameTreeHdr.ShortHelp   = "重新命名树状节点";
+GTCTrsCommandsHeader.GTCRenameTreeHdr.LongHelp   = "重新命名树状节点";
+
+// == Structure Simplifier == 
+GTCTrsCommandsHeader.GTCSimplifierHdr.Title		= "结构简单化...";
+GTCTrsCommandsHeader.GTCSimplifierHdr.Help        = "简单化结构特征";
+GTCTrsCommandsHeader.GTCSimplifierHdr.ShortHelp   = "简单化结构特征";
+GTCTrsCommandsHeader.GTCSimplifierHdr.LongHelp   = "简单化结构特征";
+
+// == Tree Reporter == 
+GTCTrsCommandsHeader.GTCWriteTreeHdr.Title		= "树状报告表...";
+GTCTrsCommandsHeader.GTCWriteTreeHdr.Help        = "产生树状资讯";
+GTCTrsCommandsHeader.GTCWriteTreeHdr.ShortHelp   = "产生树状资讯";
+GTCTrsCommandsHeader.GTCWriteTreeHdr.LongHelp   = "产生树状资讯";
+
+// == SDNF Import/Export ==
+GTCTrsCommandsHeader.GTCSDNFImportHdr.Title="SDNF 载入";
+GTCTrsCommandsHeader.GTCSDNFImportHdr.Help="载入 SDNF 文件";
+GTCTrsCommandsHeader.GTCSDNFImportHdr.ShortHelp="载入 SDNF 文件";
+GTCTrsCommandsHeader.GTCSDNFImportHdr.LongHelp="载入 SDNF 文件";
+
+GTCTrsCommandsHeader.GTCSDNFExportHdr.Title="SDNF 卸载";
+GTCTrsCommandsHeader.GTCSDNFExportHdr.Help="卸载 SDNF 文件";
+GTCTrsCommandsHeader.GTCSDNFExportHdr.ShortHelp="卸载 SDNF 文件";
+GTCTrsCommandsHeader.GTCSDNFExportHdr.LongHelp="卸载 SDNF 文件";
+
+
+// == CIS2 Export ==
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.Title="CIS2 卸载";
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.Help="卸载 CIS2 文件";
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.ShortHelp="卸载 CIS2 文件";
+GTCTrsCommandsHeader.GTCCIS2ExportHdr.LongHelp="卸载 CIS2 文件";
+
+
+// == Cost Est ==
+GTCTrsCommandsHeader.GTCCostEstimationHdr.Title		= "成本评估";
+GTCTrsCommandsHeader.GTCCostEstimationHdr.Help		= "基于带有单一格式资讯属性的模型几何图形创建一个单一格式成本评估";
+GTCTrsCommandsHeader.GTCCostEstimationHdr.ShortHelp	= "创建一个单一格式成本评估";
+GTCTrsCommandsHeader.GTCCostEstimationHdr.LongHelp	= "基于带有单一格式资讯属性的模型几何图形创建一个单一格式成本评估";
+
+
+
+// == Door Sched == 
+GTCTrsCommandsHeader.GTCDoorScheduleHdr.Title         = "门日程表";
+GTCTrsCommandsHeader.GTCDoorScheduleHdr.Help		  = "基于带有门包装属性的模型几何图形创建一个门日程表";
+GTCTrsCommandsHeader.GTCDoorScheduleHdr.ShortHelp     = "创建一个门日程表";
+GTCTrsCommandsHeader.GTCDoorScheduleHdr.LongHelp      = "基于带有门包装属性的模型几何图形创建一个门日程表";
+
+// == Window Sched == 
+GTCTrsCommandsHeader.GTCWindowScheduleHdr.Title       = "窗日程表";
+GTCTrsCommandsHeader.GTCWindowScheduleHdr.Help        = "基于带有窗包装属性的模型几何图形创建一个窗日程表";
+GTCTrsCommandsHeader.GTCWindowScheduleHdr.ShortHelp   = "创建一个窗日程表";
+GTCTrsCommandsHeader.GTCWindowScheduleHdr.LongHelp    = "基于带有窗包装属性的模型几何图形创建一个窗日程表";
+
+
+// == Interactive Door Sched == 
+GTCTrsCommandsHeader.GTCInteractiveDoorScheduleHdr.Title         = "交互式的门日程表...";
+GTCTrsCommandsHeader.GTCInteractiveDoorScheduleHdr.Help			 = "插入一个交互式的Excel门日程表";
+GTCTrsCommandsHeader.GTCInteractiveDoorScheduleHdr.ShortHelp     = "交互式的门日程表";
+GTCTrsCommandsHeader.GTCInteractiveDoorScheduleHdr.LongHelp      = "插入一个交互式的Excel门日程表";
+
+
+// == Interactive Window Sched == 
+GTCTrsCommandsHeader.GTCInteractiveWindowScheduleHdr.Title       = "交互式的窗日程表...";
+GTCTrsCommandsHeader.GTCInteractiveWindowScheduleHdr.Help        = "插入一个交互式的Excel窗日程表";
+GTCTrsCommandsHeader.GTCInteractiveWindowScheduleHdr.ShortHelp   = "交互式的窗日程表";
+GTCTrsCommandsHeader.GTCInteractiveWindowScheduleHdr.LongHelp    = "插入一个交互式的Excel窗日程表";
+
+
+// == Part to 3dxml ==
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.Title		= "零部件为3dxml...";
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.Help		= "卸载当前零部件为3dxml文件格式";
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.ShortHelp = "零部件为3dxml";
+GTCTrsCommandsHeader.GTCTrsPart3DXMLHdr.LongHelp	= "卸载当前零部件为3dxml文件格式";
+
+
+

@@ -1,0 +1,38 @@
+NewTitle = " 新建墙 ";
+EditTitle = " 编辑墙 ";
+
+
+frameSupport.labelName.Title = " 名称 ";
+
+frameSupport.labelSupportLayer.Title = " 层 ";
+frameSupport.labelSupportOffset.Title = " 偏移 ";
+frameSupport.labelSupport.Title = " 支持面   ";
+//frameSupport.ckboxAutoConnectWalls.Title = "自动连接 ";
+
+
+framePosition.Title = " 位置 ";
+framePosition.pushBttnInvert.Title = " 反转 ";
+framePosition.labelPositionLayer.Title = " 层 ";
+framePosition.labelPositionOffset.Title = " 偏移 ";
+
+frameLimObj.labelLimObjLayer.Title = " 层 ";
+frameLimObj.labelLimObjOffset.Title = " 偏移 ";
+frameLimObj.labelTop.Title = " 顶部 ";
+frameLimObj.buttonTop.Title = "...";
+frameLimObj.labelBottom.Title = " 底部 ";
+frameLimObj.labelFrom.Title = " 从 ";
+frameLimObj.labelTo.Title = " 至 ";
+
+frameLimObj.frameAutoCnx.ckboxAutoConnectWalls.Title = " 自动连接 ";
+
+frameOutputs.Title = " 输出 ";
+frameOutputs.chkBtnStructPanel.Title = " 结构面板";
+frameOutputs.chkBtnEnvelope.Title = " 表皮 ";
+frameOutputs.chkBtnCoreSolid.Title = " 核心实体 ";
+frameOutputs.chkBtnNonStructPanel.Title = " 分区面板 ";
+frameOutputs.labelStrPanel.Title = " 结构面板层   ";
+frameOutputs.labelNonStrPanel.Title = " 层 ";
+
+frameOutputs.labelSegments.Title = "   细分 ";
+
+GTCArcWallMultiple = "<多重>";

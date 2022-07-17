@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+Title = "层数过滤器";
+BOK = "重置";
+BCancel = "关闭";
+tbcLayer.tabLayer.Title = "层数";
+tbcLayer.tabLayer.conLayer.frmLayer.lblLayer.Title = "层数";
+tbcLayer.tabLayer.conLayer.frmLayer.lblColor.Title = "颜色";
+tbcLayer.tabLayer.conLayer.frmLayer.lblHide.Title = "隐藏";
+tbcLayer.tabLayer.conLayer.frmLayer.cbtHide.Title = " ";
+
+ExportXMLBtn.Title = "卸载";
+NotifySucceed.Title = "卸载";
+SucceedMsg = "卸载成功!";

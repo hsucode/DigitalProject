@@ -1,0 +1,41 @@
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+GTCDprProjectWkb.Title = "项目";
+GTCDprProjectWkb.Help       = "项目";
+GTCDprProjectWkb.ShortHelp  = "项目";
+GTCDprProjectWkb.LongHelp   = "项目";
+GTCGenAnalyzeMenu.Title = "分析";
+//GTCGenAnalyzeMenu.Mnemonic = "A";
+GTCGenDataMenu.Title = "数据";
+//GTCGenDataMenu.Mnemonic = "D";
+
+GTCGenProjectAnnotationsSubMenu.Title = "项目注解";
+GTCGenDrawingAnnotationsSubMenu.Title = "绘图注解";
+GTCGenDrawingViewsSubMenu.Title = "绘图视图";
+//GTCGenExportSubMenu.Title = "输出";
+GTCGenSchedulesSubMenu.Title = "日程表";
+GTCGenStructureToolsSubMenu.Title = "结构工具";
+GTC3DDxfTrsSubMenu.Title = "3D DXF DWG 转换";
+GTCAttsManagementToolsSubMenu.Title = "属性管理工具";
+
+//GTCAttributePackageTlb.Title = "项目属性";
+GTCGenProductStructTlb.Title = "产品结构工具";
+GTCGenProductRepTlb.Title = "代表";
+GTCGenMeasureTlb.Title = "测量";
+GTCGenMaterialTlb.Title = "应用材料";
+GTCConstraintsTlb.Title = "约束";
+GTCGenUpdateTlb.Title = "更新";
+GTCGenSpatialAnalysisTlb.Title = "空间分析";
+GTCGenViews2DTlb.Title = "绘图视图";
+GTCGenAnnotationTlb.Title = "绘图注解";
+GTCGenSceneTlb.Title = "布景";
+GTCGenAnimationTlb.Title = "动画";
+GTCGenReviewCreationTlb.Title = "项目注解";
+GTCGenSceneViewTlb.Title = "布景视图";
+GTCDataUtilitiesTlb.Title = "数据工具";
+GTCStructureToolsTlb.Title = "结构工具";
+GTCExcelDataSheetsTlb.Title = "Excel 数据单";
+
+GTCGuiWPAddinIconBox.Title = "真实感显示风格";
+GTCConstructionAdminTlb.Title = "建筑管理";

@@ -1,0 +1,30 @@
+// Nom du workbench Stl Rapid Prototyping
+
+//-->STH
+//CATCloudStlWorkbench.Title     = "数字化表面" ;
+CATCloudStlWorkbench.Title     = "STL 翻译器";
+CATCloudStlWorkbench.Help      = "启动 STL 翻译器工作台" ;
+CATCloudStlWorkbench.ShortHelp = "STL 翻译器" ;
+CATCloudStlWorkbench.LongHelp  = "STL 翻译器.
+此工作台用于创建 STL 文件。";
+//This Workbench is used to create STL files." ;
+//<--
+
+// Nom des toolbars
+CATStlToolsTlb.Title           = "工具" ;
+CATStlSelectTlb.Title          = "选定" ;
+CATStlImportTlb.Title          = "STL 文件" ;
+CATStlEditionTlb.Title         = "STL 版本" ;
+CATStlPolygonizationTlb.Title  = "STL 网状物" ;
+CATStlOperationsTlb.Title      = "STL 操作" ;
+CATStlAnalysisTlb.Title        = "STL 分析" ;
+CATStlTransformationsTlb.Title = "STL 变形" ;
+CATStlTransformationsCnt.Title = "变形" ;
+CATStlDisplayOptionsTlb.Title  = "STL 选项" ;
+
+// Nom des menus
+CATStlEditionSnu.Title          = "版本" ;
+CATStlPolygonalizationSnu.Title = "网状物" ;
+CATStlOperationsSnu.Title       = "操作" ;
+CATStlAnalysisSnu.Title         = "分析" ;
+CATStlTransformationsSnu.Title  = "变形" ;

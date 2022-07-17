@@ -1,0 +1,94 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+
+
+ContentFrame.radioButtonFrame.SingleValueID.Title = "单一值";
+ContentFrame.radioButtonFrame.RangeID.Title = "范围";
+
+// SubPackages
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.NameID.Title = "名称";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.ColorID.Title = "颜色";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.HideID.Title = "隐藏   ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.SelectID.Title = "选择";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.TransparencyID.Title = "透明度";
+
+// Discrete, Layer
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "数值";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "颜色";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "隐藏   ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "选择";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.noRangeFrame.TransparencyID.Title = "透明度";
+
+
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "起始值";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "终止值";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "颜色";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "隐藏   ";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "选择";
+ContentFrame.TabPageDiscreteContainer.pageFrame.comboFrame.rangeFrame.TransparencyID.Title = "透明度";
+
+// NonDiscrete
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "数值";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "颜色";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "隐藏   ";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "选择";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.noRangeFrame.TransparencyID.Title = "透明度";
+
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "起始值";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "终止值";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "颜色";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "隐藏   ";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "选择";
+ContentFrame.TabPageNonDiscreteContainer.pageFrame.comboFrame.rangeFrame.TransparencyID.Title = "透明度";
+
+// String
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "数值";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "颜色";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "隐藏   ";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "选择";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.noRangeFrame.TransparencyID.Title = "透明度";
+
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "起始值";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "终止值";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "颜色";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "隐藏   ";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "选择";
+ContentFrame.TabPageStringContainer.pageFrame.comboFrame.rangeFrame.TransparencyID.Title = "透明度";
+
+// Hyperlink
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.SpacesID.Title = "     ";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.ValueID.Title = "数值";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.ColorID.Title = "颜色";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.HideID.Title = "隐藏   ";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.SelectID.Title = "选择";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.noRangeFrame.TransparencyID.Title = "透明度";
+
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.FromValueID.Title = "起始值";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.ToValueID.Title = "终止值";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.ColorID.Title = "颜色";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.HideID.Title = "隐藏   ";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.SelectID.Title = "选择";
+ContentFrame.TabPageHyperlinkContainer.pageFrame.comboFrame.rangeFrame.TransparencyID.Title = "透明度";
+
+ClearApplyFrame.ClearID.Title = "清除";
+ClearApplyFrame.ApplyID.Title = "应用";
+ClearApplyFrame.XMLExportBTN.Title = "卸载";
+
+ClearApplyFrame.CreateFctBtn.Title = "附加到树上";
+
+ClearApplyFrame.SaveFctBtn.Title = "储存到树上";
+FeatDlg.Title = "请填上颜色过滤的名称";
+FeatDlg.FeatureNameLbl.Title = "名称";
+
+NotifySucceed.Title = "卸载";
+SucceedMsg = "卸载成功!";
+
+
+unset = "<取消设置>";
+none = "无";
+
+// END WIZARD REPLACEMENT ZONE

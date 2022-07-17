@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Export 3d-2d Rules to CSV File";
+FrameRuleFile.Title = "Select 3d-2d rule file";
+FrameRuleFile.PushButtonRuleFile.Title = "Browse...";
+FrameCSVFile.Title = "Save CSV file to";
+FrameCSVFile.PushButtonCSVFile.Title = "Browse...";
+// END WIZARD REPLACEMENT ZONE

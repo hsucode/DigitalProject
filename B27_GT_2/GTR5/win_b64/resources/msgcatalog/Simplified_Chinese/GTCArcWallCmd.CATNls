@@ -1,0 +1,8 @@
+
+GTCArcWallCmd.StateNoSelection.Message = "Specify wall attributes";
+GTCArcWallCmd.StateGetSupport.Message = "Select a support element";
+GTCArcWallCmd.StateGetTop.Message = "Select an element to limit the top";
+GTCArcWallCmd.StateGetBottom.Message = "Select an element to limit the bottom";
+GTCArcWallCmd.StateGetFrom.Message = "Select an element to limit the first side";
+GTCArcWallCmd.StateGetTo.Message = "Select an element to limit the second side";
+GTCArcWallCmd.StateGetPosPanelLayer.Message = "Select layer position";

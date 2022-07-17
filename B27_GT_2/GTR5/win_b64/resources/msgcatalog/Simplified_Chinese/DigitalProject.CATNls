@@ -1,0 +1,8 @@
+ApplicationFrame.Title = "Digital Project V1,R5";
+// URL mapping file
+DocumentMap.Name = "CATIAId2url";
+CompanionMap.Name     = "CATIACompanion";
+Copyright ="DIGITAL PROJECT (R) Version 1, Release 5 和 Dassault Systèmes 的 CATIA (R) 核心平台一同操作.";
+CopyrightWarn1.Title = "CATIA (R) Version 5.22. (C) Dassault Systèmes 1994-2012. All rights reserved";
+CopyrightWarn2.Title = "CATIA (R) 由 Dassault Systèmes 在美国专利和商标办公室注册.";
+CopyrightWarn3.Title = "受美国专利保护。 请参阅文档";

@@ -1,0 +1,25 @@
+NewTitle = " 创建楼板 ";
+EditTitle = " 编辑楼板 ";
+EditMultipleTitle = " 编辑板 ";
+
+frameParent.frameSupport.labelName.Title = " 名称 ";
+
+frameParent.frameSupport.labelSupportLayer.Title = " 层 ";
+frameParent.frameSupport.labelSupportOffset.Title = " 偏移 ";
+frameParent.frameSupport.labelSupport.Title = " 支持   ";
+
+frameParent.framePosition.Title = " 位置 ";
+frameParent.framePosition.labelPositionLayer.Title = " 层 ";
+frameParent.framePosition.labelPositionOffset.Title = " 偏移 ";
+
+frameParent.frameOutputs.Title = " 输出 ";
+frameParent.frameOutputs.chkBtnStructPanel.Title = " 结构面板 ";
+frameParent.frameOutputs.chkBtnEnvelope.Title = " 表皮 ";
+frameParent.frameOutputs.chkBtnCoreSolid.Title = " 楼板实体 ";
+frameParent.frameOutputs.chkBtnFinishSurf.Title = " 完成表面 ";
+
+frameParent.frameOutputs.labelStrPanel.Title = " 结构面板层   ";
+
+frameParent.frameOutputs.labelSegments.Title = "  细分 ";
+
+

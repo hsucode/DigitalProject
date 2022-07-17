@@ -1,0 +1,19 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+Title = "零部件为3dxml";
+FrameXML.Title = "输出到";
+FrameXML.BtnBrowseXML.Title = "...";
+
+CATXMLSaveDlg.Title = "输出当前零部件为";
+
+SuccessTitle = "成功";
+SuccessText = "成功地输出当前零部件为3dxml.";
+ConfirmTitle = "确认";
+ConfirmText = "文件已经存在\n是否替换那个3dxml文件?";
+NoPermTitle = "许可否认";
+NoPermText = "替换文件许可否认\n请检查文件是否只读.";
+InvalidXMLTitle = "无效的路径";
+InvalidXMLText = "请输入一个有效的3dxml文件名称与扩展名 (.3dxml)\n和它的路径来输出当前的字典.";
+InvalidXMLDoc = "无效的文件";
+InvalidXMLDocType = "无效的文件类型";
+// END WIZARD REPLACEMENT ZONE

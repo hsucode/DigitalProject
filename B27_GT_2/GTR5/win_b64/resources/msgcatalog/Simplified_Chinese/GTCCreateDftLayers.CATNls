@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Import Drafting Layers from CSV/DXF/DWG File";
+FrameMapFile.Title = "Select CSV/DXF/DWG file";
+FrameMapFile.PushButtonBrowseFile.Title = "Browse...";
+FrameLayerFile.Title = "Drafting layer file";
+// END WIZARD REPLACEMENT ZONE

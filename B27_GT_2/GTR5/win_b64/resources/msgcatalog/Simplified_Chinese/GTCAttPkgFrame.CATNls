@@ -1,0 +1,13 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+btnAttDateTimeFrame.Title="...";
+
+btnAttHyperLink.ShortHelp = "Open Hyperlink";
+btnAttHyperLink.LongHelp = "Open Hyperlink";
+
+btnAttGetBkMk.ShortHelp = "Import Bookmark";
+btnAttGetBkMk.LongHelp = "Import Bookmark";
+
+InvalidDate.Title = "Invalid Date";
+InvalidDate.Message = "Failed to parse value as date. Please verify your input.";

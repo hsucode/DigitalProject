@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+ProductPartComponent.Title = "Select Object to Insert:";
+NametoSet.Title = "Name of Object";
+NametoSet.ObjectName.LongHelp ="Enter the name you want to give to the inserted object";
+

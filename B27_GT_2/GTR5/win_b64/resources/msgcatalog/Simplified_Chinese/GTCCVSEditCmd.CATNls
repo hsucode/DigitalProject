@@ -1,0 +1,8 @@
+// DO NOT EDIT :: THE CAA WIZARD WILL REPLACE ALL THE CODE HERE
+// END CAA WIZARD REPLACEMENT ZONE
+GTCCVSEditCmd.SelectProductsState.Message="选择一个项目文件以进行修改";
+GTCCVSEditCmd.LoadState.Message="";
+
+// for the notify dialog in GTCCVSEditCmd::Edit
+warning = "警告!!!";
+CVSExePathNotFound = "没有指定 cvs.exe 的路径";

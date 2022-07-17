@@ -1,0 +1,16 @@
+// CONSTANT LABELS
+
+frameTop.labelSupport.Title = " Opening ";
+
+
+GTCArcDoorCatalogFrame.labelDoor.Title = "Door";
+
+// VARIABLE LABELS
+
+
+
+titleDoor = "Door";
+
+
+
+GTCArcMemberMultiple = "<Multiple>";

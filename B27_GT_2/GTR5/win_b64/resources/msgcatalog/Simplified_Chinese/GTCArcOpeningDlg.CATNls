@@ -1,0 +1,23 @@
+NewTitle = " 新开洞 ";
+EditTitle = " 编辑开口 ";
+
+frameElement.labelName.Title = " Name ";
+
+frameElement.labelElementLayer.Title = " Layer ";
+frameElement.labelElement.Title = " Element ";
+
+frameNameType.labelName.Title = " Name ";
+frameParent.framePlacement.Title = " Placement ";
+frameParent.framePlacement.labelPosition.Title = " Position ";
+frameParent.framePlacement.labelOrientation.Title = " Orientation ";
+frameParent.framePlacement.labelSetPoint.Title = " Set Point ";
+
+frameParent.frameOutputs.Title = " Outputs ";
+frameParent.frameOutputs.chkBtnPanel.Title = " Panel ";
+frameParent.frameOutputs.chkBtnWire.Title = " Wire ";
+
+ButtonMore = " Partial ";
+ButtonLess = " Complete ";
+
+frameMore.labelFromLim.Title = " From ";
+frameMore.labelToLim.Title = " To ";

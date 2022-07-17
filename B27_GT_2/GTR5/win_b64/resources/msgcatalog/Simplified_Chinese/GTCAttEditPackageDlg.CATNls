@@ -1,0 +1,17 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+// END WIZARD REPLACEMENT ZONE
+
+
+Attach = "给/p2附上/p1";
+Edit = "编辑/p2的/p1";
+
+TitleforAttach = "附上包装";
+TitleforEdit = "编辑包装";
+
+Multiobj = "多个对象";
+
+Multiple = "多个/";
+
+EditAttr = "编辑属性";
+EditAttrOnObj = "编辑/p1的属性";

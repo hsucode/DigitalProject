@@ -1,0 +1,12 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Sync Activities";
+frmSync.Title = "Synchronization";
+frmSync.txtActType.Title = "Activity Type  ";
+frmSync.Frame005.btnImport.Title = "DP << MS Project";
+frmSync.Frame005.btnExport.Title = "DP >> MS Project";
+frmSync.Frame005.Label006.Title = "     ";
+Frame003.Title = "Navigation";
+Frame003.Label007.Title = "   ";
+Frame003.btnShowAct.Title = "Show in MS Project";
+Frame003.btnCenterGraph.Title = "     Show in DP     ";
+// END WIZARD REPLACEMENT ZONE

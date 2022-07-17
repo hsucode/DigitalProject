@@ -1,0 +1,27 @@
+// CONSTANT LABELS
+
+frameParent.frameChild.buttonClear.Title = " Clear ";
+frameParent.frameChild.buttonAddAfter.Title = " Add after ";
+frameParent.frameChild.buttonRemove.Title = " Remove ";
+
+frameParent.labelLayer.Title = " Layer ";
+
+ListBoundary = "Boundary";
+ListLayer = "Layer";
+ListOffset = "Offset";
+
+ListOrientation = "Orientation";
+OrientationNeutral = "Neutral";
+OrientationPositive = "+";
+OrientationNegative = "-";
+
+
+frameParent.multiListLimObj.FeatureContextMenu.OriContextMenu.Title = "Orientation";
+
+
+
+
+// VARIABLE LABELS
+
+labelLimits = " Limits   ";
+labelInnerLimits = " Inner Limits ";

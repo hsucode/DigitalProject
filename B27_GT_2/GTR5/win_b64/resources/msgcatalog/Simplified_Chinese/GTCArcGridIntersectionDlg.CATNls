@@ -1,0 +1,10 @@
+
+Title = "Grid Intersection";
+LabelName1.Title = "First Grid ";
+EditorName1.Help = "First plan grid";
+EditorName1.ShortHelp = "First plan grid";
+EditorName1.LongHelp = "First plan grid";
+LabelName2.Title = "Second Grid ";
+EditorName2.Help = "Second plan grid";
+EditorName2.ShortHelp = "Second plan grid";
+EditorName2.LongHelp = "Second plan grid";

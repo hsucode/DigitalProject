@@ -1,0 +1,17 @@
+cbtNodeLock.Title = " ";
+cbtShare.Title = " ";
+cbtBorrow.Title = " ";
+cbtFloat.Title = " ";
+
+lblNodeLock.Title = "  节点锁定     ";
+lblShared.Title = "  分享   ";
+lblBorrow.Title = "  借用     ";
+lblDynamic.Title = "  动态     ";
+lblServerLic.Title = "  种子     ";
+
+pbtApply.Title = " 应用 ";
+pbtCancel.Title = " 关闭 ";
+
+lblFeature.Title = "  特征  ";
+lblExpiry.Title = "                             到期                              ";
+lblDays.Title = " 日";

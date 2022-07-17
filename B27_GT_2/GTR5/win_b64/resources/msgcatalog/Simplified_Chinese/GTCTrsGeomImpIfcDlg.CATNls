@@ -1,0 +1,29 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+// END WIZARD REPLACEMENT ZONE
+
+pSaveUnloadFrame.pImportInLabel.Title = "Import in:   ";
+pSaveUnloadFrame.pSpacer1.Title = "   ";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Title = " Unload parts";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Help = "Select for Unloading the Parts.";
+pSaveUnloadFrame.pSaveUnloadCheckButton.ShortHelp = "Select for Unloading the Parts.";
+pSaveUnloadFrame.pSaveUnloadCheckButton.LongHelp = "Select for Unloading the Parts.";
+pSaveUnloadFrame.pSaveToLabel.Title = "Save geometry to:   ";
+pSaveUnloadFrame.pSaveToEditor.Help = "Select the location for saving the files.";
+pSaveUnloadFrame.pSaveToEditor.ShortHelp = "Select the location for saving the files.";
+pSaveUnloadFrame.pSaveToEditor.LongHelp = "Select the location for saving the files.";
+pSaveUnloadFrame.pSaveToButton.Title = "...";
+
+pSaveCGRFrame.pSaveCGRLabel.Title = "Save CGR files to:";
+pSaveCGRFrame.pSaveCGREditor.Help = "Select the location for saving CGR files.";
+pSaveCGRFrame.pSaveCGREditor.ShortHelp = "Select the location for saving CGR files.";
+pSaveCGRFrame.pSaveCGREditor.LongHelp = "Select the location for saving CGR files.";
+pSaveCGRFrame.pSaveCGRButton.Title = "...";
+// END WIZARD REPLACEMENT ZONE
+
+//Folder or File selections messages.
+GTCImportNls_SaveFolderSelection="Select the folder to save the files";
+GTCImportNls_ProgressBarTitle="   Entities Translated";
+GTCImportNls_ProgressBarSplit=" / ";
+GTCImportNls_ProgressBar_FileRead_Title="   Reading IFC File";
+GTCImportNls_ProgressBar_AttrAttach_Title="   Attaching Attribute Packages";

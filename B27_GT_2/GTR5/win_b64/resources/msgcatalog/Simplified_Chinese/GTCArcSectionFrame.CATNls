@@ -1,0 +1,30 @@
+// CONSTANT LABELS
+
+tabContParent.tabPageStandard.Title = " Standard ";
+tabContParent.tabPageStandard.labelCatalog.Title = " Catalog ";
+tabContParent.tabPageStandard.buttonCatalogBrowse.Title = "...";
+
+tabContParent.tabPageRectangular.Title = " Rectangular ";
+tabContParent.tabPageRectangular.labelHeight.Title = " Height ";
+tabContParent.tabPageRectangular.labelWidth.Title = " Width ";
+
+tabContParent.tabPageCircular.Title = " Circular ";
+tabContParent.tabPageCircular.labelRadius.Title = " Radius ";
+
+tabContParent.tabPageCustom.Title = " Custom ";
+tabContParent.tabPageCustom.labelSection.Title = " Horizontal Sketch ";
+
+tabContParent.tabPageStandard.GTCArcCatalogFrame.labelCatalog.Title = "Catalog";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.labelSection.Title = "Section";
+tabContParent.tabPageStandard.GTCArcCatalogFrame.buttonCatalogBrowse.Title = "...";
+
+tabContParent.tabPageMixed.Title = "Mixed";
+
+
+// VARIABLE LABELS
+
+labelOpening = " Opening ";
+labelSection = " Section ";
+
+
+

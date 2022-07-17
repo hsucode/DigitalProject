@@ -1,0 +1,5 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+frameFather.labelProduct.Title   = " Select Product  ";
+frameFather.labelAzimuth.Title   = " Azimuth Angle   ";
+frameFather.labelElevation.Title = " Sun Elevation   ";

@@ -1,0 +1,2 @@
+GTCAttRemoveGroupCmd.InitialState.Message="选择将被删除的组 或者 组根";
+GTCAttRemoveGroupCmd.SelectionState.Message="点击OK 以删除组/组根 或者 点击Cancel以退出";

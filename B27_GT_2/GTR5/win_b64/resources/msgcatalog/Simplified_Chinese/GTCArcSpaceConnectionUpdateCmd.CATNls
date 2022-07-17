@@ -1,0 +1,3 @@
+GTCArcSpaceConnectionUpdateCmd.StateInitial.Message="Select spaces";
+GTCArcSpaceConnectionUpdateCmd.StateAdjustMode.Message="Select adjust mode and click on start to auto adjust limits";
+Warning="This operation can be memory intensive. Please save your work.\nDo you want to proceed?";

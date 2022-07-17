@@ -1,0 +1,47 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+SetAttributeFilter.HeaderFrame.Global.Title ="Packages and Groups";
+
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.NoFilter.Title = "No restriction"; 
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.NoFilter.LongHelp = "Define attributing rules by selecting types of objects to attribute"; 
+
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.UseFilter.Title = "Restrict attributing to:"; 
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.UseFilter.LongHelp = "Define attributing rules by selecting types of objects to attribute"; 
+
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectProducts.Title = "Products"; 
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectProducts.LongHelp = "Allow/restrict attaching attributes to products"; 
+
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectParts.Title = "Parts"; 
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectParts.LongHelp = "Allow/restrict attaching attributes to parts"; 
+
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectGeometricSets.Title = "Geometric Sets and Building Elements"; 
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectGeometricSets.LongHelp = "Allow/restrict attaching attributes to Geometric Sets"; 
+
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectBodies.Title = "Solids (Bodies)"; 
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectBodies.LongHelp = "Allow/restrict attaching attributes to Bodies"; 
+
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectFeatures.Title = "Wireframe and Surface Features"; 
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectFeatures.LongHelp = "Allow/restrict attaching attributes to GSD Features";
+
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectGroups.Title = "Groups"; 
+SetAttributeFilter.IconAndOptionsFrame.OptionsFrame.SelectGroups.LongHelp = "Allow/restrict attaching attributes to Groups";  
+
+// for no of dialog objects in color filter
+SetNoOfRulesInColorFilterTabPage.HeaderFrame.Global.Title ="Color by Attributes & Simulation";
+
+SetNoOfRulesInColorFilterTabPage.IconAndOptionsFrame.OptionsFrame.NumberOfRulesLabel.Title = "            Number of Rules              ";
+SetNoOfRulesInColorFilterTabPage.IconAndOptionsFrame.OptionsFrame.NumberOfRulesLabel.LongHelp = "Set Number of Rules to be defined in color filter.";
+
+
+
+// for Simulation Options
+SetSimOptions.HeaderFrame.Global.Title= "Primavera Activities";
+
+SetSimOptions.IconAndOptionsFrame.OptionsFrame.SimOptionUseName.Title=" Show Name";
+SetSimOptions.IconAndOptionsFrame.OptionsFrame.SimOptionUseName.LongHelp=" Show only Activity Name in tree";
+
+SetSimOptions.IconAndOptionsFrame.OptionsFrame.SimOptionUseID.Title= "Show Activity ID";
+SetSimOptions.IconAndOptionsFrame.OptionsFrame.SimOptionUseID.LongHelp=" Show only Activity ID in the tree";
+
+SetSimOptions.IconAndOptionsFrame.OptionsFrame.SimOptionUseBoth.Title= "Show Both";
+SetSimOptions.IconAndOptionsFrame.OptionsFrame.SimOptionUseBoth.Title=" Show both Activity ID and Activity name in tree";

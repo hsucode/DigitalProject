@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+
+Title = "使属性同步";
+DialogBoxContainer.DialogFrame.LabelSyncConstDescrip.Title = "请确认您想要进行如下修改?";
+DialogBoxContainer.DialogFrame.LabelObject.Title = "物体";
+DialogBoxContainer.DialogFrame.LabelExtension.Title = "包装";
+DialogBoxContainer.DialogFrame.LabelAttribute.Title = "属性";
+DialogBoxContainer.DialogFrame.LabelStatus.Title = "变更";
+DialogBoxContainer.DialogFrame.LabelRemove.Title = "删除";
+DialogBoxContainer.DialogFrame.LabelAdd.Title = "加入";
+DialogBoxContainer.DialogFrame.LabelSpace.Title = "       ";
+LabelFinalDescrip.Title = "没有找到变更以进行同步处理。";
+
+// END WIZARD REPLACEMENT ZONE

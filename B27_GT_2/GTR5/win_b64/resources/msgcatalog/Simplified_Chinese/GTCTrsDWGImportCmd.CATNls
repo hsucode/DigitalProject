@@ -1,0 +1,4 @@
+GTCTrsDWGImportCmd.initialState.Message=" ";
+DialogTitle = "Import DWG/DXF file with link";
+ErrNoProductSelected = "Please select a product first.";
+ErrEnvIncorrect = "Please set the variable GTC3DDWGFilePath correctly in the environment file.";

@@ -1,0 +1,6 @@
+Title = "Update Tags";
+
+StatusTitle = "Update Tags";
+UpdateOKStatus = "Tags updated successfully.";
+UpdateKOStatus = "Tags update failed.";
+UpdateNotFoundStatus = "No Tags found to update.";

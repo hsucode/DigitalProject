@@ -1,0 +1,3 @@
+GTCAttPkgCopyCmd.ProdFromState.Message="选择其属性将被迁移的部件。";
+GTCAttPkgCopyCmd.ProdToState.Message="选择属性将被迁移到的部件。";
+GTCAttPkgCopyCmd.ConfirmState.Message="确认 或者 取消。";

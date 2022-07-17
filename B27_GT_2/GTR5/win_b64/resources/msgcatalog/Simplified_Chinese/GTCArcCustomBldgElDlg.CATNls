@@ -1,0 +1,36 @@
+
+// Gehry Technologies
+
+LabelElementList.Title = " 建筑元素 :  ";
+LabelNumInstances.Title = " 数字实例 :  ";
+
+
+GTCArcCustBaseTitle = " 创建自定义 ";
+
+GTCArcCustBldgEl = "建筑元素";
+GTCArcCustUnknown = "Building Element";
+GTCArcCustSpace = "Space";
+GTCArcCustSlab = "Slab";
+GTCArcCustRoof = "Roof";
+GTCArcCustWall = "Wall";
+GTCArcCustCurtainWall = "Curtain Wall";
+GTCArcCustStair = "Stair";
+GTCArcCustStairFlight = "Stair Flight";
+GTCArcCustRamp = "Ramp";
+GTCArcCustRampFlight = "Ramp Flight";
+GTCArcCustRailing = "Railing";
+GTCArcCustColumn = "Column";
+GTCArcCustBeam = "Beam";
+GTCArcCustMember = "Member";
+GTCArcCustPlate = "Plate";
+GTCArcCustFooting = "Footing";
+GTCArcCustPile = "Pile";
+GTCArcCustCovering = "Covering";
+GTCArcCustTransportEl = "Transport Element";
+GTCArcCustFurnishingEl = "Furnishing Element";
+GTCArcCustDistributionEl = "Distribution Element";		
+GTCArcCustDetailingEl = "Detailing Element";
+
+
+FrameElName.LabelElName.Title = " Name ";
+FrameAttributes.Title = " Attributes ";

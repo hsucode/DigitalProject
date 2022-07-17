@@ -1,0 +1,39 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "3D dxf 或者 dwg 输入";
+pImportDlgFileFrame.pImportFileLabel.Title = "文件:";
+pImportDlgFileFrame.pImportFileEditor.Help = "选择将被输入Dxf/Dwg文件";
+pImportDlgFileFrame.pImportFileEditor.ShortHelp = "选择将被输入Dxf/Dwg文件\n选择将被输入Dxf/Dwg文件";
+pImportDlgFileFrame.pImportFileEditor.LongHelp = "选择将被输入Dxf/Dwg文件";
+pImportDlgFileFrame.pImportFileButton.Title = "...";
+pImportDlgFileFrame.pImportInLabel.Title = "输入到:";
+pImportDlgFileFrame.pLogFileLabel.Title = "记录文件:";
+pImportDlgFileFrame.pLogFileEditor.Help = "选择记录文件";
+pImportDlgFileFrame.pLogFileEditor.ShortHelp = "选择记录文件";
+pImportDlgFileFrame.pLogFileEditor.LongHelp = "选择记录文件来记录信息";
+pImportDlgFileFrame.pLogFileButton.Title = "...";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Title = "  ";
+pSaveUnloadFrame.pSaveUnloadCheckButton.Help = "选择来存储和卸载零部件";
+pSaveUnloadFrame.pSaveUnloadCheckButton.ShortHelp = "选择来存储和卸载零部件";
+pSaveUnloadFrame.pSaveUnloadCheckButton.LongHelp = "选择来存储和卸载零部件";
+pSaveUnloadFrame.pSaveUnloadLabel.Title = "存储和卸载零部件";
+pSaveUnloadFrame.pSaveToLabel.Title = "存储到:";
+pSaveUnloadFrame.pSaveToEditor.Help = "选择存储文件的位置";
+pSaveUnloadFrame.pSaveToEditor.ShortHelp = "选择存储文件的位置";
+pSaveUnloadFrame.pSaveToEditor.LongHelp = "选择存储文件的位置";
+pSaveUnloadFrame.pSaveToButton.Title = "...";
+// END WIZARD REPLACEMENT ZONE
+
+//File Extension or Description messages.
+GTCImportNls_DwgDxfExtension="*.dwg;*.dxf";
+GTCImportNls_LogFileDescription="记录文件 (*.txt)";
+GTCImportNls_DwgDxfFileDescription="Dwg & Dxf 文件 (*.dwg,*.dxf)";
+GTCImportNls_TextExtention="*.txt";
+
+//Folder or File selections messages.
+GTCImportNls_SaveFolderSelection="选择存储的目录";
+GTCImportNls_SelectLogFile="选择记录文件";
+GTCImportNls_SelectImportFile="选择输入文件";
+
+//Progress Bar Count
+GTCImportNls_ProgressBarSplit="/";
+GTCImportNls_ProgressBarTitle="  个体转移";

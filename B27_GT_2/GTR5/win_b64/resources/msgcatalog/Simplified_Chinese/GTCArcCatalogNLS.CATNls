@@ -1,0 +1,10 @@
+GTCArcRoot = "类别";
+GTCArcSet = "集合";
+GTCArcBldgElement = "建筑物";
+GTCArcSpecSet = "规格集";
+GTCArcSpecification = "规范";
+GTCArcGeoResult = "几何结果";
+GTCArcGridElement = "建筑轴网";
+GTCArcGridFeature = "轴网特征";
+GTCArcSolidResult = "实体结果";
+GTCArcSheet="图纸";

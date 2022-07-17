@@ -1,0 +1,13 @@
+//GTCTrsGeomTlb.Title = "Translate Geometry";
+GTCTrsGeomCmdsHdr.GTCTrsGeomCmds.Title = "DXF 转换";
+
+// == Geometric Reporter == 
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.Title		= "3D DXF 或者 DWG 输入...";
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.Help       = "在当前产品下输入一个DXF或者DWG文件";
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.ShortHelp  = "3D DXF 或者 DWG 输入";
+GTCTrsGeomCmdsHdr.GTCGeomImpDxfHdr.LongHelp   = "在当前产品下输入一个DXF或者DWG文件";
+
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.Title		= "3D DXF 或者 DWG 输出...";
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.Help       = "输出零部件或者产品到一个DXF或者DWG文件";
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.ShortHelp  = "3D DXF 或者 DWG 输出";
+GTCTrsGeomCmdsHdr.GTCGeomExpDxfHdr.LongHelp   = "输出零部件或者产品到一个DXF或者DWG文件";

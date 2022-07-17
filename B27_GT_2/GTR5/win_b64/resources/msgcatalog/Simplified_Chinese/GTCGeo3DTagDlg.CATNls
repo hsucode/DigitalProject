@@ -1,0 +1,8 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+frameFather.labelLocation.Title = "位置: ";
+frameFather.labelLabel.Title = "标签: ";
+frameFather.labelDwgGenType.Title = "绘图样式: ";
+frameFather.btnRefreshListDwgTypes.ShortHelp = "从GVS刷新列表";
+frameFather.btnRefreshListDwgTypes.LongHelp = "从GVS刷新列表";
+// END WIZARD REPLACEMENT ZONE
+

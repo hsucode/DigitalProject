@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Update Layer List...";
+Frame008.CheckButton.Title = "Reset All objects to Layer ;
+Frame008.Frame009.Label007.Title = "          Leaving this option unchecked, some of the objects";
+Frame008.Frame009.Label005.Title = "          might result being placed on layers which are";
+Frame008.Frame009.Label006.Title = "          not listed anymore or which have been renamed.";
+// END WIZARD REPLACEMENT ZONE

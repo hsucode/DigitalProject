@@ -1,0 +1,28 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "3D dxf 或者 dwg 输出";
+pExportDlgFileFrame.pSaveFileLabel.Title = "存储到:";
+pExportDlgFileFrame.pSaveFileButton.Title = "...";
+pExportDlgFileFrame.pExportSaveOptionLabel.Title = "存储为:";
+pExportDlgFileFrame.pSaveDxfRadioButton.Title = "DXF";
+pExportDlgFileFrame.pSaveDwgRadioButton.Title = "DWG";
+pExportDlgFileFrame.pFileNameLabel.Title = "文件名称:";
+pExportDlgFileFrame.pLogFileLabel.Title = "记录文件";
+pExportDlgFileFrame.pLogFileButton.Title = "...";
+// END WIZARD REPLACEMENT ZONE
+
+
+//File Extension or Description messages.
+GTCExportNls_LogFileDescription="记录文件 (*.txt)";
+GTCExportNls_TextExtention="*.txt";
+
+//Folder or File selections messages.
+GTCExportNls_SaveFolderSelection="选择存储的目录";
+GTCExportNls_SelectLogFile="选择记录文件";
+
+//Progress Bar Count
+GTCExportNls_ProgressBarSplit="/";
+GTCExportNls_ProgressBarTitle="  个体转移";
+
+//File Extensions
+GTCExportNls_DxfFile=".dxf";
+GTCExportNls_DwgFile=".dwg";

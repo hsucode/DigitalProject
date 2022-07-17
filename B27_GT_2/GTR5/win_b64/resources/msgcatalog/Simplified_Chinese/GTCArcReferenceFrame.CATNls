@@ -1,0 +1,15 @@
+// CONSTANT LABELS
+
+frameParent.labelLayer.Title = " Layer ";
+frameParent.labelOffset.Title = " Offset ";
+
+
+// VARIABLE LABELS
+GTCArcRefFrameMultiple = "<Multiple>";
+
+OrientationNeutral = "o";
+OrientationPositive = "+";
+OrientationNegative = "-";
+
+GTCArcSill = "Sill";
+GTCArcOpening = "Opening";

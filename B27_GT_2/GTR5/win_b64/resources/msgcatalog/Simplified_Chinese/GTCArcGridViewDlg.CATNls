@@ -1,0 +1,18 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+NameLabel.Title = "Name";
+Label004.Title = "        ";
+SupportLabel.Title = "Support";
+ReverseDirBtn.Title = "Reverse Direction";
+BoundaryLabel.Title = "Boundary";
+GVSLabel.Title = "GVS";
+Label005.Title = "                                                  ";
+AxisLabel.Title = "Axis";
+Label011.Title = "    ";
+SelectGridFrame.Title = "Select Grids";
+SelectGridFrame.RemoveGridBtn.Title = "   Remove   ";
+SelectGridFrame.ClearBtn.Title = "      Clear      ";
+SelectGridFrame.Label018.Title = "  ";
+Label019.Title = "                                                   ";
+// END WIZARD REPLACEMENT ZONE
+NewTitle = " New Grid View ";
+EditTitle = " Edit Grid View ";

@@ -1,0 +1,25 @@
+GTCAttEditGroupCmd.InitialState.Message="选择一个组。";
+GTCAttEditGroupCmd.EditState.Message="选择特征并将它们加入一个组。";
+GTCAttEditGroupCmd.QueryState.Message="检查查旬选项。点击OK以确认 或者 点击Cancel以无查旬选项状态继续。";
+
+GTCGroupErrorTitle="组 错误";
+GTCSelectGroupFromDropdown="请从当前包裹组合箱选择一个组。";
+GTCGroupCommandError="错误。不能执行此命令。";
+
+
+//--------------------------------------
+// excel data sheet column headers
+//--------------------------------------
+GTCExcelColHeaderInstanceName	= "事例名称";
+GTCExcelColHeaderNumberInstances= "事例编号";
+GTCExcelColHeaderPartName		= "零件名";
+GTCExcelColHeaderBodyOrSetName	= "体 或者 集 名称";
+GTCExcelColHeaderFeatureName	= "特征名称";
+GTCExcelColHeaderFeatureType	= "特征类型";
+
+GTCExcelColHeaderVolume			= "体积";
+GTCExcelColHeaderArea			= "面积";
+GTCExcelColHeaderLength			= "长度";
+GTCExcelColHeaderCoordinateX	= "坐标 X";
+GTCExcelColHeaderCoordinateY	= "坐标 Y";
+GTCExcelColHeaderCoordinateZ	= "坐标 Z";

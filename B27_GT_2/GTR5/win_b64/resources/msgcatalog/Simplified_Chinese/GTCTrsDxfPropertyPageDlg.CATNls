@@ -1,0 +1,11 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+UnitOfFile.Title = "Unit of file :  ";
+
+Unit_mm="Millimeter(mm)";
+Unit_cm="Centimetre(cm)";
+Unit_mt="Meter(m)";
+Unit_in="Inch(in)";
+Unit_ft="foot(ft)";
+Unit_invalid="Invalid Unit";
+//UnitMax=4Add new "UnitN" above this line and update UnitMax value
+// END WIZARD REPLACEMENT ZONE

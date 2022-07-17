@@ -1,0 +1,2 @@
+GTCGeo3DTagCmd.StateInitial.Message="Select location to tag";
+GTCGeo3DTagCmd.StateNoSelection.Message="Click Apply to create/update tag";

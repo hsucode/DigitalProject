@@ -1,0 +1,18 @@
+// == Primavera Connection Info Command == 
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.Title		= "联接到 Primavera...";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.Help        = "联接到 Primavera 数据库";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.ShortHelp   = "联接到 Primavera";
+GTCAttPmvCmdsHdr.GTCAttPmvGetConnInfoCmdHdr.LongHelp   = "联接到 Primavera 数据库";
+
+// == Primavera Get Projects Command == 
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.Title	= "获取 Primavera 项目";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.Help        = "输入/更新 Primavera 项目结构";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.ShortHelp   = "获取 Primavera 项目";
+GTCAttPmvCmdsHdr.GTCAttPmvGetProjectsCmdHdr.LongHelp   = "输入/更新 Primavera 项目结构";
+
+// == Primavera Get Activities Command == 
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.Title		= "获取 Primavera 活动";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.Help        = "输入/更新 Primavera 项目中的活动";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.ShortHelp   = "获取 Primavera 活动";
+GTCAttPmvCmdsHdr.GTCAttPmvGetActivitiesCmdHdr.LongHelp   = "输入/更新 Primavera 项目中的活动";
+

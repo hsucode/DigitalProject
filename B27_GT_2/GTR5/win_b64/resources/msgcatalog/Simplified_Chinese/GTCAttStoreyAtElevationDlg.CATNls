@@ -1,0 +1,9 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+
+
+
+ProductPartComponent.Title = "选择一个物体插入:";
+NametoSet.Title = "物件名称";
+NametoSet.ObjectName.LongHelp ="输入要插入物件的名称";
+Message="选择任意高程平面";

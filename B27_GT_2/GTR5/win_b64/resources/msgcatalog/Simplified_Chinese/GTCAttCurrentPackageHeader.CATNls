@@ -1,0 +1,5 @@
+// Eduardo
+GTCAttCurrentPackageHeader.Title		= "设置当前包装";
+GTCAttCurrentPackageHeader.ShortHelp	= "设置当前包装";
+GTCAttCurrentPackageHeader.Help			= "设置当前包装";
+GTCAttCurrentPackageHeader.LongHelp		= "设置当前包装";

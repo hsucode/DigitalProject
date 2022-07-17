@@ -1,0 +1,12 @@
+GTCTrsGeomImpIfcCmd.initialState.Message="Click anywhere in the viewer to exit";
+
+//Dialog title
+GTCImportNls_IfcDlgTite="File Selection";
+
+//File Extensions
+GTCImportNls_IfcFileDescription="ifc";
+GTCImportNls_IfcFileExt="*.ifc";
+GTCImportNls_IfcFileDotExt=".ifc";
+
+//Log file name
+GTCImportNls_LogFileName="3DIfcImport.txt";

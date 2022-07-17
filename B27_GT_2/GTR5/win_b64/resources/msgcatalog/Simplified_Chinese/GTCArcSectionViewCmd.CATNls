@@ -1,0 +1,6 @@
+ErrorInWorkObj = "Please set a sheet as the in-work object.";
+GTCArcSectionViewCmd.SelectSupportState.Message="Select Plane";
+GTCArcSectionViewCmd.SelectAxisState.Message="Select Axis";
+GTCArcSectionViewCmd.SelectBoundaryState.Message="Select Boundary";
+GTCArcSectionViewCmd.SelectGroupState.Message="Select Group or List";
+ErrorGenMode = "This command can only run in the exact or approximate view generation mode.";

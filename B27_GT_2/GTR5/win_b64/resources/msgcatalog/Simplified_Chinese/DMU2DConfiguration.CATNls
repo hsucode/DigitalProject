@@ -1,0 +1,9 @@
+// --> STH
+DMU2DConfiguration.Title="绘图视图器";
+DMU2DConfiguration.Help="绘图视图器";
+DMU2DConfiguration.ShortHelp="绘图视图器";
+2DDMUToolbar.Title="绘图工具";
+2DDMUAnnot.Title="两维注解视图";
+2DDMUViewing.Title="两维视图";
+2DDMUMoveToolbar.Title="两维移动";
+// <--STH

@@ -1,0 +1,20 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "注册到 Primavera";
+PmvLoginNameLbl.Title = "注册名称";
+PmvLoginNameEd.Help = "输入用户名称";
+PmvLoginNameEd.ShortHelp = "输入用户名称";
+PmvLoginNameEd.LongHelp = "输入Primavera用户名称";
+PmvPasswdLbl.Title = "密码";
+PmvSDKLbl.Title = "ODBC DSN";
+PmvPasswdEd.Help = "输入密码";
+PmvPasswdEd.ShortHelp = "输入密码";
+PmvPasswdEd.LongHelp = "输入Primavera联接密码";
+PmvSDKNameEd.Help = "输入SDK名称";
+PmvSDKNameEd.ShortHelp = "输入SDK名称";
+PmvSDKNameEd.LongHelp = "输入Primavera SDK名称";
+// END WIZARD REPLACEMENT ZONE
+
+AccessDeniedTitle="Primavera联接被拒绝";
+AccessDeniedMsg="Primavera联接失败, 稍候再试";
+
+

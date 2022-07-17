@@ -1,0 +1,22 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+FileFrm.ImportFile.Title = "File   ";
+FileFrm.ImportFileButton.Title = "...";
+FileFrm.LogFile.Title = "Log   ";
+FileFrm.LogFileButton.Title = "...";
+FileFrm.ImportIn.Title = "  Product";
+SaveAndUnloadCheckButtonFrame.SaveAndUnloadCheckButton.Title = " ";
+SaveAndUnloadCheckButtonFrame.SaveAndUnloadFileLabel.Title = "Save      ";
+SaveAndUnloadCheckButtonFrame.SaveAndUnloadFileButton.Title = "...";
+SaveAndUnloadCheckButtonFrame.SaveCheckButtonLabel.Title = "Save and Unload";
+// END WIZARD REPLACEMENT ZONE
+
+// "File of Type" information in Open File dialog box 
+Dwg_Dxf_Files="DWG & DXF Files";
+Dwg_File="DWG File";
+Dxf_File="DXF File";
+
+MissingInfo="Incomplete dialog";
+SelectInfoIsMissing="Select following item(s) to import :\n";
+SelectFileToImport=" - File\n";
+SelectProduct=" - Product\n";
+

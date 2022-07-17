@@ -1,0 +1,45 @@
+Title = "报告 数据";
+
+//----------------------------
+// Template
+//----------------------------
+//== data sheet template == 
+FrameTemplate.LabelDataSheetTemplate.Title = "模式 : ";
+FrameTemplate.EditorDataSheetTemplate.LongHelp = "选择一个模式 或者 选择报告数据选项。";
+FrameTemplate.PushButtonTemplateFileChooser.Title = "...";
+
+//-----------------------------
+// Identifiers
+//-----------------------------
+FrameNonTemplateOptions.FrameReportIdentifiers.Title = "标识符";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportInstanceName.Title = "事例 名称";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportPartName.Title = "零件 名称";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportBodyName.Title = "体 或者 集 名称";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportFeatureName.Title = "特征名称";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportFeatureType.Title = "特征类型";
+FrameNonTemplateOptions.FrameReportIdentifiers.CheckButtonReportPartInstance.Title = "零件 事例";
+
+//-----------------------------
+// Calculations
+//-----------------------------
+FrameNonTemplateOptions.FrameCalculations.Title = "计算";
+FrameNonTemplateOptions.FrameCalculations.CheckButtonReportVolume.Title = "体积";
+FrameNonTemplateOptions.FrameCalculations.CheckButtonReportArea.Title = "面积";
+FrameNonTemplateOptions.FrameCalculations.CheckButtonReportLength.Title = "长度";
+FrameNonTemplateOptions.FrameCalculations.CheckButtonReportCoordinates.Title = "坐标";
+
+//-----------------------------
+// Atts report
+//-----------------------------
+FrameNonTemplateOptions.FrameAttsReport.Title = "属性";
+FrameNonTemplateOptions.FrameAttsReport.LabelAttsReport.Title = "属性 : ";
+FrameNonTemplateOptions.FrameAttsReport.PushButtonAttsReport.Title = "报告...";
+FrameNonTemplateOptions.FrameAttsReport.LabelSelectedAtts.Title = "已选的属性 : ";
+
+FrameNonTemplateOptions.FrameAttsReport.MultiListSelectedAtts.ShortHelp = "已选的属性。";
+FrameNonTemplateOptions.FrameAttsReport.MultiListSelectedAtts.LongHelp = "用户选择的属性将被报道在数据单中。";
+
+FrameNonTemplateOptions.FrameAttsReport.CheckButtonInheritAttsFromAncestor.Title = "从祖先继承";
+FrameNonTemplateOptions.FrameAttsReport.CheckButtonInheritAttsFromAncestor.LongHelp = "如果这个物体没有这些属性而且它有最近的祖先，从最近的祖先继承属性。";
+
+TemplateFileChooserDlg.Title="模式";

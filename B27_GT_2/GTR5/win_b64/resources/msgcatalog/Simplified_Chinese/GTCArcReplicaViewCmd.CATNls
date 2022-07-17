@@ -1,0 +1,4 @@
+ErrorInWorkObj = "Please set a sheet as the in-work object.";
+GTCArcReplicaViewCmd.SelectSupportState.Message="Select Plane";
+GTCArcReplicaViewCmd.SelectAxisState.Message="Select Axis";
+GTCArcReplicaViewCmd.SelectViewState.Message="Select Drafting View";

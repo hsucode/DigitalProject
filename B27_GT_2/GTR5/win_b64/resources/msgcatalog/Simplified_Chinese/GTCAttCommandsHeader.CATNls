@@ -1,0 +1,179 @@
+
+// == set current dictionary ==
+GTCAttCommandsHeader.GTCAttSelectPackageHdr.Title              = "选择当前字典";
+
+// == SetPackage ==
+GTCAttCommandsHeader.GTCAttSetPackageHdr.Title              = "选择当前包装/组类型";
+
+// == AttachPackage == 
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.Title		= "附上包装...";
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.Help        = "附上包装";
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.ShortHelp   = "附上包装";
+GTCAttCommandsHeader.GTCAttAttachPackageHdr.LongHelp    = "附上包装";
+
+// == EditPackage == 
+GTCAttCommandsHeader.GTCAttEditPackageHdr.Title		= "编辑包装...";
+GTCAttCommandsHeader.GTCAttEditPackageHdr.Help        = "编辑包装";
+GTCAttCommandsHeader.GTCAttEditPackageHdr.ShortHelp   = "编辑包装";
+GTCAttCommandsHeader.GTCAttEditPackageHdr.LongHelp    = "编辑包装";
+
+
+// == RemovePackage == 
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.Title		= "移除包装...";
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.Help        = "移除包装";
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.ShortHelp   = "移除包装";
+GTCAttCommandsHeader.GTCAttRemovePackageHdr.LongHelp    = "移除包装";
+
+// == Color Filter ==
+GTCAttCommandsHeader.GTCColorFilterHdr.Title              = "根据属性填上颜色...";
+GTCAttCommandsHeader.GTCColorFilterHdr.Help               = "根据属性值将几何图形填上颜色";
+GTCAttCommandsHeader.GTCColorFilterHdr.ShortHelp          = "根据属性值将几何图形填上颜色";
+GTCAttCommandsHeader.GTCColorFilterHdr.LongHelp           = "根据属性值将几何图形填上颜色";
+
+// == Layer Filter ==
+GTCAttCommandsHeader.GTCLayerFilterHdr.Title              = "根据层数填上颜色...";
+GTCAttCommandsHeader.GTCLayerFilterHdr.Help               = "根据层数将几何图形填上颜色";
+GTCAttCommandsHeader.GTCLayerFilterHdr.ShortHelp          = "根据层数将几何图形填上颜色";
+GTCAttCommandsHeader.GTCLayerFilterHdr.LongHelp           = "根据层数将几何图形填上颜色";
+
+
+// Dim Mode
+GTCAttCommandsHeader.GTCAttDimModeHdr.Title              = "微暗模式开关";
+GTCAttCommandsHeader.GTCAttDimModeHdr.Help               = "微暗模式开关";
+GTCAttCommandsHeader.GTCAttDimModeHdr.ShortHelp          = "微暗模式开关";
+GTCAttCommandsHeader.GTCAttDimModeHdr.LongHelp           = "微暗模式开关";
+
+
+// Dim Mode On // Eduardo
+GTCAttCommandsHeader.DimOn.Title              = "开启微暗模式";
+GTCAttCommandsHeader.DimOn.Help               = "开启微暗模式";
+GTCAttCommandsHeader.DimOn.ShortHelp          = "开启微暗模式";
+GTCAttCommandsHeader.DimOn.LongHelp           = "开启微暗模式";
+
+// Dim Mode Off // Eduardo
+GTCAttCommandsHeader.DimOff.Title              = "关闭微暗模式";
+GTCAttCommandsHeader.DimOff.Help               = "关闭微暗模式";
+GTCAttCommandsHeader.DimOff.ShortHelp          = "关闭微暗模式";
+GTCAttCommandsHeader.DimOff.LongHelp           = "关闭微暗模式";
+
+
+// MS Project Simulation
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.Title              = "Microsoft Project 模拟";
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.Help               = "Microsoft Project 模拟";
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.ShortHelp          = "Microsoft Project 模拟";
+GTCAttCommandsHeader.GTCAttBackboneInitializationHdr.LongHelp           = "Microsoft Project 模拟";
+
+// Project(Group) Simulation
+GTCAttCommandsHeader.GTCAttProjectSimHdr.Title              = "模拟项目";
+GTCAttCommandsHeader.GTCAttProjectSimHdr.Help               = "模拟活动的项目组";
+GTCAttCommandsHeader.GTCAttProjectSimHdr.ShortHelp          = "模拟项目";
+GTCAttCommandsHeader.GTCAttProjectSimHdr.LongHelp           = "模拟活动的项目组";
+
+
+// == One Click Color Filter ==
+GTCAttCommandsHeader.GTCOneClickColorFilterHdr.Title			= "基于属性一单击填上颜色 ...";
+GTCAttCommandsHeader.GTCOneClickColorFilterHdr.Help             = "基于属性一单击填上颜色";
+GTCAttCommandsHeader.GTCOneClickColorFilterHdr.ShortHelp        = "基于属性一单击填上颜色";
+GTCAttCommandsHeader.GTCOneClickColorFilterHdr.LongHelp         = "基于属性一单击填上颜色";
+
+
+// == Activate/Deactivate Group ==
+GTCAttCommandsHeader.GTCAttActivateGroupCmdHdr.Title      = "激活/解除激活 组";
+GTCAttCommandsHeader.GTCAttActivateGroupCmdHdr.Help       = "激活 或 解除激活 组.";
+GTCAttCommandsHeader.GTCAttActivateGroupCmdHdr.ShortHelp  = "激活/解除激活 组";
+GTCAttCommandsHeader.GTCAttActivateGroupCmdHdr.LongHelp   = "激活 或 解除激活 组.";
+
+// == Deactivate All Group ==
+GTCAttCommandsHeader.GTCAttDeactivateAllGroupsCmdHdr.Title      = "解除激活文件中所有组";
+GTCAttCommandsHeader.GTCAttDeactivateAllGroupsCmdHdr.Help       = "解除激活文件中所有组";
+GTCAttCommandsHeader.GTCAttDeactivateAllGroupsCmdHdr.ShortHelp  = "解除激活文件中所有组";
+GTCAttCommandsHeader.GTCAttDeactivateAllGroupsCmdHdr.LongHelp   = "解除激活文件中所有组";
+
+//== Attribute Transfer ==
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.Title		= "属性迁移";
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.Help	    = "将当前字典的属性包装从一个部件迁移到另一个部件";
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.ShortHelp	= "属性迁移";
+GTCAttCommandsHeader.GTCAttCopyPackageHdr.LongHelp	= "将当前字典的属性包装从一个部件迁移到另一个部件";
+
+//== Group Transfer ==
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.Title		= "组转移";
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.Help	    = "转移组链接到拥有同一名称的特征";
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.ShortHelp	= "组转移";
+GTCAttCommandsHeader.GTCAttGroupTransferHdr.LongHelp	= "转移组链接到拥有同一名称的特征";
+
+//== Paint Attributes ==
+GTCAttCommandsHeader.GTCAttPaintHdr.Title		= "涂抹 包装...";
+GTCAttCommandsHeader.GTCAttPaintHdr.Help	    = "将属性包装从一个物体拷贝到另一个物体";
+GTCAttCommandsHeader.GTCAttPaintHdr.ShortHelp	= "涂抹 包装";
+GTCAttCommandsHeader.GTCAttPaintHdr.LongHelp	= "将类型是当前包装或其属包装的属性包装从一个物体拷贝到另一个物体";
+
+//== Synchronize Attributes ==
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.Title		= "使属性同步";
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.Help	    = "使产品/部件中的属性和字典同步";
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.ShortHelp	= "使属性同步";
+GTCAttCommandsHeader.GTCAttSyncClassInstHdr.LongHelp	= "使产品/部件中的属性和修改后的字典同步";
+
+//== Export Dictionary ==
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.Title		= "输出字典 ...";
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.Help	    = "输出字典XML格式字典";
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.ShortHelp	= "输出字典";
+GTCAttCommandsHeader.GTCAttDicoExportCmdHdr.LongHelp	= "输出字典XML格式字典";
+
+//== Edit Dictionary ==
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.Title		= "编辑字典 ...";
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.Help	    = "用XML文件编辑字典";
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.ShortHelp	= "编辑字典";
+GTCAttCommandsHeader.GTCAttDicoEditCmdHdr.LongHelp	= "用XML文件编辑字典";
+
+//== New Dictionary ==
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.Title		= "生成新字典...";
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.Help	    = "用XML文件生成新字典";
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.ShortHelp	= "生成新字典";
+GTCAttCommandsHeader.GTCAttDicoImportCmdHdr.LongHelp	= "用XML文件生成新字典";
+
+
+//===================================================
+// GROUPS
+//===================================================
+
+//== add group ==
+GTCAttCommandsHeader.GTCAttAddGroupHdr.Title		= "组 ...";
+GTCAttCommandsHeader.GTCAttAddGroupHdr.Help			= "插入一个新组";
+GTCAttCommandsHeader.GTCAttAddGroupHdr.ShortHelp	= "组";
+GTCAttCommandsHeader.GTCAttAddGroupHdr.LongHelp		= "插入一个当前类的组到根层产品 或者到当前的活性组如果当前的活性组存在的话";
+
+//== add excel data sheet ==
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.Title		= "Excel 数据单...";
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.Help		= "插入一个新的互动的Excel数据单";
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.ShortHelp	= "Excel 数据单";
+GTCAttCommandsHeader.GTCAttAddExcelDataSheetHdr.LongHelp	= "插入一个新的互动的Excel数据单";
+
+
+
+// == set current dictionary ==
+//GTCAttCommandsHeader.GTCAttSelectPackageHdr.Title              = "设置当前字典...";
+//GTCAttCommandsHeader.GTCAttSelectPackageHdr.Help               = "设置当前字典";
+//GTCAttCommandsHeader.GTCAttSelectPackageHdr.ShortHelp          = "设置当前字典";
+//GTCAttCommandsHeader.GTCAttSelectPackageHdr.LongHelp           = "设置当前字典";
+
+// == SetPackage ==
+//GTCAttCommandsHeader.GTCAttSetPackageHdr.Title              = "设置当前包装...";
+//GTCAttCommandsHeader.GTCAttSetPackageHdr.Help               = "设置当前包装";
+//GTCAttCommandsHeader.GTCAttSetPackageHdr.ShortHelp          = "设置当前包装";
+//GTCAttCommandsHeader.GTCAttSetPackageHdr.LongHelp           = "设置当前包装";
+
+//===================================================
+// sort filter (sorted view)
+//===================================================
+
+//== add sorted view ==
+GTCAttCommandsHeader.GTCAttSortedViewHdr.Title		= "排序视图...";
+GTCAttCommandsHeader.GTCAttSortedViewHdr.Help		= "插入一个排序视图";
+GTCAttCommandsHeader.GTCAttSortedViewHdr.ShortHelp	= "排序视图";
+GTCAttCommandsHeader.GTCAttSortedViewHdr.LongHelp	= "从xml定义创建一个排序视图";
+
+//== update sorted view == 
+GTCAttCommandsHeader.GTCAttSortFilterUpdateHdr.Title		= "更新排序视图";
+GTCAttCommandsHeader.GTCAttSortFilterUpdateHdr.Help			= "更新排序视图";
+GTCAttCommandsHeader.GTCAttSortFilterUpdateHdr.ShortHelp	= "更新排序视图";
+GTCAttCommandsHeader.GTCAttSortFilterUpdateHdr.LongHelp		= "更新排序视图";

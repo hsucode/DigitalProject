@@ -1,0 +1,11 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+frameFather.labelLocation.Title = "Location: ";
+frameFather.labelParent.Title = "Reference: ";
+frameFather.labelLabel.Title = "Label: ";
+frameFather.labelEval.Title = "Evaluator: ";
+frameFather.labelDwgGenType.Title = "Drawing Style: ";
+frameFather.btnRefreshListDwgTypes.ShortHelp = "Refresh the list from GVS";
+frameFather.btnRefreshListDwgTypes.LongHelp = "Refresh the list from GVS";
+frameFather.labelEval.ShortHelp = "Insert Datasheet keywords in <> to evaluate. Ex:  \n Name: <FeatureName>\n<Member.Section>";
+frameFather.labelEval.LongHelp = "Insert Datasheet keywords in <> to evaluate. Ex:  \n Name: <FeatureName>\n<Member.Section>";

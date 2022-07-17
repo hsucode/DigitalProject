@@ -1,0 +1,7 @@
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+GTCDprDrawingGenerationWkb.Title = "绘图生成";
+GTCDprDrawingGenerationWkb.Help       = "绘图生成";
+GTCDprDrawingGenerationWkb.ShortHelp  = "绘图生成";
+GTCDprDrawingGenerationWkb.LongHelp   = "绘图生成";

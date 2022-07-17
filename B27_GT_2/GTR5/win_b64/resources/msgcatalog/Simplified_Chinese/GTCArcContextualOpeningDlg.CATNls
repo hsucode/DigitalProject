@@ -1,0 +1,18 @@
+
+NewTitle = " 新轮廓开口";
+EditTitle = " 编辑轮廓开口 ";
+
+frameParent.frameElement.labelName.Title = " 名称 ";
+
+frameParent.frameElement.labelElementLayer.Title = " 层 ";
+frameParent.frameElement.labelElement.Title = " 元素 ";
+
+frameParent.frameOutputs.Title = " 输出 ";
+frameParent.frameOutputs.chkBtnPanel.Title = " 控制板 ";
+frameParent.frameOutputs.chkBtnWire.Title = " 线 ";
+
+ButtonMore = " 部分的 ";
+ButtonLess = " 完全的 ";
+
+frameMore.labelFromLim.Title = " 从 ";
+frameMore.labelToLim.Title = " 至 ";

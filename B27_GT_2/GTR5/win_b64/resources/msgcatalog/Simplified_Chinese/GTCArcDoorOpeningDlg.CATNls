@@ -1,0 +1,39 @@
+
+NewTitleDoor = " New Door Opening ";
+EditTitleDoor = " Edit Door Opening ";
+NewTitleWindow = " New Window Opening at Elevation ";
+EditTitleWindow = " Edit Window Opening at Elevation ";
+
+
+frameParent.frameWall.labelName.Title = " Name   ";
+
+frameParent.frameWall.labelWallLayer.Title = " Layer ";
+frameParent.frameWall.labelWall.Title = " Wall   ";
+
+frameParent.framePlacement.Title = " Placement ";
+frameParent.framePlacement.labelPlaceReference.Title = " Reference ";
+frameParent.framePlacement.labelPlaceElevation.Title = " Elevation ";
+
+frameParent.frameStyle.GTCArcCatalogFrame.labelCatalog.Title = "Catalog";
+frameParent.frameStyle.GTCArcCatalogFrame.labelSection.Title = "Section";
+
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.ShortHelp = "Select an existing style interactively or choose from Catalog Browser";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.Help = "Select an existing style interactively or choose from Catalog Browser";
+frameParent.frameStyle.GTCArcCatalogFrame.selListDoor.LongHelp = "Select an existing style interactively or choose from Catalog Browser. Style selection is enabled after Placement Reference is specified";
+
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.Title = "...";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.ShortHelp = "Launches Catalog Browser";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.Help = "Launches Catalog Browser";
+frameParent.frameStyle.GTCArcCatalogFrame.buttonCatalogBrowse.LongHelp = "Catalog Browser for style selection is enabled after Placement Reference is specified";
+
+frameParent.frameStyle.labelOpenRatio.Title = " Open Ratio  ";
+
+frameParent.frameStyle.pushBttnFillAttsMore.Title = "More...";
+
+frameParent.frameStyle.Title = " Style ";
+
+
+
+
+GTCArcSill = "Sill";
+GTCArcOpening = "Opening";

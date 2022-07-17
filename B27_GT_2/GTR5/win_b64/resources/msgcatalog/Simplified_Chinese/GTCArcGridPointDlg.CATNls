@@ -1,0 +1,10 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+LabelReference.Title = "Reference Point ";
+EditorReference.Help = "Reference Point";
+EditorReference.ShortHelp = "Reference Point";
+EditorReference.LongHelp = "Reference Point";
+LabelName.Title = "Intersection Name ";
+EditorName.Help = "Intersection Name\nIntersection Name";
+EditorName.ShortHelp = "Intersection Name\nIntersection Name";
+EditorName.LongHelp = "\nIntersection Name";
+// END WIZARD REPLACEMENT ZONE

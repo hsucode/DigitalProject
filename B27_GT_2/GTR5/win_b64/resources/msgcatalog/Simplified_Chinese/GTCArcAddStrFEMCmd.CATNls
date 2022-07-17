@@ -1,0 +1,4 @@
+// DO NOT EDIT :: THE CAA WIZARD WILL REPLACE ALL THE CODE HERE
+// END CAA WIZARD REPLACEMENT ZONE
+Title = "Generate FEM polygon";
+GTCArcAddStrFEMCmd.InitState.Message="Select architectural elements, curves or surfaces.";

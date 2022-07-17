@@ -1,0 +1,8 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Quick Filter ...";
+cont.tabContParent.tabPageArchitecture.showButton.Title = "Show All";
+cont.tabContParent.tabPageArchitecture.hideButton.Title = "Hide All";
+
+cont.tabContParent.tabPageGeneral.showButton.Title = "Show All";
+cont.tabContParent.tabPageGeneral.hideButton.Title = "Hide All";
+// END WIZARD REPLACEMENT ZONE

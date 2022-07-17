@@ -1,0 +1,47 @@
+// Marketing solutions
+//------------------------
+
+//Infrastructure.Title = "基础结构";
+Infrastructure.Title = "项目中心";
+
+//MechanicalDesign.Title = "机械设计";
+MechanicalDesign.Title = "工程";
+
+Shape.Title = "形状";
+AnalysisSimulation.Title = "分析与仿真";
+AECPlant.Title = "AEC 工厂";
+ProcessPlanning.Title = "流程规划";
+
+//Equipments.Title = "设备与系统";
+Equipments.Title = "项目标准";
+
+NCManufacturing.Title = "加工";
+NCManufacturing.Title = "描画";
+
+DMUNavigator.Title = "数字模型";
+DPManufacturing.Title = "加工的数字流程";
+VNC.Title = "加工模拟";
+Inspection.Title = "检查";
+DenebInfrastructure.Title = "DELMIA 基础结构";
+IGRIP.Title = "IGRIP";
+Safework.Title = "人机工程学设计与分析";
+AECShipBuilding.Title = "造船";
+LMSEngineeringViewer.Title = "桌面";
+LMSNoiseAndVibration.Title = "噪声与振动";
+LMSMotion.Title = "动作";
+LMSGeometry.Title = "几何图形";
+LMSDurability.Title = "持久性";
+LMSAcoustics.Title = "声学";
+LMSOptimization.Title = "优化";
+LMSMeshing.Title = "建模";
+LMSCrash.Title = "崩溃";
+LMSOccupantSafety.Title = "占有者安全";
+
+//Knowledge.Title = "智件";
+Knowledge.Title = "知识工程";
+
+ENOVIAV5VPM.Title = "ENOVIA V5 VPM";
+LogicControlModeling.Title = "逻辑控制建模";
+
+//StudentTitle = "用于学生";
+StudentTitle = "(学生版)";
